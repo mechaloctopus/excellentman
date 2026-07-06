@@ -1,0 +1,19 @@
+{
+  "name": "excellentman",
+  "version": "1.0.0",
+  "description": "The Excellent Man — A Manual of Character, Conduct, Love & Sovereignty, by Josh Trembath. Static web-book site source.",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mechaloctopus/excellentman.git"
+  },
+  "author": "Josh Trembath",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "marked": "^18.0.0"
+  },
+  "homepage": "https://github.com/mechaloctopus/excellentman#readme"
+}
