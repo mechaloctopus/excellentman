@@ -1,7 +1,7 @@
 {
   "name": "excellentman",
   "version": "1.0.0",
-  "description": "The Excellent Man — A Manual of Character, Conduct, Love & Sovereignty, by Josh Trembath. Static web-book site source.",
+  "description": "Manual of the Excellent Gentleman — A Beginner's Guide to Etiquette, by Josh Trembath. Static web-book site source.",
   "private": true,
   "scripts": {
     "build": "node scripts/build.mjs"

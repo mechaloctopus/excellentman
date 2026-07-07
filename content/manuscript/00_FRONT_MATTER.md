@@ -3,9 +3,9 @@
 
 
 
-# THE EXCELLENT MAN
+# MANUAL OF THE EXCELLENT GENTLEMAN
 
-### A Manual of Character, Conduct, Love & Sovereignty
+### A Beginner's Guide to Etiquette
 
 &nbsp;
 

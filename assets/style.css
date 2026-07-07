@@ -488,11 +488,21 @@ blockquote:not(.epigraph blockquote) {
 }
 .hero-title {
   font-family: "Fraunces", serif;
-  font-weight: 600;
-  font-size: clamp(3rem, 12vw, 5.5rem);
-  line-height: 0.98;
+  font-weight: 500;
+  font-size: clamp(1.6rem, 5vw, 2.3rem);
+  line-height: 1.2;
   margin: 0 0 1.4rem;
+  letter-spacing: 0.01em;
+  color: var(--ink-soft);
+}
+.hero-title-emphasis {
+  display: block;
+  font-weight: 600;
+  font-size: clamp(2.6rem, 8vw, 4.2rem);
+  line-height: 1.08;
   letter-spacing: -0.01em;
+  color: var(--ink);
+  margin-top: 0.2rem;
 }
 .hero-author {
   font-size: 1rem;

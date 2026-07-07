@@ -1,6 +1,6 @@
-# The Excellent Man
+# Manual of the Excellent Gentleman
 
-*A Manual of Character, Conduct, Love & Sovereignty* — by Josh Trembath.
+*A Beginner's Guide to Etiquette* — by Josh Trembath.
 
 A static web-book: nine Books, fifty-two chapters, one architecture (Mind,
 Word, Body, Company, Companion, World, Guardian, Service, Crown), plus a
@@ -26,6 +26,16 @@ step. To regenerate after editing the manuscript or the templates:
 npm install
 npm run build
 ```
+
+## Publishing via GitHub Pages
+
+The site is plain static HTML at the repo root, so no build step is needed
+on GitHub's side. One-time setup: **Settings → Pages → Build and
+deployment → Source: "Deploy from a branch"**, branch `main`, folder
+`/ (root)`, then Save. GitHub will publish at
+`https://mechaloctopus.github.io/excellentman/`. A `.nojekyll` file is
+included so Pages serves the files as-is instead of running them through
+Jekyll.
 
 ## Design
 

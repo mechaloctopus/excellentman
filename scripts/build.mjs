@@ -193,7 +193,8 @@ for (let i = 0; i < flow.length; i++) {
 
 // --- Templates -------------------------------------------------------------
 
-const SITE_TITLE = 'The Excellent Man';
+const SITE_TITLE = 'Manual of the Excellent Gentleman';
+const SITE_SUBTITLE = "A Beginner's Guide to Etiquette";
 
 function layout({ title, description, bodyClass, content, isRead }) {
   const assetPrefix = isRead ? '../' : '';
@@ -235,7 +236,7 @@ function sidebarNav(activeSlug) {
 
   return `<nav class="sidebar" id="sidebar" aria-label="Table of contents">
     <div class="sidebar-head">
-      <a href="${isReadContext ? '../' : ''}index.html" class="sidebar-title">The Excellent Man</a>
+      <a href="${isReadContext ? '../' : ''}index.html" class="sidebar-title">${SITE_TITLE}</a>
       <button class="sidebar-close" id="sidebarClose" aria-label="Close menu">&times;</button>
     </div>
     <ul class="nav-flat">
@@ -295,7 +296,7 @@ function chapterPage(c, flowItem) {
   </main>`;
   return layout({
     title: `Chapter ${c.num} — ${c.title}`,
-    description: `${c.title} — Chapter ${c.num} of The Excellent Man, a manual of character, conduct, love and sovereignty.`,
+    description: `${c.title} — Chapter ${c.num} of ${SITE_TITLE}, ${SITE_SUBTITLE.toLowerCase()}.`,
     bodyClass: 'read-page',
     content,
     isRead: true,
@@ -309,7 +310,7 @@ function prefacePage(flowItem) {
   <div class="scrim" id="scrim"></div>
   <main class="reader">
     <article class="chapter front-matter">
-      <p class="kicker">The Excellent Man</p>
+      <p class="kicker">${SITE_TITLE}</p>
       <h1 class="chapter-title">Preface</h1>
       <h2 class="front-subhead">A Note on the Title</h2>
       <div class="chapter-body">${noteOnTitleHtml}</div>
@@ -320,7 +321,7 @@ function prefacePage(flowItem) {
   </main>`;
   return layout({
     title: 'Preface',
-    description: 'A note on the title, and the preface to The Excellent Man.',
+    description: `A note on the title, and the preface to ${SITE_TITLE}.`,
     bodyClass: 'read-page',
     content,
     isRead: true,
@@ -343,7 +344,7 @@ function appendixPage(flowItem) {
   </main>`;
   return layout({
     title: 'Appendix A — The One-Page Code',
-    description: 'The Excellent Man, distilled to one page: the whole manual in fourteen lines.',
+    description: `${SITE_TITLE}, distilled to one page: the whole manual in fourteen lines.`,
     bodyClass: 'read-page',
     content,
     isRead: true,
@@ -363,13 +364,13 @@ function indexPage() {
     </div>`;
   }).join('\n');
 
-  const content = `${topbar('The Excellent Man')}
+  const content = `${topbar(SITE_TITLE)}
   ${sidebarNav(null)}
   <div class="scrim" id="scrim"></div>
   <main class="cover">
     <section class="hero">
-      <p class="hero-kicker">A Manual of Character, Conduct, Love &amp; Sovereignty</p>
-      <h1 class="hero-title">The<br>Excellent<br>Man</h1>
+      <p class="hero-kicker">${SITE_SUBTITLE}</p>
+      <h1 class="hero-title">Manual of the<br><span class="hero-title-emphasis">Excellent Gentleman</span></h1>
       <p class="hero-author">by Josh Trembath</p>
       <figure class="epigraph hero-epigraph">
         <blockquote>${inline(openingEpigraph.quote)}</blockquote>
@@ -405,12 +406,12 @@ function indexPage() {
     </section>
   </main>
   <footer class="site-footer">
-    <p>The Excellent Man &middot; by Josh Trembath</p>
+    <p>${SITE_TITLE} &middot; by Josh Trembath</p>
   </footer>`;
 
   return layout({
-    title: 'The Excellent Man',
-    description: 'A Manual of Character, Conduct, Love & Sovereignty — by Josh Trembath. Nine Books, fifty-two chapters, one architecture.',
+    title: SITE_TITLE,
+    description: `${SITE_SUBTITLE} — by Josh Trembath. Nine Books, fifty-two chapters, one architecture.`,
     bodyClass: 'cover-page',
     content,
     isRead: false,
