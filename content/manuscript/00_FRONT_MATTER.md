@@ -3,9 +3,9 @@
 
 
 
-# MANUAL OF THE EXCELLENT GENTLEMAN
+# THE EXCELLENT GENTLEMAN
 
-### A Beginner's Guide to Etiquette
+### A Manual of Character, Conduct, Love & Sovereignty
 
 &nbsp;
 
@@ -29,9 +29,9 @@
 
 ## A Note on the Title
 
-This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapurisa Dīpanī), the classic short text by the Burmese meditation master Ledi Sayadaw, still read in Vipassana centers around the world. In the Pāli tradition, the *uttamapurisa* — the "excellent person" — is simply one perfected in character. This book is a modern, secular descendant of that lineage: encyclopedic where the original is spare, drawing on Bond and butlers and bodhisattvas rather than solely on the Pāli canon, but built on the same conviction — that excellence of character is a real, learnable, and daily thing.
+This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapurisa Dīpanī), the classic short text by the Burmese meditation master Ledi Sayadaw, still read in Vipassana centers around the world. In the Pāli tradition, the *uttamapurisa* — the "excellent person" — is simply one perfected in character. *Gentleman* is this book's own translation of that word for its own century: not a class marker, but the old English sense the term has almost lost — a man whose strength has been placed gently, deliberately, at the service of everyone around him. This book is a modern, secular descendant of Ledi Sayadaw's lineage: encyclopedic where the original is spare, drawing on Bond and butlers and bodhisattvas rather than solely on the Pāli canon, but built on the same conviction — that excellence of character is a real, learnable, and daily thing.
 
-"Man," throughout, is used in its old and larger sense: the human being. The archetypes on this book's cover — the spy, the butler, the warrior-monk, the king — are costumes for a single underlying project that belongs to anyone who wants it. Book V, on courtship, is written from a man's vantage point because a manual of conduct must be written from *some* vantage point to be concrete rather than vague — but its ethic, of two sovereigns meeting in mutual respect, was never gendered, and neither is anything else in these pages.
+This manual is written specifically for men, and does not pretend otherwise. It draws on traditions of masculine formation — chivalry, the martial arts, the courts and codes of conduct between men and women — that were built by and for men, and its courtship chapters in particular are written from a man's vantage point because a manual of conduct must be written from *some* vantage point to be concrete rather than vague. But the underlying conviction beneath every archetype on this book's cover — the spy, the butler, the warrior-monk, the king — is not exclusive to men by nature, only by this book's address: character, service, and sovereignty are available to anyone willing to do the work described here, whatever their address might have been.
 
 ---
 
@@ -92,12 +92,12 @@ This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapuris
 
 ### Book VII — The Guardian
 41. Avoiding the Fight
-42. Foundations of Kung Fu
-43. Foundations of Aikido
-44. The Protector
+42. The Guardian's Body
+43. The Protector
 
 ### Book VIII — The Service
-45. The Butler's Discipline
+44. The Butler's Discipline
+45. Discretion & the Kept Confidence
 46. The Bond Standard
 
 ### Book IX — The Crown
@@ -107,6 +107,7 @@ This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapuris
 50. The Sleeper King *(closes the book)*
 
 **Appendix A — The One-Page Code**
+**Appendix B — The Eternal Student's Reading List**
 
 ---
 
@@ -116,7 +117,7 @@ Every chapter of this book ends with a Practice and a single line — a distilla
 
 The architecture ascends on purpose: Mind, Word, Body, Company, Companion, World, Guardian, Service, Crown. Each Book assumes the ones before it. A man who has not built the composure of Book I will find the difficult conversations of Book II harder than they need to be; a man who has not built the self-honesty of Chapter 7 will find the courtship chapters of Book V harder still. Read in order, at least the first time.
 
-The book opens and closes with the same figure, seen from two angles. Chapter 1 tells the story of a monkey king who becomes a bridge for his people and asks nothing back. Chapter 52 tells you what he knew that made it possible. Everything in between — fifty chapters on hygiene and toasts and tequila and kung fu and philosopher kings — is the training that gets an ordinary reader from one end of that arc to the other, a little at a time, one week's practice after the next.
+The book opens and closes with the same figure, seen from two angles. Chapter 1 tells three stories of a monkey king who becomes a bridge for his people and asks nothing back. Chapter 50 tells you what he knew that made it possible. Everything in between — chapters on hygiene and toasts and courtship and kung fu and philosopher kings — is the training that gets an ordinary reader from one end of that arc to the other, a little at a time, one week's practice after the next.
 
 There is no ceremony required to begin. Turn the page.
 

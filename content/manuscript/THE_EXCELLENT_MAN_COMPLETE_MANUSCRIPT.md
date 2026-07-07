@@ -1,6 +1,6 @@
-# MANUAL OF THE EXCELLENT GENTLEMAN
+# THE EXCELLENT GENTLEMAN
 
-### A Beginner's Guide to Etiquette
+### A Manual of Character, Conduct, Love & Sovereignty
 
 &nbsp;
 
@@ -24,9 +24,9 @@
 
 ## A Note on the Title
 
-This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapurisa Dīpanī), the classic short text by the Burmese meditation master Ledi Sayadaw, still read in Vipassana centers around the world. In the Pāli tradition, the *uttamapurisa* — the "excellent person" — is simply one perfected in character. This book is a modern, secular descendant of that lineage: encyclopedic where the original is spare, drawing on Bond and butlers and bodhisattvas rather than solely on the Pāli canon, but built on the same conviction — that excellence of character is a real, learnable, and daily thing.
+This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapurisa Dīpanī), the classic short text by the Burmese meditation master Ledi Sayadaw, still read in Vipassana centers around the world. In the Pāli tradition, the *uttamapurisa* — the "excellent person" — is simply one perfected in character. *Gentleman* is this book's own translation of that word for its own century: not a class marker, but the old English sense the term has almost lost — a man whose strength has been placed gently, deliberately, at the service of everyone around him. This book is a modern, secular descendant of Ledi Sayadaw's lineage: encyclopedic where the original is spare, drawing on Bond and butlers and bodhisattvas rather than solely on the Pāli canon, but built on the same conviction — that excellence of character is a real, learnable, and daily thing.
 
-"Man," throughout, is used in its old and larger sense: the human being. The archetypes on this book's cover — the spy, the butler, the warrior-monk, the king — are costumes for a single underlying project that belongs to anyone who wants it. Book V, on courtship, is written from a man's vantage point because a manual of conduct must be written from *some* vantage point to be concrete rather than vague — but its ethic, of two sovereigns meeting in mutual respect, was never gendered, and neither is anything else in these pages.
+This manual is written specifically for men, and does not pretend otherwise. It draws on traditions of masculine formation — chivalry, the martial arts, the courts and codes of conduct between men and women — that were built by and for men, and its courtship chapters in particular are written from a man's vantage point because a manual of conduct must be written from *some* vantage point to be concrete rather than vague. But the underlying conviction beneath every archetype on this book's cover — the spy, the butler, the warrior-monk, the king — is not exclusive to men by nature, only by this book's address: character, service, and sovereignty are available to anyone willing to do the work described here, whatever their address might have been.
 
 ---
 
@@ -87,12 +87,12 @@ This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapuris
 
 ### Book VII — The Guardian
 41. Avoiding the Fight
-42. Foundations of Kung Fu
-43. Foundations of Aikido
-44. The Protector
+42. The Guardian's Body
+43. The Protector
 
 ### Book VIII — The Service
-45. The Butler's Discipline
+44. The Butler's Discipline
+45. Discretion & the Kept Confidence
 46. The Bond Standard
 
 ### Book IX — The Crown
@@ -102,6 +102,7 @@ This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapuris
 50. The Sleeper King *(closes the book)*
 
 **Appendix A — The One-Page Code**
+**Appendix B — The Eternal Student's Reading List**
 
 ---
 
@@ -111,7 +112,7 @@ Every chapter of this book ends with a Practice and a single line — a distilla
 
 The architecture ascends on purpose: Mind, Word, Body, Company, Companion, World, Guardian, Service, Crown. Each Book assumes the ones before it. A man who has not built the composure of Book I will find the difficult conversations of Book II harder than they need to be; a man who has not built the self-honesty of Chapter 7 will find the courtship chapters of Book V harder still. Read in order, at least the first time.
 
-The book opens and closes with the same figure, seen from two angles. Chapter 1 tells the story of a monkey king who becomes a bridge for his people and asks nothing back. Chapter 52 tells you what he knew that made it possible. Everything in between — fifty chapters on hygiene and toasts and tequila and kung fu and philosopher kings — is the training that gets an ordinary reader from one end of that arc to the other, a little at a time, one week's practice after the next.
+The book opens and closes with the same figure, seen from two angles. Chapter 1 tells three stories of a monkey king who becomes a bridge for his people and asks nothing back. Chapter 50 tells you what he knew that made it possible. Everything in between — chapters on hygiene and toasts and courtship and kung fu and philosopher kings — is the training that gets an ordinary reader from one end of that arc to the other, a little at a time, one week's practice after the next.
 
 There is no ceremony required to begin. Turn the page.
 
@@ -325,7 +326,7 @@ The tradition did not leave the ideal as poetry; it engineered a training method
 
 Now connect this to the archetypes on this book's cover, because the connection is not decorative.
 
-What makes the great butler great — what will occupy us fully in Chapter 45 — is *anticipation*: needs met before they are voiced. That skill has a prerequisite the training manuals rarely name: the butler's attention must live outside himself. A self-absorbed man cannot anticipate anyone; his radar points inward. The perfect servant is running, in secular dress, a bodhisattva's attention — scanning the room not for threats to his ego but for opportunities to be the bridge. That is why this book keeps insisting that service is strength: attention turned fully outward is simultaneously the most useful and the most invulnerable stance a human being can take. Useful, because you see everything. Invulnerable, because the self that could be insulted is off-duty.
+What makes the great butler great — what will occupy us fully in Chapter 44 — is *anticipation*: needs met before they are voiced. That skill has a prerequisite the training manuals rarely name: the butler's attention must live outside himself. A self-absorbed man cannot anticipate anyone; his radar points inward. The perfect servant is running, in secular dress, a bodhisattva's attention — scanning the room not for threats to his ego but for opportunities to be the bridge. That is why this book keeps insisting that service is strength: attention turned fully outward is simultaneously the most useful and the most invulnerable stance a human being can take. Useful, because you see everything. Invulnerable, because the self that could be insulted is off-duty.
 
 And notice what happens to the Law of Return at this altitude. The fair trader gives and watches for the harvest. The bodhisattva gives and *is* the harvest — the giving itself has become the reward, which means he is being paid continuously, in the only currency that never inflates. He has not escaped the law. He has become its favorite customer: sowing all day, every day, with both hands, delighted, keeping no books. Guess what his fields look like in twenty years.
 
@@ -399,7 +400,7 @@ And with real power in hand, one more law activates — a law with enough conseq
 
 ### V. The Practice
 
-**This week: one sealed leak per day.** Monday, self-report: accomplish something notable and tell no one, ever. Tuesday, reaction: take one provocation with a two-second pause and a level reply. Wednesday, justification: decline something with one polite sentence and no explanation. Thursday, hurry: walk everywhere at three-quarter speed and feel what it does to your mind. Friday, volume: speak 30 percent less in every conversation and watch what fills the space. Keep notes. You are mapping where your power has been leaking out — and what the room does when it stops.
+Spend this week sealing the five leaks, one at a time, and keep a private note on each. Accomplish something notable and tell no one, ever — that is self-report, sealed. Meet one provocation with the two-second pause and a level reply — that is reaction, sealed. Decline something with a single polite sentence and no explanation offered — justification, sealed. Walk everywhere at three-quarter speed for a day and feel what it does to your mind — hurry, sealed. Speak thirty percent less in every conversation you have and watch what fills the space — volume, sealed. You are mapping where your power has been leaking out, one valve at a time, and what the room does when it stops.
 
 ### The Line
 
@@ -503,15 +504,21 @@ Of all the states that break composure, anger deserves its own treatment, becaus
 
 Understand anger's actual function: it is *information plus fuel*. The information: something I value is threatened or a boundary has been crossed. The fuel: energy delivered to do something about it. Both are legitimate — this book will never tell you anger is beneath you, because a man who cannot feel anger cannot guard anything, and Book VII will call on this very fire.
 
-The failure is not the anger. The failure is letting the anger *write the response* — because anger is a brilliant alarm and an idiot strategist. It has exactly one plan (attack, now, with everything) and no concept of the amplifier principle, the long game, or tomorrow morning. Marcus Aurelius, a man commanding actual armies, wrote to himself again and again on this point: the harm of the provocation is almost always smaller than the harm of the enraged reply. Or in the proverb this book quoted at the head of a later chapter: a city whose walls are broken is exactly what a man without rule over his own spirit becomes — open to any invader, at any hour.
+The failure is not the anger. The failure is letting the anger *write the response* — because anger is a brilliant alarm and an idiot strategist. It has exactly one plan (attack, now, with everything) and no concept of the amplifier principle, the long game, or tomorrow morning. Marcus Aurelius, a man commanding actual armies, wrote to himself again and again on this point: the harm of the provocation is almost always smaller than the harm of the enraged reply. Or in the old proverb: a city whose walls are broken is exactly what a man without rule over his own spirit becomes — open to any invader, at any hour.
 
 The trained sequence, then: **feel it fully, read the information, dismiss the strategist, choose the response cold.** In practice — the surge hits; you go to the breath (long exhale, three cycles) and the posture (tall, slow); you name it silently — *anger, boundary, here's what it's guarding* — and then you respond from the part of you that stayed on the throne. The response may still be forceful; composed men are not pushovers, and Chapter 13's difficult conversations and Chapter 41's de-escalations are full of steel. But it will be *aimed* force — chosen wattage, chosen target, chosen moment — and that is the entire difference between a man with power and a man his power has.
 
 And the deepest layer, from the Stoics, to install as permanent equipment: between what happens and what it means to you, there is a judgment, and the judgment is yours. "He insulted me" is an event plus a verdict, and the verdict was optional. Epictetus — born a slave, master of himself — put it plainly: it is not things that disturb us, but our opinions about things. The composed man is not suppressing his reactions to a threatening world. He has revised his *rulings* about what gets to count as a threat, and most of it, on honest review, does not. This is why true equanimity looks so effortless from outside: most of the battle has been won upstream, in the courtroom nobody sees.
 
-### IV. The Practice
+### IV. When the Weather Doesn't Pass
 
-**This week: train under load, on purpose.** Composure practiced only in calm is theory. Three drills. One: end every shower with sixty seconds of cold water, and your only job is to keep the breath long and slow and the face relaxed — this is a laboratory-grade panic signal, and you are drilling the override. Two: in your next genuinely irritating interaction, run the full sequence — breath, posture, silent naming, chosen reply — and grade yourself afterward, coldly, like a coach. Three: once this week, when the surge of anger arrives, write the furious reply somewhere it cannot send, wait until the next morning, and then compose what the man on the throne would actually say. Compare the two drafts. Keep both. That gap is your training log.
+One honest limit on everything above, stated plainly because this manual would rather be useful than merely inspiring: the breath, the posture, and the evening audit are real tools, and they are not medicine. There is an ordinary, passing weather of stress, irritation, and low mood that responds to training exactly as this chapter describes — and there is real depression, real anxiety disorder, real trauma, and real addiction, which do not reliably yield to willpower, better mornings, or a longer exhale, and were never a test of a man's character to begin with. Mistaking the second kind of weather for the first is not a small error; it is the reason men who are otherwise disciplined in every other chapter of this book spend years white-knuckling something a competent professional could have helped them address directly.
+
+The eternal student of Chapter 8 studies everything, including his own mind, and he does not exempt psychology or psychiatry from the study merely because the culture he grew up in taught him that a man handles this alone. Seeking a therapist, a doctor, or a psychiatrist when the weather has stopped passing is not a failure of the composure this chapter trained. It is the composure, correctly applied to a problem that composure alone was never going to solve — the same self-honesty of Chapter 7 that catalogs a man's faults nightly, turned toward his own suffering rather than away from it. There is no line in this manual, anywhere, that asks a man to suffer silently what he could instead treat competently.
+
+### V. The Practice
+
+Composure practiced only in calm is theory, so train it under load this week, deliberately. End every shower with sixty seconds of cold water, and make your only job keeping the breath long and slow and the face relaxed — it is a laboratory-grade panic signal, and you are drilling the override on demand. In your next genuinely irritating interaction, run the full sequence live — breath, posture, silent naming, chosen reply — and grade yourself afterward, coldly, like a coach reviewing footage. And the next time real anger surges, write the furious reply somewhere it cannot send, sit on it until morning, and then compose what the man on the throne would actually say. Keep both drafts. The gap between them is your training log, and it will shrink.
 
 ### The Line
 
@@ -613,7 +620,7 @@ Now to the epigraph, because Bacon's sentence is not a decoration — it is the 
 
 What, then, to study? The specifics are yours — the appetite must be fed what *it* hungers for, or it dies of dutifulness. But the royal curriculum has a shape, old and proven, and here it is as a frame to build within.
 
-**The great conversation** — the classics of wisdom, history, and literature, which are not homework but the actual accumulated best of your species talking to itself across centuries; this book's own source library and Appendix E are a decade of it, pre-assembled. **One craft of the hands** — an instrument, a trade, a kitchen, a garden: something real that pushes back, because a man who works only in words and screens loses calibration with the physical world, and the physical world is where his body, his home, and half this manual live. **One language beyond your own** — for the travel of Book VI, yes, but more for what it does to the instrument itself: every language is a second pair of eyes. **The workings of money, of the body, and of power** — the three subjects on which ignorance is taxed most brutally and most invisibly, and which formal schooling somehow contrives to skip. **And the teaching of others** — the final stage of the triangle and its proof: what you can teach clearly, you know; what you cannot, you don't, and now you know *that*. The eternal student closes his own loop by becoming, wherever he stands, a quiet tutor — which is also, not incidentally, how lineages are founded. But that is Chapter 48's business.
+**The great conversation** — the classics of wisdom, history, and literature, which are not homework but the actual accumulated best of your species talking to itself across centuries; this book's own source library and Appendix B are a decade of it, pre-assembled. **One craft of the hands** — an instrument, a trade, a kitchen, a garden: something real that pushes back, because a man who works only in words and screens loses calibration with the physical world, and the physical world is where his body, his home, and half this manual live. **One language beyond your own** — for the travel of Book VI, yes, but more for what it does to the instrument itself: every language is a second pair of eyes. **The workings of money, of the body, and of power** — the three subjects on which ignorance is taxed most brutally and most invisibly, and which formal schooling somehow contrives to skip. **And the teaching of others** — the final stage of the triangle and its proof: what you can teach clearly, you know; what you cannot, you don't, and now you know *that*. The eternal student closes his own loop by becoming, wherever he stands, a quiet tutor — which is also, not incidentally, how lineages are founded. But that is Chapter 48's business.
 
 One hour a day. Guarded like an appointment with a king — because that is, in the most literal sense this book intends, exactly what it is.
 
@@ -1180,13 +1187,21 @@ This is not a training manual — those exist, and the eternal student will read
 
 Schedule the three by Chapter 9's architecture — fixed days, chained triggers, decided once — and hold them by its laws: *never twice*, and *smaller before zero* (the ten-minute session on the impossible day is not a compromise; it is the identity vote that keeps the practice alive). Total honest cost: five to six hours a week. Against what it funds — every other chapter, for the rest of the life — it is the cheapest purchase in this book.
 
-### III. Sleep and Recovery as Discipline
+### III. What Funds the Body
+
+This is still not a training manual, and it is not a diet book either — the eternal student who wants the science of macronutrients has excellent places to find it. But a standard that trains strength, endurance, and mobility while staying silent on what fuels them is a standard with a hole in its floor, and this book will not leave it there. The excellent man's approach to food runs on the same principle as everything else in this Book: **the minimum effective dose, held daily, outperforms the elaborate program abandoned by spring.**
+
+The floor, briefly: **protein at every meal**, deliberately, because it is the one macronutrient the standard American plate reliably shorts, and because it is what the strength Chapter 19 just asked for is actually built from — a palm-sized portion, roughly, at breakfast, lunch, and dinner, is enough to notice the difference within a month. **Whole food over engineered food**, as the default rather than the exception — the apple over the juice, the plain yogurt over the dessert wearing its wrapper, not from purism but from simple arithmetic: a body fed mostly things that grew or were raised rather than things that were formulated tends, on its own, toward the weight and energy this chapter's training assumes. **Water as the base beverage**, genuinely — most of what men call hunger, fatigue, or a headache by mid-afternoon is thirst wearing a disguise, and the fix costs nothing. And **the ninety percent rule**, which is the whole regimen's actual secret: eat well enough, most of the time, that nothing needs to be forbidden — a man who polices every bite is training anxiety, not health, and the excellent man's relationship to food is the same contained, unfussy competence he brings to a wardrobe or a wine list, not a second job.
+
+One discipline completes it, and it is Chapter 9's again, aimed at the table: **eat on a rhythm, not on impulse.** Meals at roughly regular hours train appetite the way a schedule trains a household — fewer decisions, fewer crises, less of the day spent negotiating with hunger instead of simply meeting it on time.
+
+### IV. Sleep and Recovery as Discipline
 
 And now the half of the physical standard that the ambitious reliably get exactly backward. The culture of achievement treats sleep as the slack in the schedule — the reserve to be raided for one more hour of work, one more episode, one more scroll — and wears the raid as a badge. The excellent man knows the actual accounting: **sleep is not the absence of discipline; it is where the discipline is banked.** Every adaptation this chapter's training provokes is *built* in sleep; every capacity Book I trained is *funded* by it — the composure (a short-slept amygdala is a car alarm), the judgment, the appetite control (the research is unambiguous: the tired man is hungrier, weaker-willed, and worse company, by measurable margins), the very willpower with which tomorrow's disciplines will be attempted. The man who trains hard and sleeps carelessly is filling a bathtub with the drain open, and blaming the faucet.
 
 So the standard treats sleep as the keystone Chapter 9 named it: a *defended appointment* of seven to nine hours — with a fixed wake time as the anchor (the body sets its clocks by the morning), a retreat that begins before the bed (screens dimmed and distanced in the final hour, the bedroom cool, dark, and reserved for its two proper uses), caffeine given a curfew in the early afternoon, and alcohol understood truthfully (Chapter 28 will elaborate: it sedates, which is not sleep, and the trade is visible in the morning's quality). Recovery beyond sleep follows the same logic in smaller coin: the rest day honored as training (it is — the building day), the walk and the stretch on the sore morning, the periodic week taken deliberately easier. None of this is softness. It is *maintenance of the instrument* — and a man who would never redline an engine he respected should extend his own machinery the same professional courtesy.
 
-### IV. The Practice
+### V. The Practice
 
 **This week: establish the floor.** Test yourself honestly against the capability standard, and write the findings in the audit: the stairs at speed, the thirty-minute brisk walk, the floor gotten down to and up from without hands, the heaviest thing in your home carried across it. No shame in any result — Chapter 7 built you an instrument that can record without flinching — but no fog either: a baseline, dated. Then install the minimum dose on the calendar by the Rule: strength twice, endurance base daily, the ten mobility minutes chained to something immovable. And defend the keystone for seven consecutive nights: fixed wake time, screens exiled for the final hour, the full allotment attempted. One week proves nothing except the only thing that matters: what the floor *feels* like. After that, you will know when you are below it.
 
@@ -1228,7 +1243,7 @@ Sitting is standing's neglected sibling and the office man's actual habitat: sit
 
 ### IV. The Practice
 
-**This week: retrain one default per day, then integrate.** Day one, the string: full height at every doorway — every one. Day two, the phone raised, the head unbowed, all day. Day three, the walk: every transit at full height, three-quarter speed, eyes level, and notice what the pace does to your mind (it will argue, then settle). Day four, the entry protocol at every room that matters: threshold, breath, survey, purpose. Day five, stillness under load: one full conversation and one full meeting with hands quiet and knee still — catch the fidgets, release them, return, exactly as on the cushion. Days six and seven, run it all at once, and take the reading Emerson promised: notice — you will — that the world has begun answering a slightly different man.
+Retrain one default at a time this week, then let them merge. Start with the string: full height at every doorway, every one, until it stops needing thought. Add the phone raised to meet your eyes rather than your head bowed to meet it, all day. Add the walk: every transit at full height, three-quarter speed, eyes level — notice the mind arguing with the pace at first, and then settling into it. Add the entry protocol at every room that actually matters: threshold, breath, survey, purpose. And add stillness under load — one full conversation and one full meeting with the hands quiet and the knee still, catching every fidget, releasing it, returning, exactly as on the cushion. By the week's end, run all five at once and take the reading Emerson promised: the world, you will notice, has begun answering a slightly different man.
 
 ### The Line
 
@@ -1543,7 +1558,13 @@ Ecclesiastes gives the chapter its deeper frame: the seasons *turn*, for everyon
 
 **And the smaller marked days** — births (feed the parents, not the baby's wardrobe; the delivered dinner is the perfect newborn gift), graduations and promotions (the letter that says *specifically* what you watched them overcome outlasts every check), retirements, anniversaries, and the milestone birthdays — all run on the chapter's single engine: notice the season turning for someone, and *mark it* — the call on the actual day, the toast raised (Chapter 17's armory stands ready), the presence given. The excellent man keeps the dates the way he keeps names (Chapter 15): as valuables. A calendar with reminders is not unromantic; it is Chapter 9's architecture in the service of love — the ritual doing what memory alone drops.
 
-### III. The Practice
+### III. His Own Grief
+
+Everything above trains a man to attend other people's losses well. It says nothing yet about his own, and the omission would be dishonest in a book this willing to talk about death everywhere else — the monkey king dying in Chapter 1, a funeral's whole etiquette above, Marcus Aurelius rehearsing mortality in a dozen chapters. A man will bury a parent, a friend, sometimes a marriage or a version of his own future he had been quietly counting on, and this manual owes him something more useful than composure alone for that day.
+
+Grief is not a problem Chapter 6's breath and posture are built to solve, and treating it as one is a mistake worth naming directly: composure under grief does not mean feeling nothing; it means not being ashamed of what you feel, and not performing a strength you don't have for an audience that never asked for it. The excellent man grieving does the things this manual has trained him to do in every other hard season — he tells the truth about his state to the people close enough to hold it (Chapter 13's honesty, aimed inward for once), he keeps the keystones running even in reduced form when everything else falls away (Chapter 9's smaller-before-zero, exactly as designed for a season like this one), and he accepts the same competent help he would recommend to anyone else carrying something too heavy to carry alone — a friend, a grief group, a therapist, a priest or rabbi or teacher, whichever the man's own life has equipped him with. None of this is weakness. Grief unprocessed does not vanish; it goes underground and resurfaces later, in the amplifier's currency, as the temper or the distance his own family and friends will eventually have to live inside. The man who grieves honestly, in the open, with help where he needs it, is doing the harder and more excellent thing.
+
+### IV. The Practice
 
 **This week: audit the season and pay one debt.** Open the calendar against your actual circle: what marked days are approaching in the next three months — and which passed recently that you under-attended? Book the approaching ones now, as full yeses, with the logistics that make attendance real. Start the gift note tonight with five entries from memory (they are there — the mentioned wish, the named enthusiasm). And pay the one you owe: the condolence follow-through, the belated congratulations letter, the month-two check-in on the friend whose funeral crowd went home. Somewhere in your circle, a season turned and you half-missed it. The ledger is still open. It nearly always is.
 
@@ -1800,6 +1821,8 @@ Consider what actually distinguishes the moments of deepest intimacy in any love
 
 Which means the entire training of this manual has been, secretly, a preparation for love. The meditation of Chapter 9 — attention returned, ten thousand times, to what is actually here — is the *exact* faculty intimacy runs on. The listening of Chapter 10, the outward-turned attention of Chapter 3, the composure that can stay in intensity without fleeing into performance (Chapter 6): these are not adjacent skills; they are the thing itself, and the tantric traditions knew it — their practices are, at core, *presence disciplines*: slowness against the hurry that skips over experience; breath as the anchor in intensity (the same breath, note, from Chapter 6 — the traditions even share the technology); eyes actually meeting, sustained past the flinch of self-consciousness into actual contact; reverence as the frame — the beloved approached not as terrain or audience but as *presence meeting presence.* The word the tradition would use is worship, and the modern man should not spook at it: it means only this — attention raised to its highest setting, offered as honor. Every particular beyond that belongs to the two sovereigns themselves, governed by the law that has run since Chapter 31 and admits no exceptions at any depth of intimacy: everything invited, enthusiasm the only yes, her comfort sovereign, always. Reverence without consent is not reverence; it is theater. With it, the plainest moment becomes the doorway the tradition promised.
 
+None of the above replaces the plainer competence this manual expects of a man everywhere else: he knows his own sexual health status and keeps it current, he discusses it honestly with a partner before intimacy rather than after, and he treats protection as a shared, unembarrassed given rather than an imposition on the mood. This is not a lesser or more clinical concern standing outside the reverence described above — it is the reverence, extended to a partner's body in the plainest possible terms. A man cannot claim to be offering presence and honor while withholding information that affects someone else's health; the two sovereigns of Chapter 33 owe each other full disclosure here exactly as they owe each other honesty everywhere else.
+
 ### III. Becoming Love
 
 And now the chapter's summit, where tantra, Paul's hymn, and this book's opening chapter turn out to be describing one thing. Erich Fromm's great correction — love is an *art*, a practiced capacity, not a weather event one falls into — points at it. The tantric reframe completes it: love is not finally something you *get* from the beloved, nor even something you *give* to them, but something you **become** — a state of being whose signature is exactly the outward-turned, invoice-free, presence-saturated attention this manual has been training since the monkey king made himself a bridge. Read Paul's hymn again with Book I's eyes: *suffereth long* — equanimity (Chapter 3's fourth room); *is kind* — mettā; *envieth not* — muditā; *seeketh not her own* — the invoice, burned; *is not easily provoked* — Chapter 6 entire. First Corinthians 13 is the four immeasurables in Greek. The traditions converge (Chapter 2's judge would rule the object real) on a single finding: the highest love and the highest character are not two curricula. They are one.
@@ -1846,7 +1869,7 @@ And beneath the whole chapter, the two sovereigns of Chapter 33 remain exactly t
 
 ### III. The Practice
 
-**This week (for the partnered; the courting and single should read it as the destination the standard serves): run the tenure audit.** Four checks, in writing. Courtesy: for three days, extend to her, deliberately, every courtesy you'd show an honored guest — the greeting risen for, the thanks said, the phone dead at the table — and note what returns. Gratitude: one specific, out-loud appreciation daily, to Chapter 14's spec. Repair: identify the account currently open — the unspoken thing, the smoke — and pay it this week with Chapter 13's full architecture, you moving first. And the calendar: the weekly "us" ritual — if it doesn't exist, found it this week, decided once, defended forever. Then the closing question in the audit, answered honestly: *if she could hear my conduct this week described — every tone, every courtesy given or skipped — would she conclude she'd been chosen again today?* Make the answer yes tomorrow. That is the whole chapter, and most of the whole Book.
+If you are partnered, run the tenure audit this week, in writing; if you are courting or single, read it as the destination the whole standard has been serving. Extend to her, for a few days deliberately, every courtesy you would show an honored guest — the greeting risen for, the thanks said, the phone dead at the table — and note what returns. Voice one specific, out-loud appreciation daily, to Chapter 14's spec, rather than trusting her to already know it. Name the account currently open between you — the unspoken thing, the smoke before the fire — and pay it down this week with Chapter 13's full architecture, moving first yourself. And if the weekly "us" ritual doesn't already exist on the calendar, found it now, decided once, to be defended forever after. Then ask the one closing question honestly: if she could hear your conduct this week described — every tone, every courtesy given or skipped — would she conclude she'd been chosen again today? Make the answer yes tomorrow. That is the whole chapter, and most of the whole Book.
 
 ### The Line
 
@@ -1965,7 +1988,15 @@ The canon: **The bill,** split by the standing rules — the inviter hosts (Chap
 
 **Negotiation, as mutual dignity.** The chapter's capstone, because salary talks, big purchases, and deals are where money manners meet contained power. The excellent man's frame: negotiation is not combat but *joint problem-solving between parties who both need to be able to look each other in the eye afterward* — which cashes out as: preparation as the actual advantage (Chapter 49 will enthrone this; here it means knowing the market rate, the alternatives, and your own walk-away number *before* the room); the other side's interests genuinely mapped (the best deals trade what is cheap for you against what is dear to them — discoverable only by Chapter 10's listening); the first-person anchor stated calmly and *silence held after it* (the amateur negotiates against himself in the pause; the trained man lets the pause work); honesty absolute even where candor is optional (bluffs are loans against your name at ruinous interest); and the walk-away executed, when required, with warmth intact — "we couldn't make it work" is a complete sentence, and the man who leaves deals gracefully is the man invited back to better ones. The Law of Return keeps books in every currency. It has never once lost an account.
 
-### III. The Practice
+### III. The Workings of Money
+
+Chapter 8 named "the workings of money" as one of three subjects formal schooling somehow contrives to skip, and this manual will not make the same omission it already diagnosed. Money manners govern how you *behave* around money; this section is the shorter, plainer matter of how money actually *works*, and the excellent man owns both.
+
+The floor, in four moves, none of them clever, all of them decisive over forty years: **know your numbers** — what comes in, what goes out, and the gap between them, tracked at least loosely rather than discovered in arrears each January; **build the buffer first** — three to six months of ordinary expenses, held boring and liquid, before a dollar goes anywhere more interesting, because the buffer is what stands between a bad month and a bad decade; **retire the interest-bearing debt on purpose** — the balance that grows if ignored gets paid down before anything that merely *might* grow gets funded, because a guaranteed loss beats a hoped-for gain every time the arithmetic is run honestly; and **let compounding do the heavy lifting** — a modest sum invested broadly and left alone, decade after decade, has built more quiet fortunes than any hot tip ever will, and the eternal student who wants the fuller education owes himself one honest book on the subject rather than a lifetime of overheard advice.
+
+One more item belongs here precisely because this manual has spent so many chapters on Marcus Aurelius and the daily rehearsal of mortality: **the ordinary paperwork of not being immortal.** A will, however simple; a named beneficiary on the accounts that ask for one; the passwords and instructions somewhere a trusted person can actually find them; the wishes spoken aloud once to the people who would otherwise have to guess them under grief. None of this is morbid. It is Chapter 9's discipline applied to the one deadline every man shares, and it is a kindness performed now, quietly, for people who will have quite enough to carry later without also hunting for the paperwork.
+
+### IV. The Practice
 
 **This week: audit the two ledgers.** The work ledger: list your open commitments and their real status — anything slipping gets the early-warning message *today* (the sentence is uncomfortable for one minute; the alternative compounds); deliver one piece of outward-flowing credit, specifically and publicly; and if a disagreement-upward is owed, draft it to architecture and book the private minutes. The money ledger: settle anything ambiguous in your circle — the vague debt named and scheduled, the "I'll get you back" gotten back, the loan you're owed either re-termed in writing or privately converted to the gift it has already become (and the resentment retired with it); review last month's tips against the standard of a man legible in how he treats those who serve him. Diligent in his business — both businesses. Kings, the proverb says, notice.
 
@@ -1993,7 +2024,7 @@ Pascal wrote the epigraph three and a half centuries before the smartphone, whic
 
 **Anger does not post.** The single highest-yield rule in the chapter. The apparatus is *engineered* for your worst moment — outrage is the highest-engagement emotion, so the feeds are tuned to produce it and the interfaces tuned to harvest it within seconds, before Chapter 6's chemistry can turn. The trained man's counter-architecture: the overnight rule (Chapter 6) applied to anything written in heat — drafted wherever it cannot send, sentenced to morning review, when its author is reliably a different man; the public argument entered only after the one question the medium is designed to prevent — *what could this exchange actually build?* — because the comment-thread debate persuades no one, performs for an audience of the already-decided, and bills you an evening of composure for a return of zero (the excellent man does not refuse all public disagreement — Chapter 13's craft can operate in writing — but he chooses it like a difficult conversation: rarely, deliberately, with a mission, and never with strangers whose entire aim is the provoking); and the correction of *himself* done gracefully when he errs in public — the plain "I got this wrong" post, undefended and un-deleted, which is Chapter 14's complete apology in miniature and roughly as rare online as it is commanding.
 
-**Privacy is a possession — yours and everyone's.** Two duties. Your own: the digital citizen curates what he publishes about his life not from paranoia but from Chapter 4 — the man who broadcasts everything has no interior left, and the interior is where the contained power lives; some victories go untold (Chapter 4's Monday drill was training for this), some of life stays *off the record on purpose*, and the record he does keep he audits occasionally with the recruiter's eye, because the world now reads a man's feed before it reads his face. Others': the photograph of a friend posted without asking, the children broadcast before they can consent to a childhood in public, the private message screenshotted outward, the location shared carelessly, the partner's interior exported for content (Chapter 36 made this covenant; here is its jurisdiction) — every one of these spends someone else's privacy as your currency, and the excellent man simply does not: *he asks before he posts people*, a courtesy so basic and so rare it functions as a signature.
+**Privacy is a possession — yours and everyone's.** Two duties. Your own: the digital citizen curates what he publishes about his life not from paranoia but from Chapter 4 — the man who broadcasts everything has no interior left, and the interior is where the contained power lives; some victories go untold (Chapter 4's sealed self-report was training for this), some of life stays *off the record on purpose*, and the record he does keep he audits occasionally with the recruiter's eye, because the world now reads a man's feed before it reads his face. Others': the photograph of a friend posted without asking, the children broadcast before they can consent to a childhood in public, the private message screenshotted outward, the location shared carelessly, the partner's interior exported for content (Chapter 36 made this covenant; here is its jurisdiction) — every one of these spends someone else's privacy as your currency, and the excellent man simply does not: *he asks before he posts people*, a courtesy so basic and so rare it functions as a signature.
 
 **Presence over documentation.** And the deepest discipline, where Pascal's room returns. The device's most corrosive offer is not any single post but the standing invitation to convert *every lived moment into content about itself* — the dinner photographed before thanked, the concert watched through the recording of it, the sunset framed for strangers while the person beside you goes unseen. The excellent man's rule: **live first; document rarely; never let the record outrank the moment.** The phone stays away in company (Chapter 23 sentenced it; the sentence stands online), the experience gets his actual attention (Chapter 35 called this the whole art of love; it is the whole art of everything), and the feed's chief modern damage — the ambient comparison of your interior life against everyone else's exterior highlight reel, a rigged contest producing predictable misery — is met with the only winning move: playing less. Which returns us to the room. The man who can sit quietly in it — who trained on the cushion (Chapter 9), who can wait without reaching for the rectangle, who is not fleeing his own company at every red light — is not merely resisting an apparatus; he has repossessed the attention it was built to harvest, and everything in this book runs on exactly that reclaimed capital. Pascal, it turns out, was writing a systems manual.
 
@@ -2016,7 +2047,7 @@ Pascal wrote the epigraph three and a half centuries before the smartphone, whic
 
 # THE EXCELLENT MAN
 # BOOK VII — THE GUARDIAN
-### Chapters 41–44
+### Chapters 41–43
 
 ---
 ---
@@ -2069,38 +2100,48 @@ Honesty requires one more paragraph before the practice, because this manual doe
 ---
 ---
 
-## Chapter 42 — Foundations of Kung Fu
+## Chapter 42 — The Guardian's Body
 
 > *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*
 > — Bruce Lee
 
 ---
 
-### I. Training the Instrument, Not the Weapon
+### I. Two Arts, One Argument
 
-This chapter and the next are not a substitute for a teacher — no book can be — but a map of what a beginner is training toward and why, so the first months in an actual school make sense from day one. Finding that school is Chapter 8's eternal student in motion: research two, visit both, and judge them by the standard this chapter will set, not by the trophies in the case.
+This chapter is not a substitute for a teacher — no book can be — but a map of what a beginner is training toward and why, so the first months in an actual school make sense from day one. It does not name a single style, on purpose. There are many honorable ways to train the body for the narrow territory Chapter 41 described, and the excellent man chooses among them by their substance, not their brand name — a striking art (boxing, kickboxing, karate, kung fu, any of them, taught seriously) for the vocabulary of distance and impact, and a grappling or redirection art (aikido, judo, Brazilian jiu-jitsu, wrestling, any of them, taught seriously) for the vocabulary of contact and control. What matters is not which flag hangs on the wall. What matters is whether the fundamentals below are actually being taught, slowly, before anything that looks like fighting.
 
-Bruce Lee's epigraph is quietly the whole of Chapter 9 wearing gloves: mastery is not the accumulation of tricks but the deep, unglamorous repetition of fundamentals until they require no thought — which is precisely how this manual has trained everything else, from the wet shave to the toast. Kung fu is chosen here first among the striking arts because its tradition names the goal outright, in its very name: *gōngfu* means skill acquired through hard work and time, applicable to painting or calligraphy as much as combat. The fight is almost incidental to the discipline. That is the correct order, and a good teacher will insist on it from the first class.
+Bruce Lee's epigraph is quietly the whole of Chapter 9 wearing gloves: mastery is not the accumulation of tricks but the deep, unglamorous repetition of fundamentals until they require no thought — which is precisely how this manual has trained everything else, from the wet shave to the toast. Every serious tradition, whatever it calls itself, agrees that the fight is almost incidental to the discipline. That is the correct order, and a good teacher will insist on it from the first class.
 
-### II. The Fundamentals
+### II. The Striking Fundamentals
 
-**Stance** is the art's whole foundation and the beginner's whole first year: a rooted, low, balanced base — weight settled, knees soft, spine long, Chapter 20's stacked posture lowered toward the ground — because every strike, block, and evasion draws its power from the ground up through a stable frame. A fighter with poor stance is a cannon with no carriage: the technique may be correct and the power will still leak out through the feet. **[DIAGRAM 44-1: horse stance and bow stance, the two foundational bases]** Expect to spend months here before anything looks like fighting. That is not slow progress. That is the actual curriculum, disguised as slow progress.
+**Stance** is any striking art's whole foundation and the beginner's whole first year: a rooted, low, balanced base — weight settled, knees soft, spine long, Chapter 20's stacked posture lowered toward the ground — because every strike, block, and evasion draws its power from the ground up through a stable frame. A fighter with poor stance is a cannon with no carriage: the technique may be correct and the power will still leak out through the feet. Expect to spend months here before anything looks like fighting. That is not slow progress. That is the actual curriculum, disguised as slow progress.
 
 **Guard** is the ready position between stances and techniques — hands up, protecting the centerline, elbows in, chin down — held not tensely but in the relaxed alertness Chapter 6 already trained. A guard clenched from fear tires in a minute and telegraphs its own anxiety to anyone reading it; a guard held from calm readiness holds all night and reveals nothing.
 
 **Footwork** moves the stance without ever losing it: small adjusting steps rather than lunges, weight never fully committed until the technique commits it, always able to retreat, circle, or close on a choice rather than a stumble. Untrained men fight with their feet planted and their upper bodies flailing to compensate. Trained ones fight with their feet first; the hands merely finish what the feet already arranged.
 
-**Strikes and blocks** are the beginner's daily vocabulary: the straight punch driven from the rear hip rather than the shoulder, so that power travels up from the ground through a stable stance rather than originating in a comparatively weak arm; and the basic parries and rising or outward blocks that redirect rather than collide — Chapter 13's blending principle, made physical, meeting force with an angle instead of a wall. **[DIAGRAM 44-2: the four basic blocks — high, low, inside, outside]** These are learned slowly, drilled thousands of times at low intensity before speed or power are added at all. This is Lee's one kick, ten thousand times, and there is no shortcut past it that produces a real skill on the other side.
+**Strikes and blocks** are the beginner's daily vocabulary in any striking tradition: power driven from the hip and ground rather than the shoulder or arm alone, and basic parries and blocks that redirect rather than collide — Chapter 13's blending principle, made physical, meeting force with an angle instead of a wall. These are learned slowly, drilled thousands of times at low intensity before speed or power are added at all. This is Lee's one kick, ten thousand times, and there is no shortcut past it that produces a real skill on the other side.
 
-### III. The Mindset
+### III. The Redirection Fundamentals
 
-The tradition's deeper curriculum is character, and it is not incidental to the physical training — it *is* the physical training, viewed from a different angle. **Discipline**: the daily mat time kept whether or not motivation shows up, Chapter 9's never-twice rule, sweating. **Respect**: the bow to instructor and partner that begins and ends every session, a small ritual acknowledgment that this practice could hurt someone and is entered deliberately, with care, by two people who have agreed to trust each other with something dangerous. **And mastery of self before others**: the entire point of building the stick, per Chapter 4, is that it mostly never leaves the sheath. The practitioner who trains for years and grows calmer, more patient, slower to anger — this is the sign the art has taken. The one who grows more eager to test it in the world has missed the whole curriculum regardless of his belt color, and should not yet be trusted with what he has learned.
+**Falling safely comes first, always,** in every serious grappling tradition, and this ordering is the whole philosophy encoded as a syllabus decision: before a student learns to throw or control anyone, he learns to be thrown or taken down safely, over and over, until the mat holds no fear. A martial art that cannot safely absorb its own techniques is not a martial art; it is an injury generator wearing a uniform.
 
-A note on choosing a school, since the wrong one teaches the wrong lesson entirely: watch how the instructor speaks about using the art outside the school. A teacher who romanticizes street application, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 41's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the punches is teaching what this manual means by kung fu, whatever the style is actually called.
+There is a lesson here that reaches well past the mat, and the manual will not let it pass unremarked: **the capacity to fall safely is the prerequisite for taking any risk at all** — in the dojo, in a courtship (Book V), in a venture that might fail (Book VI). The excellent man practices, deliberately and specifically, the art of landing well, because a man who has never practiced falling avoids everything that might make him fall, and calls the avoidance caution.
 
-### IV. The Practice
+**Blending and control** are the technique underneath every grappling technique: rather than meeting an incoming push, grab, or strike head-on — which is simply a smaller person losing a contest of force against a larger one — the trained man steps off the line of the attack and moves *with* its direction, joining his energy to the attacker's own momentum rather than opposing it, using leverage and structure rather than raw strength to end the exchange. This is Chapter 13's verbal aikido, physicalized exactly, and it is worth the reader's notice that this manual taught the metaphor in Book II before ever explaining where it came from: the principle is one principle, applied identically to words and to wrists. None of it requires the defender to be larger or stronger than the attacker, which is exactly why grappling and redirection arts have historically appealed to practitioners — including, notably, many women — for whom pure strength-against-strength contests offer a worse mathematical starting position.
 
-**This week: find the school and begin the foundation.** Research and visit two martial arts schools within reasonable distance — kung fu specifically if the tradition calls to you, otherwise any reputable striking art, since the character training is the constant across all of them. Attend one trial class and ask the instructor directly how they teach students to avoid fights, not just win them; the answer tells you everything about the school before you ever throw a punch there. And begin tonight, alone in a room, ten minutes: stance and guard only, rooted and relaxed, held until it stops feeling foreign. That is where every practitioner in history, including the masters, actually began — and it is available to you before the first class ever starts.
+The deepest version of this teaching, found at the heart of the gentlest of these traditions, is that the techniques do not need to punish an attacker. They simply decline to fight him on his own terms and return his own force to him in a form that ends the confrontation — the monkey king's bridge again, in a gi: strength placed entirely at the service of resolution, spent grudgingly, and always aimed at the smallest sufficient outcome rather than the most impressive one.
+
+### IV. The Mindset, Whichever Art You Choose
+
+The deeper curriculum, in any serious tradition, is character, and it is not incidental to the physical training — it *is* the physical training, viewed from a different angle. **Discipline**: the mat time kept whether or not motivation shows up, Chapter 9's never-twice rule, sweating. **Respect**: the bow or handshake to instructor and partner that begins and ends every session, a small ritual acknowledgment that this practice could hurt someone and is entered deliberately, with care, by two people who have agreed to trust each other with something dangerous. **And mastery of self before others**: the entire point of building the stick, per Chapter 4, is that it mostly never leaves the sheath. The practitioner who trains for years and grows calmer, more patient, slower to anger — this is the sign the art has taken. The one who grows more eager to test it in the world has missed the whole curriculum regardless of his belt or rank, and should not yet be trusted with what he has learned.
+
+A note on choosing a school, since the wrong one teaches the wrong lesson entirely, whatever style is on the sign outside: watch how the instructor speaks about using the art in the world. A teacher who romanticizes real confrontation, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 41's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the techniques is teaching what this manual means by training the body, whatever the sign outside actually says.
+
+### V. The Practice
+
+Find one school, of either kind, within reasonable distance, and go visit it before deciding anything else about it. Ask the instructor directly how they teach students to avoid confrontations, not only win them — the answer tells you everything about the room before you ever set foot on the mat. If a striking school and a grappling school are both reachable, better still: visit one of each, over two weeks, and feel the difference between the two vocabularies in your own body before choosing where to commit. And begin tonight, alone, in whatever space you have: ten minutes of stance and guard, or ten minutes of the seated forward roll practiced slowly on a cushioned floor — rooted, unhurried, held until it stops feeling foreign. That is where every practitioner in history, including the masters, actually began.
 
 ### The Line
 
@@ -2109,46 +2150,7 @@ A note on choosing a school, since the wrong one teaches the wrong lesson entire
 ---
 ---
 
-## Chapter 43 — Foundations of Aikido
-
-> *"True victory is victory over oneself."*
-> (masakatsu agatsu)
-> — Morihei Ueshiba, founder of aikido
-
----
-
-### I. The Art That Refuses to Fight
-
-Where kung fu trains the strike, aikido — "the way of harmonious energy," founded by Morihei Ueshiba in twentieth-century Japan — trains something stranger and, for this manual's purposes, even more central: the redirection of force rather than its meeting. Ueshiba, a formidable martial artist in his youth who had tested himself against real opponents and won, spent his later decades building an art whose techniques contain almost no offensive strikes at all — only entries, blends, and throws that use an attacker's own energy against his own balance. It is, quite literally, the Law of Return from Chapter 2 choreographed onto a mat: what a man sends, returns to him, softened only by the aikidoka's compassion in how he chooses to land him.
-
-This is worth sitting with, because it resolves a tension the reader may have felt building across this entire Book: how does a manual built on gentleness, service, and contained power also teach a martial art? Aikido is the answer made physical. It is the only combat discipline whose founder explicitly stated that its purpose was to protect the attacker as much as the defender — an idea that would be merely sentimental in most contexts and is, on an aikido mat, a literal technical specification.
-
-### II. The Fundamentals
-
-**Ukemi — falling — comes first, always,** and this ordering is the art's whole philosophy encoded as a syllabus decision: before a student learns to throw anyone, he learns to be thrown safely, over and over, until the mat holds no fear. The forward roll and the backward fall are taught for weeks before anything else, because a martial art that cannot safely absorb its own techniques is not a martial art; it is an injury generator wearing a uniform. **[DIAGRAM 45-1: the forward roll — chin tucked, back rounded, contact along the diagonal muscle line, never the spine]**
-
-There is a lesson here that reaches well past the mat, and the manual will not let it pass unremarked: **the capacity to fall safely is the prerequisite for taking any risk at all** — in the dojo, in a courtship (Book V), in a venture that might fail (Book VI). The excellent man practices, deliberately and specifically, the art of landing well, because a man who has never practiced falling avoids everything that might make him fall, and calls the avoidance caution.
-
-**Blending** is the technique underneath every technique: rather than meeting an incoming push or strike head-on — which is simply a smaller person losing a contest of force against a larger one — the aikidoka steps off the line of the attack and moves *with* its direction, joining his energy to the attacker's own momentum rather than opposing it. This is Chapter 13's verbal aikido, physicalized exactly, and it is worth the reader's notice that this manual taught the metaphor in Book II before ever explaining where it came from: the principle is one principle, applied identically to words and to wrists.
-
-**Wrist releases and redirects** are the beginner's basic technique set, built entirely on blending: turning a grabbed wrist into a small, precise unlocking rather than a wrenching contest of strength, the joint's own structure doing the work once the correct angle is found. **[DIAGRAM 45-2: kotegaeshi — the basic wrist turn-out]** And the entering throws use an attacker's forward momentum to continue him past his own balance point rather than stopping him with force. None of it requires the defender to be larger or stronger than the attacker. That absence of a size requirement is the art's entire proof of concept, and it is why aikido has historically appealed to practitioners — including, notably, many women — for whom pure strength-against-strength arts offer a worse mathematical starting position.
-
-### III. Force Returned, Softened
-
-The deepest teaching, and the one that closes this Book's circle back to its first chapter, is this: aikido's techniques do not punish an attacker. They simply decline to fight him on his own terms and return his own force to him in a form that ends the confrontation without requiring the defender's anger at all. Ueshiba described his art's aim, late in life, as protecting *everyone* in a conflict, attacker included — which is the monkey king's bridge again, wearing a gi: strength placed entirely at the service of resolution, spent grudgingly, and always aimed at the smallest sufficient outcome rather than the most impressive one.
-
-### IV. The Practice
-
-**This week: begin with the fall.** If a dojo is reachable, attend one aikido class and ask specifically to be shown ukemi before anything else — a good teacher will already plan it that way, and asking tells you whether the school you've found is a good one. If none is reachable yet, research the roll's mechanics and practice the seated and kneeling versions on a cushioned floor, slowly, until the shape is familiar; full standing falls need a mat and, ideally, supervision, and patience here is the art's own first lesson, not a delay of it. And carry the principle into one non-physical confrontation this week: when pushed, do not push back. Find the angle, step off the line, and see what blending accomplishes that meeting force never could.
-
-### The Line
-
-*Blend, don't block — redirect the force, and land safely every time.*
-
----
----
-
-## Chapter 44 — The Protector
+## Chapter 43 — The Protector
 
 > *"Greater love hath no man than this, that a man lay down his life for his friends."*
 > — John 15:13
@@ -2171,7 +2173,7 @@ Recall the monkey king one final time before this Book closes. He did not train 
 
 ### III. Trained for, Not Against
 
-One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapters 44 and 45, every reading skill in Chapter 41, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
+One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapter 42, every reading skill in Chapter 41, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
 
 ### IV. The Practice
 
@@ -2192,12 +2194,12 @@ One closing correction, because it would be easy to mistake this entire Book's p
 
 # THE EXCELLENT MAN
 # BOOK VIII — THE SERVICE
-### Chapters 45–46
+### Chapters 44–46
 
 ---
 ---
 
-## Chapter 45 — The Butler's Discipline
+## Chapter 44 — The Butler's Discipline
 
 > *"I am among you as he that serveth."*
 > — Luke 22:27
@@ -2239,6 +2241,42 @@ The butler who is flustered, who name-drops his access to impress a stranger, wh
 ---
 ---
 
+## Chapter 45 — Discretion & the Kept Confidence
+
+> *"A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."*
+> — Proverbs 11:13
+
+---
+
+### I. The Third Archetype's Real Skill
+
+Two figures have stood behind this book since its title page — the butler and the spy — and Chapter 44 explained the first of them in full. This chapter explains the trait the two archetypes actually share, underneath their opposite costumes: both are trusted with things that would cause real damage if repeated, and both have built their entire professional worth on the fact that they never repeat them. Strip away the tuxedo and the household silver, strip away the passport and the cover story, and what remains is the same man: **someone other people can tell the truth to.** That is a rarer skill than charm, rarer than competence, and this book has waited until nearly its close to give it a chapter because it is the quiet capstone of everything Book II already built.
+
+Chapter 11 named the discipline once, in passing, as the absent-person rule — speak of those not present as though they were. This chapter is that rule's full professional education, because discretion is not the absence of gossip; gossip is merely its most common failure. Discretion is a complete competence with its own edges, its own hard cases, and its own cost, and a man who has not thought it through in advance will get the hard cases wrong exactly when they matter most.
+
+### II. What Discretion Actually Requires
+
+**The vault has one door, and it only opens outward when asked.** The trained man does not repeat what he has been told in confidence — not to flatter a listener, not to prove his own importance, not even to warn a friend of something that seems relevant, until he has thought hard about whether the warning requires the breach. Most confidences are broken not by malice but by the small vanity of being interesting: the story is too good, the listener too rapt, and the teller trades someone else's privacy for a moment's social credit. The excellent man prices that credit correctly. It is never worth what it costs the person whose trust paid for it.
+
+**Discretion is not secrecy about everything; it is judgment about something.** A man who reflexively withholds all information, from everyone, at all times, is not discreet — he is merely unhelpful, and he has confused the discipline with its counterfeit. Real discretion draws a line and defends only what is actually on the private side of it: the confided fear, the marital strain, the diagnosis not yet public, the salary a friend disclosed once and never meant repeated. Everything else — plain fact, public record, harmless observation — can be spoken of freely, and a man who cannot tell the difference either says too much or, just as tediously, says nothing at all.
+
+**The genuinely hard case is the one this chapter exists for: information that implies risk to a third party.** A confidence that reveals someone is being harmed, or is about to harm themselves, or is planning harm to another, is not covered by the vault — the same instinct Chapter 41 trained (the unease that is data, not rudeness to override) applies here in its social form. The trained man's rule: **the vault protects dignity, not danger.** Where a confidence conceals only embarrassment, awkwardness, or a private struggle that harms no one else, it is kept absolutely. Where it conceals a genuine threat to someone's safety, the higher duty — Book VII's whole argument — takes precedence, and the excellent man acts, even at the cost of the friendship that told him.
+
+**And discretion extends backward, to what he does not go looking for.** The trained man does not read the screen turned toward him at an angle, does not press for the detail that was clearly skipped on purpose, does not treat a friend's unlocked phone or an open browser tab as an invitation. Privacy respected before it is even confided is the deeper form of the same discipline — the butler's whole art, applied to information rather than logistics: never seen looking, because he was never actually looking.
+
+### III. The Return on Being Safe
+
+The Law of Return operates on discretion with unusual speed, because trust compounds the way little else does. The man known to keep a confidence becomes, within a small circle and then a much larger one, the person people actually tell things to — which means he ends up, quietly, the best-informed man in any room he stands in, not because he pried but because he never once needed to. This is not power seized. It is power that arrived because he proved, dozens of small times, that he could be trusted with something dangerous and correctly kept it dangerous only to him.
+
+The counterfeit is easy to spot and worth naming once: the man who signals his discretion loudly — "I could tell you things, but I won't" — has already broken it, because true discretion does not announce its own inventory. The excellent man's confidences are invisible from the outside. No one but the person who gave them ever knows what he is carrying, and that is exactly the point.
+
+### The Line
+
+*Concealeth the matter — the vault protects dignity, and speaks the moment danger asks it to.*
+
+---
+---
+
 ## Chapter 46 — The Bond Standard
 
 > *"Never say 'no' to adventures. Always say 'yes' — otherwise you'll lead a very dull life."*
@@ -2248,7 +2286,7 @@ The butler who is flustered, who name-drops his access to impress a stranger, wh
 
 ### I. Broad Competence
 
-If the butler is this book's model of contained service, Bond is its model of contained capability — not the cinematic gadgetry, but the underlying idea that made the character endure across seven decades of imitators: a man competent across an implausibly wide range of human situations, who can drive well, fight capably, cook creditably, dress correctly, converse in several languages, order the right wine without consulting the list, defuse a room, and remain entirely himself throughout every one of these registers without ever seeming to strain at any of them. This manual's whole architecture has been building toward exactly that breadth, one Book at a time: mind, word, body, company, love, world, defense, service. The Bond standard is simply the sum of the other forty-seven chapters, integrated into one man who can be dropped into nearly any room on earth and function there with grace.
+If the butler is this book's model of contained service, Bond is its model of contained capability — not the cinematic gadgetry, but the underlying idea that made the character endure across seven decades of imitators: a man competent across an implausibly wide range of human situations, who can drive well, fight capably, cook creditably, dress correctly, converse in several languages, order the right wine without consulting the list, defuse a room, and remain entirely himself throughout every one of these registers without ever seeming to strain at any of them. This manual's whole architecture has been building toward exactly that breadth, one Book at a time: mind, word, body, company, love, world, defense, service. The Bond standard is simply the sum of the other forty-five chapters, integrated into one man who can be dropped into nearly any room on earth and function there with grace.
 
 The standard is worth naming explicitly because most men, without meaning to, specialize themselves into narrowness. The gifted athlete who cannot hold a dinner conversation. The witty conversationalist who cannot change a tire or throw a punch. The impeccably dressed man who has never cooked a meal for anyone. Each of these is excellence in one register purchased, often unconsciously, at the cost of every other. The Bond standard rejects the trade. It insists that a man can be — should aim to be — genuinely capable across the registers this entire book has covered, not expert in all of them, but never helpless in any of them.
 
@@ -2256,7 +2294,7 @@ The standard is worth naming explicitly because most men, without meaning to, sp
 
 Hemingway's famous definition of guts — grace under pressure — is the standard's animating quality, and it is Chapter 6 wearing a dinner jacket: the unshakeable composure that lets a man lose everything at the card table and order another drink without a flicker, that finds the correct dry line at the exact right moment and never at the wrong one, because timing — Chapter 11's fourth gate — is what separates wit from cruelty here as everywhere else in this manual. It is not a performance of coolness bolted onto a nervous interior. It is coolness that has been trained so thoroughly, through the disciplines of Book I, that it survives contact with genuinely high stakes rather than evaporating the moment the stakes become real.
 
-This is the difference between the man who is charming at dinner parties and the man who is charming *and* remains exactly as composed when the car breaks down, the deal collapses, or the emergency arrives. The dinner-party version of grace under pressure is cheap and nearly universal. The version this chapter asks for is the one that holds when something actually costs the holder something — and that version is earned nowhere but in the daily practices this manual has spent forty-seven chapters installing.
+This is the difference between the man who is charming at dinner parties and the man who is charming *and* remains exactly as composed when the car breaks down, the deal collapses, or the emergency arrives. The dinner-party version of grace under pressure is cheap and nearly universal. The version this chapter asks for is the one that holds when something actually costs the holder something — and that version is earned nowhere but in the daily practices this manual has spent forty-five chapters installing.
 
 ### III. Style as Armor, Manners as Weaponry
 
@@ -2320,6 +2358,8 @@ That is the whole of Book I's contained power, verified live, at the highest pos
 
 The reader of this chapter very likely commands no armies and governs no city. The chapter is written for him anyway, because every man holds some domain — a family, a team, a friend group, a business, a household — in which he is, functionally, the one whose character sets the room's weather. The philosopher-king standard translates directly: lead the domains you actually hold with the same reluctant availability Plato described, the same willingness to descend into difficulty rather than only enjoy the view from above it, and the same private discipline Marcus Aurelius practiced when no one was there to see whether he kept it. The kingdom's size was never the point. The character brought to it always was.
 
+But Plato's Republic was a book about an actual city, and a man who has absorbed everything this manual has trained him and stops at the edge of his own household has still left half of Plato's argument unread. The excellent man votes, deliberately and informed, in every election he is eligible for, treating the ballot as a plain civic duty rather than a performance of allegiance. He serves on the jury summons rather than engineering his way out of it, because a system of justice that depends on capable men declining to participate is a system quietly failing by design. He knows his neighbors' names, shows up to the meeting that decides something in his own street or town, and gives some portion of his time or resources to a cause nearer than his own comfort — not as a photographed virtue, but as the same anonymous bridge Chapter 3 already trained him to build. None of this requires a title. It requires only the willingness, already asked of him everywhere else in this Book, to be available to a domain slightly larger than the one that benefits him directly.
+
 ### V. The Practice
 
 **This week: lead one room without wanting it.** Identify a decision, a conflict, or a meeting in your own domain where leadership is needed and no one has yet claimed it — and take it, plainly, motivated by the outcome rather than the credit for supplying it. Then write, that evening, one page in Marcus Aurelius's own genre: a private reminder to yourself about the specific temptation your own capability creates in you. No one will read it either. That is the point, and it is the whole of the practice.
@@ -2365,6 +2405,8 @@ Even the rightful king — drawn by destiny, crowned by a sword no other man cou
 ### V. Founding a Lineage
 
 What "royal lineage" actually transmits, once the crowns, blood claims, and castles are stripped away, is a *standard* — an unbroken chain of expectations passed from one generation's excellent men to the next, exactly as this manual, in its modest way, has been passed to you across these fifty chapters. A man need not be born into such a lineage to belong to one. He can found it, starting now, in how he raises whoever comes after him — a child, a protégé, a younger colleague watching more closely than he realizes — teaching the standard the way Merlyn is said to have taught the boy Arthur: patiently, through example rather than lecture, trusting the pupil to eventually draw his own sword from whatever stone life has set in front of him.
+
+For the reader who is, or will be, a father, the lineage is not a metaphor and deserves its own paragraph rather than a place in a list. A child does not absorb this manual's fifty chapters from being told them; he absorbs them from watching which one his father actually lives by when no one is grading him for it — whether the composure of Chapter 6 survives a genuinely bad day, whether the apology of Chapter 14 gets given in full to a child as readily as to a colleague, whether the phone loses to the dinner table as decisively as Chapter 23 demanded. Fatherhood is the sleeper king's whole method, rehearsed daily, on an audience of one who is always watching and almost never fooled: presence over lecture, repair offered first and fast when a father's own temper breaks the peace, and the same door held, the same thanks said aloud, the same standard kept unwitnessed, that this Book has asked of him everywhere else. A man raises the future far more by what he practices in front of it than by what he prescribes for it.
 
 ### VI. The Practice
 

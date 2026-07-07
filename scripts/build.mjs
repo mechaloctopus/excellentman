@@ -149,6 +149,8 @@ const ch1 = parseChapters(readFile('CH01_The_Monkey_King.md'), null)[0];
 const ch52 = parseChapters(readFile('CH52_The_Sleeper_King.md'), null)[0];
 allChapters.push(ch1, ch52);
 allChapters.sort((a, b) => a.num - b.num);
+const firstChapter = allChapters[0];
+const lastChapter = allChapters[allChapters.length - 1];
 
 // Process each chapter: extract epigraph + closing line, render body, slug, word count.
 for (const c of allChapters) {
@@ -179,11 +181,16 @@ const appendixRaw = readFile('APPENDIX_A.md');
 const appendixBodyMd = appendixRaw.replace(/^## APPENDIX A.*\n/, '');
 const appendixHtml = marked.parse(appendixBodyMd.trim());
 
+const appendixBRaw = readFile('APPENDIX_B.md');
+const appendixBBodyMd = appendixBRaw.replace(/^## APPENDIX B.*\n/, '');
+const appendixBHtml = marked.parse(appendixBBodyMd.trim());
+
 // --- Reading order / prev-next -------------------------------------------
 const flow = [
   { kind: 'preface', title: 'Preface', href: 'read/00-preface.html' },
   ...allChapters.map((c) => ({ kind: 'chapter', chapter: c, title: `Chapter ${c.num} — ${c.title}`, href: c.href })),
   { kind: 'appendix', title: 'Appendix A — The One-Page Code', href: 'read/appendix-the-one-page-code.html' },
+  { kind: 'appendixB', title: "Appendix B — The Eternal Student's Reading List", href: 'read/appendix-b-reading-list.html' },
 ];
 for (let i = 0; i < flow.length; i++) {
   flow[i].prev = i > 0 ? flow[i - 1] : null;
@@ -192,8 +199,8 @@ for (let i = 0; i < flow.length; i++) {
 
 // --- Templates -------------------------------------------------------------
 
-const SITE_TITLE = 'Manual of the Excellent Gentleman';
-const SITE_SUBTITLE = "A Beginner's Guide to Etiquette";
+const SITE_TITLE = 'The Excellent Gentleman';
+const SITE_SUBTITLE = 'A Manual of Character, Conduct, Love & Sovereignty';
 
 function layout({ title, description, bodyClass, content, isRead }) {
   const assetPrefix = isRead ? '../' : '';
@@ -240,12 +247,13 @@ function sidebarNav(activeSlug) {
     </div>
     <ul class="nav-flat">
       <li><a href="${isReadContext ? '' : 'read/'}00-preface.html" class="${activeSlug === '00-preface' ? 'active' : ''}">Preface</a></li>
-      <li><a href="${isReadContext ? '' : 'read/'}01-the-monkey-king.html" class="${activeSlug === '01-the-monkey-king' ? 'active' : ''}"><span class="nav-num">1</span>The Monkey King</a></li>
+      <li><a href="${isReadContext ? '' : 'read/'}${firstChapter.slug}.html" class="${activeSlug === firstChapter.slug ? 'active' : ''}"><span class="nav-num">${firstChapter.num}</span>${firstChapter.title}</a></li>
     </ul>
     ${bookGroups}
     <ul class="nav-flat nav-flat-end">
-      <li><a href="${isReadContext ? '' : 'read/'}52-the-sleeper-king.html" class="${activeSlug === '52-the-sleeper-king' ? 'active' : ''}"><span class="nav-num">52</span>The Sleeper King</a></li>
+      <li><a href="${isReadContext ? '' : 'read/'}${lastChapter.slug}.html" class="${activeSlug === lastChapter.slug ? 'active' : ''}"><span class="nav-num">${lastChapter.num}</span>${lastChapter.title}</a></li>
       <li><a href="${isReadContext ? '' : 'read/'}appendix-the-one-page-code.html" class="${activeSlug === 'appendix-the-one-page-code' ? 'active' : ''}">Appendix A — The One-Page Code</a></li>
+      <li><a href="${isReadContext ? '' : 'read/'}appendix-b-reading-list.html" class="${activeSlug === 'appendix-b-reading-list' ? 'active' : ''}">Appendix B — Reading List</a></li>
     </ul>
   </nav>`;
 }
@@ -350,6 +358,29 @@ function appendixPage(flowItem) {
   });
 }
 
+function appendixBPage(flowItem) {
+  isReadContext = true;
+  const content = `${topbar('Appendix B')}
+  ${sidebarNav('appendix-b-reading-list')}
+  <div class="scrim" id="scrim"></div>
+  <main class="reader">
+    <article class="chapter front-matter">
+      <p class="kicker">Appendix B</p>
+      <h1 class="chapter-title">The Eternal Student's Reading List</h1>
+      <p class="chapter-meta">A starting shelf for the royal curriculum of Chapter 8</p>
+      <div class="chapter-body appendix-body">${appendixBHtml}</div>
+    </article>
+    ${chapterNav(flowItem)}
+  </main>`;
+  return layout({
+    title: "Appendix B — The Eternal Student's Reading List",
+    description: `The books behind each Book of ${SITE_TITLE}, chosen as a starting shelf rather than a complete bibliography.`,
+    bodyClass: 'read-page',
+    content,
+    isRead: true,
+  });
+}
+
 function indexPage() {
   isReadContext = false;
   const tocBooks = BOOKS.map((book) => {
@@ -392,15 +423,18 @@ function indexPage() {
     <section class="toc" id="toc">
       <h2>Table of Contents</h2>
       <ul class="toc-list toc-bookend">
-        <li><a href="read/01-the-monkey-king.html"><span class="toc-num">1</span><span class="toc-title">The Monkey King <em>(opens the book)</em></span></a></li>
+        <li><a href="${firstChapter.href}"><span class="toc-num">${firstChapter.num}</span><span class="toc-title">${firstChapter.title} <em>(opens the book)</em></span></a></li>
       </ul>
       ${tocBooks}
       <ul class="toc-list toc-bookend">
-        <li><a href="read/52-the-sleeper-king.html"><span class="toc-num">52</span><span class="toc-title">The Sleeper King <em>(closes the book)</em></span></a></li>
+        <li><a href="${lastChapter.href}"><span class="toc-num">${lastChapter.num}</span><span class="toc-title">${lastChapter.title} <em>(closes the book)</em></span></a></li>
       </ul>
       <div class="toc-book toc-appendix">
-        <h3>Appendix A</h3>
-        <ul class="toc-list"><li><a href="read/appendix-the-one-page-code.html"><span class="toc-title">The One-Page Code</span></a></li></ul>
+        <h3>Appendices</h3>
+        <ul class="toc-list">
+          <li><a href="read/appendix-the-one-page-code.html"><span class="toc-title">A — The One-Page Code</span></a></li>
+          <li><a href="read/appendix-b-reading-list.html"><span class="toc-title">B — The Eternal Student's Reading List</span></a></li>
+        </ul>
       </div>
     </section>
   </main>
@@ -428,6 +462,7 @@ for (const item of flow) {
   let html;
   if (item.kind === 'preface') html = prefacePage(item);
   else if (item.kind === 'appendix') html = appendixPage(item);
+  else if (item.kind === 'appendixB') html = appendixBPage(item);
   else html = chapterPage(item.chapter, item);
   fs.writeFileSync(path.join(READ_DIR, path.basename(item.href)), html);
 }

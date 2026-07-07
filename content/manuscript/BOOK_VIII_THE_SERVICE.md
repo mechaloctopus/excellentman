@@ -1,11 +1,11 @@
 # THE EXCELLENT MAN
 # BOOK VIII — THE SERVICE
-### Chapters 45–46
+### Chapters 44–46
 
 ---
 ---
 
-## Chapter 45 — The Butler's Discipline
+## Chapter 44 — The Butler's Discipline
 
 > *"I am among you as he that serveth."*
 > — Luke 22:27
@@ -47,6 +47,42 @@ The butler who is flustered, who name-drops his access to impress a stranger, wh
 ---
 ---
 
+## Chapter 45 — Discretion & the Kept Confidence
+
+> *"A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."*
+> — Proverbs 11:13
+
+---
+
+### I. The Third Archetype's Real Skill
+
+Two figures have stood behind this book since its title page — the butler and the spy — and Chapter 44 explained the first of them in full. This chapter explains the trait the two archetypes actually share, underneath their opposite costumes: both are trusted with things that would cause real damage if repeated, and both have built their entire professional worth on the fact that they never repeat them. Strip away the tuxedo and the household silver, strip away the passport and the cover story, and what remains is the same man: **someone other people can tell the truth to.** That is a rarer skill than charm, rarer than competence, and this book has waited until nearly its close to give it a chapter because it is the quiet capstone of everything Book II already built.
+
+Chapter 11 named the discipline once, in passing, as the absent-person rule — speak of those not present as though they were. This chapter is that rule's full professional education, because discretion is not the absence of gossip; gossip is merely its most common failure. Discretion is a complete competence with its own edges, its own hard cases, and its own cost, and a man who has not thought it through in advance will get the hard cases wrong exactly when they matter most.
+
+### II. What Discretion Actually Requires
+
+**The vault has one door, and it only opens outward when asked.** The trained man does not repeat what he has been told in confidence — not to flatter a listener, not to prove his own importance, not even to warn a friend of something that seems relevant, until he has thought hard about whether the warning requires the breach. Most confidences are broken not by malice but by the small vanity of being interesting: the story is too good, the listener too rapt, and the teller trades someone else's privacy for a moment's social credit. The excellent man prices that credit correctly. It is never worth what it costs the person whose trust paid for it.
+
+**Discretion is not secrecy about everything; it is judgment about something.** A man who reflexively withholds all information, from everyone, at all times, is not discreet — he is merely unhelpful, and he has confused the discipline with its counterfeit. Real discretion draws a line and defends only what is actually on the private side of it: the confided fear, the marital strain, the diagnosis not yet public, the salary a friend disclosed once and never meant repeated. Everything else — plain fact, public record, harmless observation — can be spoken of freely, and a man who cannot tell the difference either says too much or, just as tediously, says nothing at all.
+
+**The genuinely hard case is the one this chapter exists for: information that implies risk to a third party.** A confidence that reveals someone is being harmed, or is about to harm themselves, or is planning harm to another, is not covered by the vault — the same instinct Chapter 41 trained (the unease that is data, not rudeness to override) applies here in its social form. The trained man's rule: **the vault protects dignity, not danger.** Where a confidence conceals only embarrassment, awkwardness, or a private struggle that harms no one else, it is kept absolutely. Where it conceals a genuine threat to someone's safety, the higher duty — Book VII's whole argument — takes precedence, and the excellent man acts, even at the cost of the friendship that told him.
+
+**And discretion extends backward, to what he does not go looking for.** The trained man does not read the screen turned toward him at an angle, does not press for the detail that was clearly skipped on purpose, does not treat a friend's unlocked phone or an open browser tab as an invitation. Privacy respected before it is even confided is the deeper form of the same discipline — the butler's whole art, applied to information rather than logistics: never seen looking, because he was never actually looking.
+
+### III. The Return on Being Safe
+
+The Law of Return operates on discretion with unusual speed, because trust compounds the way little else does. The man known to keep a confidence becomes, within a small circle and then a much larger one, the person people actually tell things to — which means he ends up, quietly, the best-informed man in any room he stands in, not because he pried but because he never once needed to. This is not power seized. It is power that arrived because he proved, dozens of small times, that he could be trusted with something dangerous and correctly kept it dangerous only to him.
+
+The counterfeit is easy to spot and worth naming once: the man who signals his discretion loudly — "I could tell you things, but I won't" — has already broken it, because true discretion does not announce its own inventory. The excellent man's confidences are invisible from the outside. No one but the person who gave them ever knows what he is carrying, and that is exactly the point.
+
+### The Line
+
+*Concealeth the matter — the vault protects dignity, and speaks the moment danger asks it to.*
+
+---
+---
+
 ## Chapter 46 — The Bond Standard
 
 > *"Never say 'no' to adventures. Always say 'yes' — otherwise you'll lead a very dull life."*
@@ -56,7 +92,7 @@ The butler who is flustered, who name-drops his access to impress a stranger, wh
 
 ### I. Broad Competence
 
-If the butler is this book's model of contained service, Bond is its model of contained capability — not the cinematic gadgetry, but the underlying idea that made the character endure across seven decades of imitators: a man competent across an implausibly wide range of human situations, who can drive well, fight capably, cook creditably, dress correctly, converse in several languages, order the right wine without consulting the list, defuse a room, and remain entirely himself throughout every one of these registers without ever seeming to strain at any of them. This manual's whole architecture has been building toward exactly that breadth, one Book at a time: mind, word, body, company, love, world, defense, service. The Bond standard is simply the sum of the other forty-seven chapters, integrated into one man who can be dropped into nearly any room on earth and function there with grace.
+If the butler is this book's model of contained service, Bond is its model of contained capability — not the cinematic gadgetry, but the underlying idea that made the character endure across seven decades of imitators: a man competent across an implausibly wide range of human situations, who can drive well, fight capably, cook creditably, dress correctly, converse in several languages, order the right wine without consulting the list, defuse a room, and remain entirely himself throughout every one of these registers without ever seeming to strain at any of them. This manual's whole architecture has been building toward exactly that breadth, one Book at a time: mind, word, body, company, love, world, defense, service. The Bond standard is simply the sum of the other forty-five chapters, integrated into one man who can be dropped into nearly any room on earth and function there with grace.
 
 The standard is worth naming explicitly because most men, without meaning to, specialize themselves into narrowness. The gifted athlete who cannot hold a dinner conversation. The witty conversationalist who cannot change a tire or throw a punch. The impeccably dressed man who has never cooked a meal for anyone. Each of these is excellence in one register purchased, often unconsciously, at the cost of every other. The Bond standard rejects the trade. It insists that a man can be — should aim to be — genuinely capable across the registers this entire book has covered, not expert in all of them, but never helpless in any of them.
 
@@ -64,7 +100,7 @@ The standard is worth naming explicitly because most men, without meaning to, sp
 
 Hemingway's famous definition of guts — grace under pressure — is the standard's animating quality, and it is Chapter 6 wearing a dinner jacket: the unshakeable composure that lets a man lose everything at the card table and order another drink without a flicker, that finds the correct dry line at the exact right moment and never at the wrong one, because timing — Chapter 11's fourth gate — is what separates wit from cruelty here as everywhere else in this manual. It is not a performance of coolness bolted onto a nervous interior. It is coolness that has been trained so thoroughly, through the disciplines of Book I, that it survives contact with genuinely high stakes rather than evaporating the moment the stakes become real.
 
-This is the difference between the man who is charming at dinner parties and the man who is charming *and* remains exactly as composed when the car breaks down, the deal collapses, or the emergency arrives. The dinner-party version of grace under pressure is cheap and nearly universal. The version this chapter asks for is the one that holds when something actually costs the holder something — and that version is earned nowhere but in the daily practices this manual has spent forty-seven chapters installing.
+This is the difference between the man who is charming at dinner parties and the man who is charming *and* remains exactly as composed when the car breaks down, the deal collapses, or the emergency arrives. The dinner-party version of grace under pressure is cheap and nearly universal. The version this chapter asks for is the one that holds when something actually costs the holder something — and that version is earned nowhere but in the daily practices this manual has spent forty-five chapters installing.
 
 ### III. Style as Armor, Manners as Weaponry
 

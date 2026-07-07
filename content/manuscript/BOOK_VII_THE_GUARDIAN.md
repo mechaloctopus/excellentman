@@ -1,6 +1,6 @@
 # THE EXCELLENT MAN
 # BOOK VII — THE GUARDIAN
-### Chapters 41–44
+### Chapters 41–43
 
 ---
 ---
@@ -53,38 +53,48 @@ Honesty requires one more paragraph before the practice, because this manual doe
 ---
 ---
 
-## Chapter 42 — Foundations of Kung Fu
+## Chapter 42 — The Guardian's Body
 
 > *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*
 > — Bruce Lee
 
 ---
 
-### I. Training the Instrument, Not the Weapon
+### I. Two Arts, One Argument
 
-This chapter and the next are not a substitute for a teacher — no book can be — but a map of what a beginner is training toward and why, so the first months in an actual school make sense from day one. Finding that school is Chapter 8's eternal student in motion: research two, visit both, and judge them by the standard this chapter will set, not by the trophies in the case.
+This chapter is not a substitute for a teacher — no book can be — but a map of what a beginner is training toward and why, so the first months in an actual school make sense from day one. It does not name a single style, on purpose. There are many honorable ways to train the body for the narrow territory Chapter 41 described, and the excellent man chooses among them by their substance, not their brand name — a striking art (boxing, kickboxing, karate, kung fu, any of them, taught seriously) for the vocabulary of distance and impact, and a grappling or redirection art (aikido, judo, Brazilian jiu-jitsu, wrestling, any of them, taught seriously) for the vocabulary of contact and control. What matters is not which flag hangs on the wall. What matters is whether the fundamentals below are actually being taught, slowly, before anything that looks like fighting.
 
-Bruce Lee's epigraph is quietly the whole of Chapter 9 wearing gloves: mastery is not the accumulation of tricks but the deep, unglamorous repetition of fundamentals until they require no thought — which is precisely how this manual has trained everything else, from the wet shave to the toast. Kung fu is chosen here first among the striking arts because its tradition names the goal outright, in its very name: *gōngfu* means skill acquired through hard work and time, applicable to painting or calligraphy as much as combat. The fight is almost incidental to the discipline. That is the correct order, and a good teacher will insist on it from the first class.
+Bruce Lee's epigraph is quietly the whole of Chapter 9 wearing gloves: mastery is not the accumulation of tricks but the deep, unglamorous repetition of fundamentals until they require no thought — which is precisely how this manual has trained everything else, from the wet shave to the toast. Every serious tradition, whatever it calls itself, agrees that the fight is almost incidental to the discipline. That is the correct order, and a good teacher will insist on it from the first class.
 
-### II. The Fundamentals
+### II. The Striking Fundamentals
 
-**Stance** is the art's whole foundation and the beginner's whole first year: a rooted, low, balanced base — weight settled, knees soft, spine long, Chapter 20's stacked posture lowered toward the ground — because every strike, block, and evasion draws its power from the ground up through a stable frame. A fighter with poor stance is a cannon with no carriage: the technique may be correct and the power will still leak out through the feet. **[DIAGRAM 44-1: horse stance and bow stance, the two foundational bases]** Expect to spend months here before anything looks like fighting. That is not slow progress. That is the actual curriculum, disguised as slow progress.
+**Stance** is any striking art's whole foundation and the beginner's whole first year: a rooted, low, balanced base — weight settled, knees soft, spine long, Chapter 20's stacked posture lowered toward the ground — because every strike, block, and evasion draws its power from the ground up through a stable frame. A fighter with poor stance is a cannon with no carriage: the technique may be correct and the power will still leak out through the feet. Expect to spend months here before anything looks like fighting. That is not slow progress. That is the actual curriculum, disguised as slow progress.
 
 **Guard** is the ready position between stances and techniques — hands up, protecting the centerline, elbows in, chin down — held not tensely but in the relaxed alertness Chapter 6 already trained. A guard clenched from fear tires in a minute and telegraphs its own anxiety to anyone reading it; a guard held from calm readiness holds all night and reveals nothing.
 
 **Footwork** moves the stance without ever losing it: small adjusting steps rather than lunges, weight never fully committed until the technique commits it, always able to retreat, circle, or close on a choice rather than a stumble. Untrained men fight with their feet planted and their upper bodies flailing to compensate. Trained ones fight with their feet first; the hands merely finish what the feet already arranged.
 
-**Strikes and blocks** are the beginner's daily vocabulary: the straight punch driven from the rear hip rather than the shoulder, so that power travels up from the ground through a stable stance rather than originating in a comparatively weak arm; and the basic parries and rising or outward blocks that redirect rather than collide — Chapter 13's blending principle, made physical, meeting force with an angle instead of a wall. **[DIAGRAM 44-2: the four basic blocks — high, low, inside, outside]** These are learned slowly, drilled thousands of times at low intensity before speed or power are added at all. This is Lee's one kick, ten thousand times, and there is no shortcut past it that produces a real skill on the other side.
+**Strikes and blocks** are the beginner's daily vocabulary in any striking tradition: power driven from the hip and ground rather than the shoulder or arm alone, and basic parries and blocks that redirect rather than collide — Chapter 13's blending principle, made physical, meeting force with an angle instead of a wall. These are learned slowly, drilled thousands of times at low intensity before speed or power are added at all. This is Lee's one kick, ten thousand times, and there is no shortcut past it that produces a real skill on the other side.
 
-### III. The Mindset
+### III. The Redirection Fundamentals
 
-The tradition's deeper curriculum is character, and it is not incidental to the physical training — it *is* the physical training, viewed from a different angle. **Discipline**: the daily mat time kept whether or not motivation shows up, Chapter 9's never-twice rule, sweating. **Respect**: the bow to instructor and partner that begins and ends every session, a small ritual acknowledgment that this practice could hurt someone and is entered deliberately, with care, by two people who have agreed to trust each other with something dangerous. **And mastery of self before others**: the entire point of building the stick, per Chapter 4, is that it mostly never leaves the sheath. The practitioner who trains for years and grows calmer, more patient, slower to anger — this is the sign the art has taken. The one who grows more eager to test it in the world has missed the whole curriculum regardless of his belt color, and should not yet be trusted with what he has learned.
+**Falling safely comes first, always,** in every serious grappling tradition, and this ordering is the whole philosophy encoded as a syllabus decision: before a student learns to throw or control anyone, he learns to be thrown or taken down safely, over and over, until the mat holds no fear. A martial art that cannot safely absorb its own techniques is not a martial art; it is an injury generator wearing a uniform.
 
-A note on choosing a school, since the wrong one teaches the wrong lesson entirely: watch how the instructor speaks about using the art outside the school. A teacher who romanticizes street application, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 41's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the punches is teaching what this manual means by kung fu, whatever the style is actually called.
+There is a lesson here that reaches well past the mat, and the manual will not let it pass unremarked: **the capacity to fall safely is the prerequisite for taking any risk at all** — in the dojo, in a courtship (Book V), in a venture that might fail (Book VI). The excellent man practices, deliberately and specifically, the art of landing well, because a man who has never practiced falling avoids everything that might make him fall, and calls the avoidance caution.
 
-### IV. The Practice
+**Blending and control** are the technique underneath every grappling technique: rather than meeting an incoming push, grab, or strike head-on — which is simply a smaller person losing a contest of force against a larger one — the trained man steps off the line of the attack and moves *with* its direction, joining his energy to the attacker's own momentum rather than opposing it, using leverage and structure rather than raw strength to end the exchange. This is Chapter 13's verbal aikido, physicalized exactly, and it is worth the reader's notice that this manual taught the metaphor in Book II before ever explaining where it came from: the principle is one principle, applied identically to words and to wrists. None of it requires the defender to be larger or stronger than the attacker, which is exactly why grappling and redirection arts have historically appealed to practitioners — including, notably, many women — for whom pure strength-against-strength contests offer a worse mathematical starting position.
 
-**This week: find the school and begin the foundation.** Research and visit two martial arts schools within reasonable distance — kung fu specifically if the tradition calls to you, otherwise any reputable striking art, since the character training is the constant across all of them. Attend one trial class and ask the instructor directly how they teach students to avoid fights, not just win them; the answer tells you everything about the school before you ever throw a punch there. And begin tonight, alone in a room, ten minutes: stance and guard only, rooted and relaxed, held until it stops feeling foreign. That is where every practitioner in history, including the masters, actually began — and it is available to you before the first class ever starts.
+The deepest version of this teaching, found at the heart of the gentlest of these traditions, is that the techniques do not need to punish an attacker. They simply decline to fight him on his own terms and return his own force to him in a form that ends the confrontation — the monkey king's bridge again, in a gi: strength placed entirely at the service of resolution, spent grudgingly, and always aimed at the smallest sufficient outcome rather than the most impressive one.
+
+### IV. The Mindset, Whichever Art You Choose
+
+The deeper curriculum, in any serious tradition, is character, and it is not incidental to the physical training — it *is* the physical training, viewed from a different angle. **Discipline**: the mat time kept whether or not motivation shows up, Chapter 9's never-twice rule, sweating. **Respect**: the bow or handshake to instructor and partner that begins and ends every session, a small ritual acknowledgment that this practice could hurt someone and is entered deliberately, with care, by two people who have agreed to trust each other with something dangerous. **And mastery of self before others**: the entire point of building the stick, per Chapter 4, is that it mostly never leaves the sheath. The practitioner who trains for years and grows calmer, more patient, slower to anger — this is the sign the art has taken. The one who grows more eager to test it in the world has missed the whole curriculum regardless of his belt or rank, and should not yet be trusted with what he has learned.
+
+A note on choosing a school, since the wrong one teaches the wrong lesson entirely, whatever style is on the sign outside: watch how the instructor speaks about using the art in the world. A teacher who romanticizes real confrontation, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 41's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the techniques is teaching what this manual means by training the body, whatever the sign outside actually says.
+
+### V. The Practice
+
+Find one school, of either kind, within reasonable distance, and go visit it before deciding anything else about it. Ask the instructor directly how they teach students to avoid confrontations, not only win them — the answer tells you everything about the room before you ever set foot on the mat. If a striking school and a grappling school are both reachable, better still: visit one of each, over two weeks, and feel the difference between the two vocabularies in your own body before choosing where to commit. And begin tonight, alone, in whatever space you have: ten minutes of stance and guard, or ten minutes of the seated forward roll practiced slowly on a cushioned floor — rooted, unhurried, held until it stops feeling foreign. That is where every practitioner in history, including the masters, actually began.
 
 ### The Line
 
@@ -93,46 +103,7 @@ A note on choosing a school, since the wrong one teaches the wrong lesson entire
 ---
 ---
 
-## Chapter 43 — Foundations of Aikido
-
-> *"True victory is victory over oneself."*
-> (masakatsu agatsu)
-> — Morihei Ueshiba, founder of aikido
-
----
-
-### I. The Art That Refuses to Fight
-
-Where kung fu trains the strike, aikido — "the way of harmonious energy," founded by Morihei Ueshiba in twentieth-century Japan — trains something stranger and, for this manual's purposes, even more central: the redirection of force rather than its meeting. Ueshiba, a formidable martial artist in his youth who had tested himself against real opponents and won, spent his later decades building an art whose techniques contain almost no offensive strikes at all — only entries, blends, and throws that use an attacker's own energy against his own balance. It is, quite literally, the Law of Return from Chapter 2 choreographed onto a mat: what a man sends, returns to him, softened only by the aikidoka's compassion in how he chooses to land him.
-
-This is worth sitting with, because it resolves a tension the reader may have felt building across this entire Book: how does a manual built on gentleness, service, and contained power also teach a martial art? Aikido is the answer made physical. It is the only combat discipline whose founder explicitly stated that its purpose was to protect the attacker as much as the defender — an idea that would be merely sentimental in most contexts and is, on an aikido mat, a literal technical specification.
-
-### II. The Fundamentals
-
-**Ukemi — falling — comes first, always,** and this ordering is the art's whole philosophy encoded as a syllabus decision: before a student learns to throw anyone, he learns to be thrown safely, over and over, until the mat holds no fear. The forward roll and the backward fall are taught for weeks before anything else, because a martial art that cannot safely absorb its own techniques is not a martial art; it is an injury generator wearing a uniform. **[DIAGRAM 45-1: the forward roll — chin tucked, back rounded, contact along the diagonal muscle line, never the spine]**
-
-There is a lesson here that reaches well past the mat, and the manual will not let it pass unremarked: **the capacity to fall safely is the prerequisite for taking any risk at all** — in the dojo, in a courtship (Book V), in a venture that might fail (Book VI). The excellent man practices, deliberately and specifically, the art of landing well, because a man who has never practiced falling avoids everything that might make him fall, and calls the avoidance caution.
-
-**Blending** is the technique underneath every technique: rather than meeting an incoming push or strike head-on — which is simply a smaller person losing a contest of force against a larger one — the aikidoka steps off the line of the attack and moves *with* its direction, joining his energy to the attacker's own momentum rather than opposing it. This is Chapter 13's verbal aikido, physicalized exactly, and it is worth the reader's notice that this manual taught the metaphor in Book II before ever explaining where it came from: the principle is one principle, applied identically to words and to wrists.
-
-**Wrist releases and redirects** are the beginner's basic technique set, built entirely on blending: turning a grabbed wrist into a small, precise unlocking rather than a wrenching contest of strength, the joint's own structure doing the work once the correct angle is found. **[DIAGRAM 45-2: kotegaeshi — the basic wrist turn-out]** And the entering throws use an attacker's forward momentum to continue him past his own balance point rather than stopping him with force. None of it requires the defender to be larger or stronger than the attacker. That absence of a size requirement is the art's entire proof of concept, and it is why aikido has historically appealed to practitioners — including, notably, many women — for whom pure strength-against-strength arts offer a worse mathematical starting position.
-
-### III. Force Returned, Softened
-
-The deepest teaching, and the one that closes this Book's circle back to its first chapter, is this: aikido's techniques do not punish an attacker. They simply decline to fight him on his own terms and return his own force to him in a form that ends the confrontation without requiring the defender's anger at all. Ueshiba described his art's aim, late in life, as protecting *everyone* in a conflict, attacker included — which is the monkey king's bridge again, wearing a gi: strength placed entirely at the service of resolution, spent grudgingly, and always aimed at the smallest sufficient outcome rather than the most impressive one.
-
-### IV. The Practice
-
-**This week: begin with the fall.** If a dojo is reachable, attend one aikido class and ask specifically to be shown ukemi before anything else — a good teacher will already plan it that way, and asking tells you whether the school you've found is a good one. If none is reachable yet, research the roll's mechanics and practice the seated and kneeling versions on a cushioned floor, slowly, until the shape is familiar; full standing falls need a mat and, ideally, supervision, and patience here is the art's own first lesson, not a delay of it. And carry the principle into one non-physical confrontation this week: when pushed, do not push back. Find the angle, step off the line, and see what blending accomplishes that meeting force never could.
-
-### The Line
-
-*Blend, don't block — redirect the force, and land safely every time.*
-
----
----
-
-## Chapter 44 — The Protector
+## Chapter 43 — The Protector
 
 > *"Greater love hath no man than this, that a man lay down his life for his friends."*
 > — John 15:13
@@ -155,7 +126,7 @@ Recall the monkey king one final time before this Book closes. He did not train 
 
 ### III. Trained for, Not Against
 
-One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapters 44 and 45, every reading skill in Chapter 41, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
+One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapter 42, every reading skill in Chapter 41, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
 
 ### IV. The Practice
 
