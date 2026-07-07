@@ -2,7 +2,7 @@
 
 *A Beginner's Guide to Etiquette* — by Josh Trembath.
 
-A static web-book: nine Books, fifty-two chapters, one architecture (Mind,
+A static web-book: nine Books, fifty chapters, one architecture (Mind,
 Word, Body, Company, Companion, World, Guardian, Service, Crown), plus a
 preface and a one-page appendix. This repo holds the source manuscript and
 the generator that turns it into the published site.

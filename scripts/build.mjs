@@ -175,9 +175,8 @@ const openingEpigraph = openingEpigraphMatch
   : { quote: '', attribution: '' };
 
 // --- Appendix ----------------------------------------------------------
-const completeMs = readFile('THE_EXCELLENT_MAN_COMPLETE_MANUSCRIPT.md');
-const appendixMatch = completeMs.match(/## APPENDIX A[\s\S]*?\n([\s\S]*)$/);
-const appendixBodyMd = appendixMatch ? appendixMatch[0].replace(/^## APPENDIX A.*\n/, '') : '';
+const appendixRaw = readFile('APPENDIX_A.md');
+const appendixBodyMd = appendixRaw.replace(/^## APPENDIX A.*\n/, '');
 const appendixHtml = marked.parse(appendixBodyMd.trim());
 
 // --- Reading order / prev-next -------------------------------------------
@@ -385,7 +384,7 @@ function indexPage() {
     <div class="ornament-break" aria-hidden="true"></div>
 
     <section class="about">
-      <p>The book opens with a monkey king who becomes a bridge for his people and asks nothing back, and closes with the same figure revealed as a sleeper king who serves because he lacks nothing — with fifty chapters of practical training in between, on everything from hygiene to courtship to power. Nine Books, fifty-two chapters, one architecture: Mind, Word, Body, Company, Companion, World, Guardian, Service, Crown.</p>
+      <p>The book opens with a monkey king who becomes a bridge for his people and asks nothing back, and closes with the same figure revealed as a sleeper king who serves because he lacks nothing — with the rest of the book training everything from hygiene to courtship to power along the way. Nine Books, fifty chapters, one architecture: Mind, Word, Body, Company, Companion, World, Guardian, Service, Crown.</p>
     </section>
 
     <div class="ornament-break" aria-hidden="true"></div>
@@ -411,7 +410,7 @@ function indexPage() {
 
   return layout({
     title: SITE_TITLE,
-    description: `${SITE_SUBTITLE} — by Josh Trembath. Nine Books, fifty-two chapters, one architecture.`,
+    description: `${SITE_SUBTITLE} — by Josh Trembath. Nine Books, fifty chapters, one architecture.`,
     bodyClass: 'cover-page',
     content,
     isRead: false,

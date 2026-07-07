@@ -1,11 +1,11 @@
 # THE EXCELLENT MAN
 # BOOK VII — THE GUARDIAN
-### Chapters 43–46
+### Chapters 41–44
 
 ---
 ---
 
-## Chapter 43 — Avoiding the Fight
+## Chapter 41 — Avoiding the Fight
 
 > *"The supreme art of war is to subdue the enemy without fighting."*
 > — Sun Tzu, The Art of War
@@ -53,7 +53,7 @@ Honesty requires one more paragraph before the practice, because this manual doe
 ---
 ---
 
-## Chapter 44 — Foundations of Kung Fu
+## Chapter 42 — Foundations of Kung Fu
 
 > *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*
 > — Bruce Lee
@@ -80,7 +80,7 @@ Bruce Lee's epigraph is quietly the whole of Chapter 9 wearing gloves: mastery i
 
 The tradition's deeper curriculum is character, and it is not incidental to the physical training — it *is* the physical training, viewed from a different angle. **Discipline**: the daily mat time kept whether or not motivation shows up, Chapter 9's never-twice rule, sweating. **Respect**: the bow to instructor and partner that begins and ends every session, a small ritual acknowledgment that this practice could hurt someone and is entered deliberately, with care, by two people who have agreed to trust each other with something dangerous. **And mastery of self before others**: the entire point of building the stick, per Chapter 4, is that it mostly never leaves the sheath. The practitioner who trains for years and grows calmer, more patient, slower to anger — this is the sign the art has taken. The one who grows more eager to test it in the world has missed the whole curriculum regardless of his belt color, and should not yet be trusted with what he has learned.
 
-A note on choosing a school, since the wrong one teaches the wrong lesson entirely: watch how the instructor speaks about using the art outside the school. A teacher who romanticizes street application, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 43's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the punches is teaching what this manual means by kung fu, whatever the style is actually called.
+A note on choosing a school, since the wrong one teaches the wrong lesson entirely: watch how the instructor speaks about using the art outside the school. A teacher who romanticizes street application, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 41's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the punches is teaching what this manual means by kung fu, whatever the style is actually called.
 
 ### IV. The Practice
 
@@ -93,7 +93,7 @@ A note on choosing a school, since the wrong one teaches the wrong lesson entire
 ---
 ---
 
-## Chapter 45 — Foundations of Aikido
+## Chapter 43 — Foundations of Aikido
 
 > *"True victory is victory over oneself."*
 > (masakatsu agatsu)
@@ -132,7 +132,7 @@ The deepest teaching, and the one that closes this Book's circle back to its fir
 ---
 ---
 
-## Chapter 46 — The Protector
+## Chapter 44 — The Protector
 
 > *"Greater love hath no man than this, that a man lay down his life for his friends."*
 > — John 15:13
@@ -151,11 +151,11 @@ Recall the monkey king one final time before this Book closes. He did not train 
 
 **Emergency composure**, which is simply Chapter 6 under its highest possible load. The trained response to sudden crisis is not stillness of feeling — the surge will come regardless of training — but stillness of function: the breath found first, the assessment made honestly (is the scene itself safe, what is actually wrong, who else is present and useful), the loudest clearest instruction given to organize the bystanders who are frozen. Most people in an emergency are waiting for someone, anyone, to tell them what to do; be the one who does. And help summoned specifically rather than generally — "you, in the blue jacket, call emergency services and come back and tell me you did" outperforms a shouted "someone call for help" every time, because specificity converts a frightened crowd into a functioning team with assigned jobs.
 
-**Walking someone home,** the guardian's smallest and most frequently useful deployment: offered plainly, without making a production of anyone's vulnerability, and performed with the same relaxed vigilance trained in Chapter 43 — present, aware, unhurried, and entirely unremarkable, because the best protection is so calm it barely announces itself as protection at all. This is service, from Book VIII, wearing the Guardian's clothes: anticipating a need — safety — before it is voiced, and meeting it without ceremony.
+**Walking someone home,** the guardian's smallest and most frequently useful deployment: offered plainly, without making a production of anyone's vulnerability, and performed with the same relaxed vigilance trained in Chapter 41 — present, aware, unhurried, and entirely unremarkable, because the best protection is so calm it barely announces itself as protection at all. This is service, from Book VIII, wearing the Guardian's clothes: anticipating a need — safety — before it is voiced, and meeting it without ceremony.
 
 ### III. Trained for, Not Against
 
-One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapters 44 and 45, every reading skill in Chapter 43, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
+One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapters 44 and 45, every reading skill in Chapter 41, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
 
 ### IV. The Practice
 
@@ -169,4 +169,4 @@ One closing correction, because it would be easy to mistake this entire Book's p
 ---
 
 *End of Book VII — THE GUARDIAN.*
-*Next: Book VIII — THE SERVICE (Chapters 47–48).*
+*Next: Book VIII — THE SERVICE (Chapters 45–46).*

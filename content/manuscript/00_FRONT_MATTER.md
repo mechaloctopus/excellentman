@@ -74,39 +74,37 @@ This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapuris
 27. Set & Setting
 28. Occasions
 29. Spirits
-30. Tequila & Agave Culture
-31. The Sober Art
-32. Tobacco: The Sacred and the Sprayed
+30. The Sober Art
 
 ### Book V — The Companion
-33. The Old Courtesies
-34. Courting
-35. Respecting Yourself and the Other
-36. Red Flags & the Graceful Exit
-37. Tantra & Becoming Love
-38. Partnership
+31. The Old Courtesies
+32. Courting
+33. Respecting Yourself and the Other
+34. Red Flags & the Graceful Exit
+35. Tantra & Becoming Love
+36. Partnership
 
 ### Book VI — The World
-39. The Traveler
-40. Travel Craft
-41. Work & Money
-42. The Digital Citizen
+37. The Traveler
+38. Travel Craft
+39. Work & Money
+40. The Digital Citizen
 
 ### Book VII — The Guardian
-43. Avoiding the Fight
-44. Foundations of Kung Fu
-45. Foundations of Aikido
-46. The Protector
+41. Avoiding the Fight
+42. Foundations of Kung Fu
+43. Foundations of Aikido
+44. The Protector
 
 ### Book VIII — The Service
-47. The Butler's Discipline
-48. The Bond Standard
+45. The Butler's Discipline
+46. The Bond Standard
 
 ### Book IX — The Crown
-49. The Philosopher King
-50. Arthur & the Round Table
-51. Power & Personal Politics
-52. The Sleeper King *(closes the book)*
+47. The Philosopher King
+48. Arthur & the Round Table
+49. Power & Personal Politics
+50. The Sleeper King *(closes the book)*
 
 **Appendix A — The One-Page Code**
 

@@ -6,71 +6,51 @@
 
 ---
 
-### I. The Story
+### I. Three Lives, One King
 
-Long ago, in a forest at the foot of the Himalayas, there lived a king of monkeys. He was enormous — strong beyond any of his tribe — and he ruled eighty thousand monkeys who lived in the branches of a great mango tree that leaned over the river Ganges.
+In the Jataka tales — the birth-stories Buddhists tell of the being who would become the Buddha, practicing across hundreds of lives before he ever sat beneath the bodhi tree — the same figure returns again and again as a monkey king: enormous, canny, unmistakably in charge of his troop. Three of those lives matter here, and the book's own title is a quiet descendant of the first one.
 
-The tree bore fruit sweeter than anything men had tasted. The monkey king knew that if a single mango ever floated downriver into the world of men, men would come for the rest. So he ordered every blossom on the branches above the water plucked before it could fruit. For years, nothing escaped.
+**The Ravine.** This is the story Ledi Sayadaw himself reached for when he wrote his *Manual of the Excellent Man* — the text this book bows to in its own title. A Brahman, out searching for a lost ox, wandered too far into the forest and fell into a ravine so deep he could not climb out. Ten days he waited there, past hope, living on nothing. A great monkey — the Bodhisatta, practicing — heard him and came to the edge and looked down. He did not calculate the odds. He climbed down, braced a boulder to take his own weight, took the starving man onto his back, and hauled him out by main strength alone, then collapsed from the effort and slept, unguarded, in the man's lap.
 
-But one mango, hidden behind an ant's nest, ripened unseen. It fell. It floated. And it drifted into the bathing nets of a human king downstream, who tasted it and could not rest afterward. He assembled his men, followed the river, and found the great tree — heavy with fruit, alive with monkeys.
+And in the dark, the Brahman did his arithmetic: *I have failed at everything else today. My wife will be furious I've come home with nothing. But monkey flesh — monkey flesh I could bring her.* He lifted a stone in both hands and brought it down on his rescuer's skull.
 
-The human king saw the mangoes and the monkeys eating them, and made the simple arithmetic of the small-hearted: they are eating what could be mine. He ordered his archers to surround the tree at dawn and kill every monkey in it.
+The monkey did not die. He woke to his own blood and to the man standing over him, stone raised for a second blow. And here is the part to sit with, the part this whole manual is built on top of: the monkey did not turn on him, though he could have ended him in a moment. Bleeding from a fractured skull, he got up — and led his own attacker safely out of the forest neither of them could have survived alone, leaving a trail of his own blood the whole way so the man would not lose the path. Then he let him go. (The old telling doesn't even let the story end there — it has the ingratitude follow the man home as an affliction he can never quite explain to anyone. But that ending belongs to the world's ledger, not the monkey's. The monkey's part of the story was already finished the moment he chose to lead rather than leave him.)
 
-That night the monkeys came trembling to their king. There was no way out. The tree stood alone; the nearest tree across the river was too far for any of them to jump.
+**The Bridge.** Another life: a king of monkeys, enormous, ruling eighty thousand of his kind in a mango tree that leaned over the river Ganges. Its fruit was sweeter than anything men had tasted, and the monkey king knew that if a single mango ever floated downriver into the world of men, men would come for the rest — so for years he had every blossom over the water plucked before it could fruit. One escaped him, hidden behind an ant's nest. It ripened, fell, floated into a human king's bathing nets downstream, and by morning that king's archers had surrounded the tree to kill every monkey in it.
 
-Too far for any of them. Not for him.
+There was no way out — the nearest tree across the river was too far for any of them to jump. Too far for any of them. Not for him. The monkey king leapt the gap, tied a length of cane to the far tree, tied the other end to his own waist, and leapt back — and found the cane came up short by the length of his own body. So he seized the mango tree's branch with his hands and made himself the missing piece of the bridge. All night, eighty thousand monkeys crossed over him — his spine, his shoulders, the ladder of his ribs — until the last of his people reached safety and his back was broken.
 
-The monkey king leapt the impossible distance to the far tree, tied a length of cane to it, tied the other end to his own waist, and leapt back. He had measured well — but not perfectly. The cane came up short by the length of his own body. So the monkey king seized the branch of the mango tree with his hands and made himself the missing piece of the bridge. His body became the road.
+The human king, watching from below, had his heart turned. He had the dying monkey brought down gently and asked him: *you made yourself a bridge for the others — what are they to you?* And the monkey king answered: *I am their king. They were given into my care. A king does not measure what his people cost him. My broken back does not break me. I have conquered myself, and that victory no one can take. It is not your rank that makes you king — rule for what you can give your people, not what you can take from them, and you will be a king in truth.* Then he died, and the human king who had ordered a massacre that same morning gave him a funeral fit for royalty, and ruled differently for the rest of his life.
 
-And eighty thousand monkeys crossed over him. All night they crossed — stepping on his spine, gripping his shoulders, treading the ladder of his ribs. He held. By the time the last of his people reached safety, his back was broken.
+**The River.** A third life, lighter but no less telling: a monkey king who lived by a bend in the Ganges and crossed each evening to an island of fruit by way of a single rock in the current. A crocodile's mate, pregnant and craving a monkey's heart, sent her mate to lie on that rock and wait for him. The monkey, who kept the river's rise and fall the way a banker keeps a ledger, noticed the rock sitting higher than the water should allow that day — and called out to it, twice, the way you'd greet a landmark you passed every evening. Rocks do not answer. This one, on the third call, did.
 
-The human king had watched all of it from below. Something in him turned. He ordered the dying monkey brought gently down, laid on soft cloth, given water. And he asked him: *You made yourself a bridge for the others. What are they to you, and what are you to them?*
-
-The monkey king answered — and this is the part to memorize —
-
-*"I am their king. They were given into my care. A king does not measure what his people cost him. The pain of holding the bridge was nothing beside the joy of seeing them cross. My broken back does not break me. I have conquered myself, and that victory no one can take. Sire — it is not your rank that makes you king. Rule not for what you can take from your people, but for what you can give them, and you will be a king in truth."*
-
-Then he died. And the human king — a man who hours earlier had ordered a massacre over fruit — gave him a funeral fit for royalty, and ruled differently for the rest of his life.
-
-In the oldest versions of this story, told for over two thousand years, the storyteller ends by revealing who that monkey king was: a Buddha in a former life, practicing. Practicing what? Practicing exactly what this book is about.
-
-*(In some tellings — including the one that may have found you first — the man the great monkey saves repays him with a stone, striking his rescuer for meat while he lies spent. And the monkey king, bleeding, still guides him out of the forest. Keep both versions. One shows what excellence costs. The other shows what it withstands.)*
+So the monkey thanked it for finally speaking up, and asked, pleasantly, what it wanted. Told the truth — his heart, for the crocodile's mate — he answered without missing a beat that he'd happily oblige, except that monkeys are not so careless as to keep their hearts inside their chests; his was hanging, for safekeeping, on a fig tree on the far bank, and if the crocodile would open his mouth to laugh at the excuse, he'd show him exactly where. Crocodiles, when they open their mouths to laugh, close their eyes. In that half-second the monkey was already gone — onto the crocodile's own skull, and from there to the bank, laughing for real.
 
 ---
 
 ### II. What the Monkey King Knew
 
-Read the story again and notice what it is *not*.
+Read these three lives together and notice what they are *not*.
 
-It is not a story about being nice. The monkey king was not nice. He was a ruler, a strategist, an athlete, and — when it counted — the strongest creature in the forest. He plucked the blossoms for years because he could see ten moves ahead. He measured the river in a glance. He made the leap no one else could make. Before he was ever a bridge, he was *capable*.
+They are not stories about being nice. In every one of them, the monkey king is a ruler, a strategist, an athlete — and, when it counts, the strongest and shrewdest creature in the forest. He read a river's height in a glance and out-thought a predator waiting in ambush. He measured a gap no one else could clear and made the leap. He plucked blossoms for years because he could see ten moves ahead. Before he was ever a bridge, or a rescuer, or bait for a crocodile's trap, he was *capable*.
 
-This matters, and it is the first correction this manual will make to what you may have been taught. There are two counterfeit versions of the good man on offer today, and they are both cheap.
+This matters, and it is the first correction this manual will make to what you may have been taught. There are two counterfeit versions of the good man on offer today, and both are cheap. The first counterfeit is the *harmless* man — agreeable, apologetic, formless — who mistakes his weakness for virtue. He is polite because he has no other option; he has never plucked a blossom, never measured a river, never made a leap. His kindness costs nothing and is worth what it costs. The second counterfeit is the *hard* man — capable, sharpened, armored — who mistakes his strength for the whole assignment. He can make the leap; he simply cannot imagine making it for anyone else, or leading to safety the very hand that struck him. Ask him to be the bridge and he will tell you, with great confidence, that the strong owe nothing to the weak.
 
-The first counterfeit is the *harmless* man — agreeable, apologetic, formless — who mistakes his weakness for virtue. He is polite because he has no other option. He has never plucked a blossom, never measured a river, never made a leap. His kindness costs nothing and is worth what it costs.
-
-The second counterfeit is the *hard* man — capable, sharpened, armored — who mistakes his strength for the whole assignment. He can make the leap. He simply cannot imagine making it for anyone else. Ask him to be the bridge and he will tell you, with great confidence, that the strong owe nothing to the weak.
-
-The monkey king is the answer to both. He is what strength is *for*. Every skill in this manual — how you speak, how you dress, how you hold a room, how you hold your temper, how you hold a wrist that means you harm — is a blossom plucked, a river measured. Capability is the first half of excellence, and we will train it without apology.
-
-But the leap is not the point. The bridge is the point.
+The monkey king is the answer to both. He is what strength is *for*. Every skill in this manual — how you speak, how you dress, how you hold a room, how you hold your temper, how you hold a wrist that means you harm — is a blossom plucked, a river measured, a crocodile out-thought. Capability is the first half of excellence, and we will train it without apology. But the leap is not the point, and the wit is not the point. The bridge is the point.
 
 ---
 
 ### III. The Arithmetic Nobody Audits
 
-Here is the thing about the monkey king that should keep you up at night, in the good way: he did not check whether the monkeys deserved it.
+Here is the thing that should keep you up at night, in the good way: the monkey king in the ravine did not check whether the man deserved rescuing twice. He had already given everything to save him once. He owed nothing further. And when the man repaid him with a stone to the skull, the monkey king's response was not to abandon him in the forest he could never have escaped alone — his response was to finish the job of saving him, bleeding the entire way.
 
-Eighty thousand monkeys crossed his back. Do you suppose all eighty thousand were grateful? That none of them had gossiped about him, coveted his position, eaten more than their share of mangoes? He was their king; he knew exactly what each of them was. He held the bridge anyway. And in the darker telling, the very man he carried out of the ravine raised a rock over his head — and the monkey king's response was to finish the job of saving him.
+Run the same audit on the bridge. Eighty thousand monkeys crossed his back — do you suppose all eighty thousand were grateful? That none had gossiped about him, coveted his position, eaten more than their share of mangoes? He was their king; he knew exactly what each of them was. He held the bridge anyway.
 
-Most people run their lives on a simpler program: *I will be excellent to those who are excellent to me.* It sounds fair. It is certainly popular. And it quietly hands the keys of your character to whoever happens to be standing in front of you. Rude waiter, cold email, careless friend — each one gets to decide who you will be for the next hour. That is not a code. That is a mirror. Mirrors are not kings.
+Most people run their lives on a simpler program: *I will be excellent to those who are excellent to me.* It sounds fair. It is certainly popular. And it quietly hands the keys of your character to whoever happens to be standing in front of you — or lying on top of you with a stone raised. Rude waiter, cold email, careless friend, outright betrayal — each one gets to decide who you will be for the next hour. That is not a code. That is a mirror. Mirrors are not kings.
 
-The excellent man runs a different program, and it is the thesis of this entire book, so here it is in one sentence:
+The excellent man runs a different program, and it is the thesis of this entire book, so here it is in one sentence: **your conduct is set by who you are, not by what they did.** The monkey's back could be broken; his skull could be opened. His conduct could not. "I have conquered myself," he says, "and that victory no one can take." Everything else in the world — your money, your title, your health, the gratitude of the people you serve — sits in the category of things that can be taken. This one thing does not. A man who has fixed his own standard is the only genuinely rich man in any room, because he is the only one holding an asset that cannot be seized.
 
-**Your conduct is set by who you are, not by what they did.**
-
-The monkey king's back could be broken. His conduct could not. "I have conquered myself," he says, "and that victory no one can take." Everything else in the world — your money, your title, your health, the gratitude of the people you serve — sits in the category of things that can be taken. This one thing does not. A man who has fixed his own standard is the only genuinely rich man in any room, because he is the only one holding an asset that cannot be seized.
-
-Later in this manual we will study the Law of Return — the old teaching, found in every tradition on earth, that what you give comes back in equal measure. It is true, and we will take it seriously. But notice that the monkey king was not calculating his return. That is the level above the Law: not *give, so that you will receive*, but *give, because giving is what a king does*. The first is wisdom. The second is royalty. This book will walk you from one to the other.
+Later in this manual we will study the Law of Return — the old teaching, found in every tradition on earth, that what you give comes back in equal measure. It is true, and we will take it seriously. But notice that neither monkey king was calculating his return. That is the level above the Law: not *give, so that you will receive*, but *give, because giving is what a king does*. The first is wisdom. The second is royalty. This book will walk you from one to the other.
 
 ---
 
@@ -101,4 +81,3 @@ That noticing is the first mile of this entire road.
 ### The Line
 
 *A king does not measure what his people cost him.*
-

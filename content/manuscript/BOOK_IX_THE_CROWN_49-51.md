@@ -1,12 +1,12 @@
 # THE EXCELLENT MAN
 # BOOK IX — THE CROWN
-### Chapters 49–51
-*(Chapter 52, The Sleeper King, was written first and closes the manual; it stands as its own file.)*
+### Chapters 47–49
+*(Chapter 50, The Sleeper King, was written first and closes the manual; it stands as its own file.)*
 
 ---
 ---
 
-## Chapter 49 — The Philosopher King
+## Chapter 47 — The Philosopher King
 
 > *"Until philosophers are kings... cities will never have rest from their evils."*
 > — Plato, The Republic, 473d
@@ -23,7 +23,7 @@ Plato states the corollary bluntly, in a line as relevant to a modern office or 
 
 Everyone remembers Plato's allegory of the cave: prisoners chained since birth, watching shadows flicker on a wall, mistaking the shadows for the whole of reality, until one is freed and dragged, protesting, into the blinding sun outside. Fewer remember what happens next, and it is the chapter's real teaching. The freed prisoner does not stay in the sunlight, however much he might prefer to. He goes back down — eyes now aching in the dark, movements clumsy among the chained who mock his stumbling, all his hard-won clarity temporarily useless in the gloom he has returned to. He goes anyway, because his qualification to lead the cave is exactly that he has seen something truer than its shadows and is willing to spend himself making it visible to those who haven't.
 
-This is Chapter 52's whole doctrine of descent, previewed here at its philosophical root, decades before this manual will complete the thought: the genuinely capable move down, not up, when leadership is required of them. The comfortable ascent — staying in the sunlight, keeping the clarity for oneself, retreating from those who don't yet see it — is the more natural motion and the lesser one. The discomfort of the return is the actual price of the fitness to rule at all, and a man who has never felt that particular discomfort has probably never yet led anyone anywhere that mattered.
+This is Chapter 50's whole doctrine of descent, previewed here at its philosophical root, decades before this manual will complete the thought: the genuinely capable move down, not up, when leadership is required of them. The comfortable ascent — staying in the sunlight, keeping the clarity for oneself, retreating from those who don't yet see it — is the more natural motion and the lesser one. The discomfort of the return is the actual price of the fitness to rule at all, and a man who has never felt that particular discomfort has probably never yet led anyone anywhere that mattered.
 
 ### III. The Notebook of a Working Philosopher King
 
@@ -46,7 +46,7 @@ The reader of this chapter very likely commands no armies and governs no city. T
 ---
 ---
 
-## Chapter 50 — Arthur & the Round Table
+## Chapter 48 — Arthur & the Round Table
 
 > *"Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England."*
 > — Sir Thomas Malory, Le Morte d'Arthur (1485)
@@ -92,7 +92,7 @@ What "royal lineage" actually transmits, once the crowns, blood claims, and cast
 ---
 ---
 
-## Chapter 51 — Power & Personal Politics
+## Chapter 49 — Power & Personal Politics
 
 > *"Knowledge is power."*
 > (Nam et ipsa scientia potestas est.)
@@ -122,7 +122,7 @@ The practical test the excellent man applies to his own conduct in any room with
 
 Every room with real power in it eventually grows flatterers, and the excellent man's composure from Chapter 6 is his primary defense against being quietly reshaped by them: he receives praise briefly, thanks the source genuinely, and returns his attention to the actual work at hand, exactly as Chapter 4 trained — because the flatterer's entire strategy depends on finding a leader who needs the flattery badly enough to start making decisions in order to keep receiving it. A man whose sense of his own worth was settled in Chapter 7's daily audit is simply a worse target for this particular manipulation than a man still searching for external confirmation of it.
 
-Rivals, meanwhile, are handled with the same clean respect trained throughout this manual — never with contempt, which Chapter 38 already identified as the single most corrosive force in any relationship, professional or otherwise — because the contained man wins the long game precisely by remaining someone everyone can eventually trust, including, and especially, the people who once stood opposed to him. Political victories purchased through humiliating a rival tend to convert that rival into a permanent adversary; political victories that leave a defeated rival's dignity intact quite often convert him, given enough time, into a future ally. The excellent man plays the longer game, because he has built, across fifty chapters, a character built to last long enough to see it through.
+Rivals, meanwhile, are handled with the same clean respect trained throughout this manual — never with contempt, which Chapter 36 already identified as the single most corrosive force in any relationship, professional or otherwise — because the contained man wins the long game precisely by remaining someone everyone can eventually trust, including, and especially, the people who once stood opposed to him. Political victories purchased through humiliating a rival tend to convert that rival into a permanent adversary; political victories that leave a defeated rival's dignity intact quite often convert him, given enough time, into a future ally. The excellent man plays the longer game, because he has built, across fifty chapters, a character built to last long enough to see it through.
 
 ### V. The Practice
 
@@ -135,6 +135,6 @@ Rivals, meanwhile, are handled with the same clean respect trained throughout th
 ---
 ---
 
-*End of Book IX's penultimate chapters. The manual now proceeds to its final chapter — Chapter 52, The Sleeper King — already written, which closes the book where it always intended to arrive.*
+*End of Book IX's penultimate chapters. The manual now proceeds to its final chapter — Chapter 50, The Sleeper King — already written, which closes the book where it always intended to arrive.*
 
 *THE MANUSCRIPT OF THE EXCELLENT MAN IS NOW COMPLETE: 52 chapters, nine Books, one arc — from the monkey king who serves and is struck, to the sleeper king who serves because he lacks nothing.*

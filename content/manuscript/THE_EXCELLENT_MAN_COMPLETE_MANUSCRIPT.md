@@ -1,11 +1,6 @@
+# MANUAL OF THE EXCELLENT GENTLEMAN
 
-
-
-
-
-# THE EXCELLENT MAN
-
-### A Manual of Character, Conduct, Love & Sovereignty
+### A Beginner's Guide to Etiquette
 
 &nbsp;
 
@@ -74,39 +69,37 @@ This book's title is a quiet bow to *A Manual of the Excellent Man* (Uttamapuris
 27. Set & Setting
 28. Occasions
 29. Spirits
-30. Tequila & Agave Culture
-31. The Sober Art
-32. Tobacco: The Sacred and the Sprayed
+30. The Sober Art
 
 ### Book V — The Companion
-33. The Old Courtesies
-34. Courting
-35. Respecting Yourself and the Other
-36. Red Flags & the Graceful Exit
-37. Tantra & Becoming Love
-38. Partnership
+31. The Old Courtesies
+32. Courting
+33. Respecting Yourself and the Other
+34. Red Flags & the Graceful Exit
+35. Tantra & Becoming Love
+36. Partnership
 
 ### Book VI — The World
-39. The Traveler
-40. Travel Craft
-41. Work & Money
-42. The Digital Citizen
+37. The Traveler
+38. Travel Craft
+39. Work & Money
+40. The Digital Citizen
 
 ### Book VII — The Guardian
-43. Avoiding the Fight
-44. Foundations of Kung Fu
-45. Foundations of Aikido
-46. The Protector
+41. Avoiding the Fight
+42. Foundations of Kung Fu
+43. Foundations of Aikido
+44. The Protector
 
 ### Book VIII — The Service
-47. The Butler's Discipline
-48. The Bond Standard
+45. The Butler's Discipline
+46. The Bond Standard
 
 ### Book IX — The Crown
-49. The Philosopher King
-50. Arthur & the Round Table
-51. Power & Personal Politics
-52. The Sleeper King *(closes the book)*
+47. The Philosopher King
+48. Arthur & the Round Table
+49. Power & Personal Politics
+50. The Sleeper King *(closes the book)*
 
 **Appendix A — The One-Page Code**
 
@@ -129,9 +122,10 @@ There is no ceremony required to begin. Turn the page.
 
 \newpage
 
--e 
+---
+---
 
-
+# THE EXCELLENT MAN
 ## Chapter 1 — The Monkey King
 
 > *"The best revenge is to be unlike him who performed the injury."*
@@ -139,71 +133,51 @@ There is no ceremony required to begin. Turn the page.
 
 ---
 
-### I. The Story
+### I. Three Lives, One King
 
-Long ago, in a forest at the foot of the Himalayas, there lived a king of monkeys. He was enormous — strong beyond any of his tribe — and he ruled eighty thousand monkeys who lived in the branches of a great mango tree that leaned over the river Ganges.
+In the Jataka tales — the birth-stories Buddhists tell of the being who would become the Buddha, practicing across hundreds of lives before he ever sat beneath the bodhi tree — the same figure returns again and again as a monkey king: enormous, canny, unmistakably in charge of his troop. Three of those lives matter here, and the book's own title is a quiet descendant of the first one.
 
-The tree bore fruit sweeter than anything men had tasted. The monkey king knew that if a single mango ever floated downriver into the world of men, men would come for the rest. So he ordered every blossom on the branches above the water plucked before it could fruit. For years, nothing escaped.
+**The Ravine.** This is the story Ledi Sayadaw himself reached for when he wrote his *Manual of the Excellent Man* — the text this book bows to in its own title. A Brahman, out searching for a lost ox, wandered too far into the forest and fell into a ravine so deep he could not climb out. Ten days he waited there, past hope, living on nothing. A great monkey — the Bodhisatta, practicing — heard him and came to the edge and looked down. He did not calculate the odds. He climbed down, braced a boulder to take his own weight, took the starving man onto his back, and hauled him out by main strength alone, then collapsed from the effort and slept, unguarded, in the man's lap.
 
-But one mango, hidden behind an ant's nest, ripened unseen. It fell. It floated. And it drifted into the bathing nets of a human king downstream, who tasted it and could not rest afterward. He assembled his men, followed the river, and found the great tree — heavy with fruit, alive with monkeys.
+And in the dark, the Brahman did his arithmetic: *I have failed at everything else today. My wife will be furious I've come home with nothing. But monkey flesh — monkey flesh I could bring her.* He lifted a stone in both hands and brought it down on his rescuer's skull.
 
-The human king saw the mangoes and the monkeys eating them, and made the simple arithmetic of the small-hearted: they are eating what could be mine. He ordered his archers to surround the tree at dawn and kill every monkey in it.
+The monkey did not die. He woke to his own blood and to the man standing over him, stone raised for a second blow. And here is the part to sit with, the part this whole manual is built on top of: the monkey did not turn on him, though he could have ended him in a moment. Bleeding from a fractured skull, he got up — and led his own attacker safely out of the forest neither of them could have survived alone, leaving a trail of his own blood the whole way so the man would not lose the path. Then he let him go. (The old telling doesn't even let the story end there — it has the ingratitude follow the man home as an affliction he can never quite explain to anyone. But that ending belongs to the world's ledger, not the monkey's. The monkey's part of the story was already finished the moment he chose to lead rather than leave him.)
 
-That night the monkeys came trembling to their king. There was no way out. The tree stood alone; the nearest tree across the river was too far for any of them to jump.
+**The Bridge.** Another life: a king of monkeys, enormous, ruling eighty thousand of his kind in a mango tree that leaned over the river Ganges. Its fruit was sweeter than anything men had tasted, and the monkey king knew that if a single mango ever floated downriver into the world of men, men would come for the rest — so for years he had every blossom over the water plucked before it could fruit. One escaped him, hidden behind an ant's nest. It ripened, fell, floated into a human king's bathing nets downstream, and by morning that king's archers had surrounded the tree to kill every monkey in it.
 
-Too far for any of them. Not for him.
+There was no way out — the nearest tree across the river was too far for any of them to jump. Too far for any of them. Not for him. The monkey king leapt the gap, tied a length of cane to the far tree, tied the other end to his own waist, and leapt back — and found the cane came up short by the length of his own body. So he seized the mango tree's branch with his hands and made himself the missing piece of the bridge. All night, eighty thousand monkeys crossed over him — his spine, his shoulders, the ladder of his ribs — until the last of his people reached safety and his back was broken.
 
-The monkey king leapt the impossible distance to the far tree, tied a length of cane to it, tied the other end to his own waist, and leapt back. He had measured well — but not perfectly. The cane came up short by the length of his own body. So the monkey king seized the branch of the mango tree with his hands and made himself the missing piece of the bridge. His body became the road.
+The human king, watching from below, had his heart turned. He had the dying monkey brought down gently and asked him: *you made yourself a bridge for the others — what are they to you?* And the monkey king answered: *I am their king. They were given into my care. A king does not measure what his people cost him. My broken back does not break me. I have conquered myself, and that victory no one can take. It is not your rank that makes you king — rule for what you can give your people, not what you can take from them, and you will be a king in truth.* Then he died, and the human king who had ordered a massacre that same morning gave him a funeral fit for royalty, and ruled differently for the rest of his life.
 
-And eighty thousand monkeys crossed over him. All night they crossed — stepping on his spine, gripping his shoulders, treading the ladder of his ribs. He held. By the time the last of his people reached safety, his back was broken.
+**The River.** A third life, lighter but no less telling: a monkey king who lived by a bend in the Ganges and crossed each evening to an island of fruit by way of a single rock in the current. A crocodile's mate, pregnant and craving a monkey's heart, sent her mate to lie on that rock and wait for him. The monkey, who kept the river's rise and fall the way a banker keeps a ledger, noticed the rock sitting higher than the water should allow that day — and called out to it, twice, the way you'd greet a landmark you passed every evening. Rocks do not answer. This one, on the third call, did.
 
-The human king had watched all of it from below. Something in him turned. He ordered the dying monkey brought gently down, laid on soft cloth, given water. And he asked him: *You made yourself a bridge for the others. What are they to you, and what are you to them?*
-
-The monkey king answered — and this is the part to memorize —
-
-*"I am their king. They were given into my care. A king does not measure what his people cost him. The pain of holding the bridge was nothing beside the joy of seeing them cross. My broken back does not break me. I have conquered myself, and that victory no one can take. Sire — it is not your rank that makes you king. Rule not for what you can take from your people, but for what you can give them, and you will be a king in truth."*
-
-Then he died. And the human king — a man who hours earlier had ordered a massacre over fruit — gave him a funeral fit for royalty, and ruled differently for the rest of his life.
-
-In the oldest versions of this story, told for over two thousand years, the storyteller ends by revealing who that monkey king was: a Buddha in a former life, practicing. Practicing what? Practicing exactly what this book is about.
-
-*(In some tellings — including the one that may have found you first — the man the great monkey saves repays him with a stone, striking his rescuer for meat while he lies spent. And the monkey king, bleeding, still guides him out of the forest. Keep both versions. One shows what excellence costs. The other shows what it withstands.)*
+So the monkey thanked it for finally speaking up, and asked, pleasantly, what it wanted. Told the truth — his heart, for the crocodile's mate — he answered without missing a beat that he'd happily oblige, except that monkeys are not so careless as to keep their hearts inside their chests; his was hanging, for safekeeping, on a fig tree on the far bank, and if the crocodile would open his mouth to laugh at the excuse, he'd show him exactly where. Crocodiles, when they open their mouths to laugh, close their eyes. In that half-second the monkey was already gone — onto the crocodile's own skull, and from there to the bank, laughing for real.
 
 ---
 
 ### II. What the Monkey King Knew
 
-Read the story again and notice what it is *not*.
+Read these three lives together and notice what they are *not*.
 
-It is not a story about being nice. The monkey king was not nice. He was a ruler, a strategist, an athlete, and — when it counted — the strongest creature in the forest. He plucked the blossoms for years because he could see ten moves ahead. He measured the river in a glance. He made the leap no one else could make. Before he was ever a bridge, he was *capable*.
+They are not stories about being nice. In every one of them, the monkey king is a ruler, a strategist, an athlete — and, when it counts, the strongest and shrewdest creature in the forest. He read a river's height in a glance and out-thought a predator waiting in ambush. He measured a gap no one else could clear and made the leap. He plucked blossoms for years because he could see ten moves ahead. Before he was ever a bridge, or a rescuer, or bait for a crocodile's trap, he was *capable*.
 
-This matters, and it is the first correction this manual will make to what you may have been taught. There are two counterfeit versions of the good man on offer today, and they are both cheap.
+This matters, and it is the first correction this manual will make to what you may have been taught. There are two counterfeit versions of the good man on offer today, and both are cheap. The first counterfeit is the *harmless* man — agreeable, apologetic, formless — who mistakes his weakness for virtue. He is polite because he has no other option; he has never plucked a blossom, never measured a river, never made a leap. His kindness costs nothing and is worth what it costs. The second counterfeit is the *hard* man — capable, sharpened, armored — who mistakes his strength for the whole assignment. He can make the leap; he simply cannot imagine making it for anyone else, or leading to safety the very hand that struck him. Ask him to be the bridge and he will tell you, with great confidence, that the strong owe nothing to the weak.
 
-The first counterfeit is the *harmless* man — agreeable, apologetic, formless — who mistakes his weakness for virtue. He is polite because he has no other option. He has never plucked a blossom, never measured a river, never made a leap. His kindness costs nothing and is worth what it costs.
-
-The second counterfeit is the *hard* man — capable, sharpened, armored — who mistakes his strength for the whole assignment. He can make the leap. He simply cannot imagine making it for anyone else. Ask him to be the bridge and he will tell you, with great confidence, that the strong owe nothing to the weak.
-
-The monkey king is the answer to both. He is what strength is *for*. Every skill in this manual — how you speak, how you dress, how you hold a room, how you hold your temper, how you hold a wrist that means you harm — is a blossom plucked, a river measured. Capability is the first half of excellence, and we will train it without apology.
-
-But the leap is not the point. The bridge is the point.
+The monkey king is the answer to both. He is what strength is *for*. Every skill in this manual — how you speak, how you dress, how you hold a room, how you hold your temper, how you hold a wrist that means you harm — is a blossom plucked, a river measured, a crocodile out-thought. Capability is the first half of excellence, and we will train it without apology. But the leap is not the point, and the wit is not the point. The bridge is the point.
 
 ---
 
 ### III. The Arithmetic Nobody Audits
 
-Here is the thing about the monkey king that should keep you up at night, in the good way: he did not check whether the monkeys deserved it.
+Here is the thing that should keep you up at night, in the good way: the monkey king in the ravine did not check whether the man deserved rescuing twice. He had already given everything to save him once. He owed nothing further. And when the man repaid him with a stone to the skull, the monkey king's response was not to abandon him in the forest he could never have escaped alone — his response was to finish the job of saving him, bleeding the entire way.
 
-Eighty thousand monkeys crossed his back. Do you suppose all eighty thousand were grateful? That none of them had gossiped about him, coveted his position, eaten more than their share of mangoes? He was their king; he knew exactly what each of them was. He held the bridge anyway. And in the darker telling, the very man he carried out of the ravine raised a rock over his head — and the monkey king's response was to finish the job of saving him.
+Run the same audit on the bridge. Eighty thousand monkeys crossed his back — do you suppose all eighty thousand were grateful? That none had gossiped about him, coveted his position, eaten more than their share of mangoes? He was their king; he knew exactly what each of them was. He held the bridge anyway.
 
-Most people run their lives on a simpler program: *I will be excellent to those who are excellent to me.* It sounds fair. It is certainly popular. And it quietly hands the keys of your character to whoever happens to be standing in front of you. Rude waiter, cold email, careless friend — each one gets to decide who you will be for the next hour. That is not a code. That is a mirror. Mirrors are not kings.
+Most people run their lives on a simpler program: *I will be excellent to those who are excellent to me.* It sounds fair. It is certainly popular. And it quietly hands the keys of your character to whoever happens to be standing in front of you — or lying on top of you with a stone raised. Rude waiter, cold email, careless friend, outright betrayal — each one gets to decide who you will be for the next hour. That is not a code. That is a mirror. Mirrors are not kings.
 
-The excellent man runs a different program, and it is the thesis of this entire book, so here it is in one sentence:
+The excellent man runs a different program, and it is the thesis of this entire book, so here it is in one sentence: **your conduct is set by who you are, not by what they did.** The monkey's back could be broken; his skull could be opened. His conduct could not. "I have conquered myself," he says, "and that victory no one can take." Everything else in the world — your money, your title, your health, the gratitude of the people you serve — sits in the category of things that can be taken. This one thing does not. A man who has fixed his own standard is the only genuinely rich man in any room, because he is the only one holding an asset that cannot be seized.
 
-**Your conduct is set by who you are, not by what they did.**
-
-The monkey king's back could be broken. His conduct could not. "I have conquered myself," he says, "and that victory no one can take." Everything else in the world — your money, your title, your health, the gratitude of the people you serve — sits in the category of things that can be taken. This one thing does not. A man who has fixed his own standard is the only genuinely rich man in any room, because he is the only one holding an asset that cannot be seized.
-
-Later in this manual we will study the Law of Return — the old teaching, found in every tradition on earth, that what you give comes back in equal measure. It is true, and we will take it seriously. But notice that the monkey king was not calculating his return. That is the level above the Law: not *give, so that you will receive*, but *give, because giving is what a king does*. The first is wisdom. The second is royalty. This book will walk you from one to the other.
+Later in this manual we will study the Law of Return — the old teaching, found in every tradition on earth, that what you give comes back in equal measure. It is true, and we will take it seriously. But notice that neither monkey king was calculating his return. That is the level above the Law: not *give, so that you will receive*, but *give, because giving is what a king does*. The first is wisdom. The second is royalty. This book will walk you from one to the other.
 
 ---
 
@@ -235,11 +209,10 @@ That noticing is the first mile of this entire road.
 
 *A king does not measure what his people cost him.*
 
--e 
-
+---
 ---
 
-
+# THE EXCELLENT MAN
 # BOOK I — THE MIND
 ### Chapters 2–9
 *(Chapter 1, The Monkey King, stands as its own file and opens the book.)*
@@ -332,7 +305,7 @@ So the question the sages posed is this: what would it look like to keep the giv
 
 Buddhism gave that answer a name: the **bodhisattva** — a being who, standing at the very door of final liberation, turns around. He vows to return, and keep returning, for the sake of every being still struggling — to postpone his own completion until the last blade of grass is enlightened. It is the most extravagant promise in the history of religion, and its logic is the monkey king's logic scaled to the cosmos: *I will be the bridge for as long as there is anyone left to cross.*
 
-Twelve centuries ago, a monk named Shantideva put the vow into verse, and — read the epigraph again — he chose the exact image this book opened with. A boat, a bridge, a passage. He goes further: may I be a lamp for those in darkness, a bed for the weary, a servant for all who need serving, food in the famine, medicine and doctor and nurse until sickness itself is gone. This is not a to-do list. It is a description of what a person becomes when the boundary between "my interest" and "your interest" is fully dissolved — a preview, incidentally, of where Chapter 52 will take us.
+Twelve centuries ago, a monk named Shantideva put the vow into verse, and — read the epigraph again — he chose the exact image this book opened with. A boat, a bridge, a passage. He goes further: may I be a lamp for those in darkness, a bed for the weary, a servant for all who need serving, food in the famine, medicine and doctor and nurse until sickness itself is gone. This is not a to-do list. It is a description of what a person becomes when the boundary between "my interest" and "your interest" is fully dissolved — a preview, incidentally, of where Chapter 50 will take us.
 
 You are not required to take cosmic vows. You are being shown the top of the mountain so you know which direction is up. Between the fair trader of Chapter 2 and the bodhisattva of Shantideva runs a road, and every step along it is available to you today, in traffic, at work, at your own kitchen table.
 
@@ -352,7 +325,7 @@ The tradition did not leave the ideal as poetry; it engineered a training method
 
 Now connect this to the archetypes on this book's cover, because the connection is not decorative.
 
-What makes the great butler great — what will occupy us fully in Chapter 47 — is *anticipation*: needs met before they are voiced. That skill has a prerequisite the training manuals rarely name: the butler's attention must live outside himself. A self-absorbed man cannot anticipate anyone; his radar points inward. The perfect servant is running, in secular dress, a bodhisattva's attention — scanning the room not for threats to his ego but for opportunities to be the bridge. That is why this book keeps insisting that service is strength: attention turned fully outward is simultaneously the most useful and the most invulnerable stance a human being can take. Useful, because you see everything. Invulnerable, because the self that could be insulted is off-duty.
+What makes the great butler great — what will occupy us fully in Chapter 45 — is *anticipation*: needs met before they are voiced. That skill has a prerequisite the training manuals rarely name: the butler's attention must live outside himself. A self-absorbed man cannot anticipate anyone; his radar points inward. The perfect servant is running, in secular dress, a bodhisattva's attention — scanning the room not for threats to his ego but for opportunities to be the bridge. That is why this book keeps insisting that service is strength: attention turned fully outward is simultaneously the most useful and the most invulnerable stance a human being can take. Useful, because you see everything. Invulnerable, because the self that could be insulted is off-duty.
 
 And notice what happens to the Law of Return at this altitude. The fair trader gives and watches for the harvest. The bodhisattva gives and *is* the harvest — the giving itself has become the reward, which means he is being paid continuously, in the only currency that never inflates. He has not escaped the law. He has become its favorite customer: sowing all day, every day, with both hands, delighted, keeping no books. Guess what his fields look like in twenty years.
 
@@ -532,7 +505,7 @@ Understand anger's actual function: it is *information plus fuel*. The informati
 
 The failure is not the anger. The failure is letting the anger *write the response* — because anger is a brilliant alarm and an idiot strategist. It has exactly one plan (attack, now, with everything) and no concept of the amplifier principle, the long game, or tomorrow morning. Marcus Aurelius, a man commanding actual armies, wrote to himself again and again on this point: the harm of the provocation is almost always smaller than the harm of the enraged reply. Or in the proverb this book quoted at the head of a later chapter: a city whose walls are broken is exactly what a man without rule over his own spirit becomes — open to any invader, at any hour.
 
-The trained sequence, then: **feel it fully, read the information, dismiss the strategist, choose the response cold.** In practice — the surge hits; you go to the breath (long exhale, three cycles) and the posture (tall, slow); you name it silently — *anger, boundary, here's what it's guarding* — and then you respond from the part of you that stayed on the throne. The response may still be forceful; composed men are not pushovers, and Chapter 13's difficult conversations and Chapter 43's de-escalations are full of steel. But it will be *aimed* force — chosen wattage, chosen target, chosen moment — and that is the entire difference between a man with power and a man his power has.
+The trained sequence, then: **feel it fully, read the information, dismiss the strategist, choose the response cold.** In practice — the surge hits; you go to the breath (long exhale, three cycles) and the posture (tall, slow); you name it silently — *anger, boundary, here's what it's guarding* — and then you respond from the part of you that stayed on the throne. The response may still be forceful; composed men are not pushovers, and Chapter 13's difficult conversations and Chapter 41's de-escalations are full of steel. But it will be *aimed* force — chosen wattage, chosen target, chosen moment — and that is the entire difference between a man with power and a man his power has.
 
 And the deepest layer, from the Stoics, to install as permanent equipment: between what happens and what it means to you, there is a judgment, and the judgment is yours. "He insulted me" is an event plus a verdict, and the verdict was optional. Epictetus — born a slave, master of himself — put it plainly: it is not things that disturb us, but our opinions about things. The composed man is not suppressing his reactions to a threatening world. He has revised his *rulings* about what gets to count as a threat, and most of it, on honest review, does not. This is why true equanimity looks so effortless from outside: most of the battle has been won upstream, in the courtroom nobody sees.
 
@@ -640,7 +613,7 @@ Now to the epigraph, because Bacon's sentence is not a decoration — it is the 
 
 What, then, to study? The specifics are yours — the appetite must be fed what *it* hungers for, or it dies of dutifulness. But the royal curriculum has a shape, old and proven, and here it is as a frame to build within.
 
-**The great conversation** — the classics of wisdom, history, and literature, which are not homework but the actual accumulated best of your species talking to itself across centuries; this book's own source library and Appendix E are a decade of it, pre-assembled. **One craft of the hands** — an instrument, a trade, a kitchen, a garden: something real that pushes back, because a man who works only in words and screens loses calibration with the physical world, and the physical world is where his body, his home, and half this manual live. **One language beyond your own** — for the travel of Book VI, yes, but more for what it does to the instrument itself: every language is a second pair of eyes. **The workings of money, of the body, and of power** — the three subjects on which ignorance is taxed most brutally and most invisibly, and which formal schooling somehow contrives to skip. **And the teaching of others** — the final stage of the triangle and its proof: what you can teach clearly, you know; what you cannot, you don't, and now you know *that*. The eternal student closes his own loop by becoming, wherever he stands, a quiet tutor — which is also, not incidentally, how lineages are founded. But that is Chapter 50's business.
+**The great conversation** — the classics of wisdom, history, and literature, which are not homework but the actual accumulated best of your species talking to itself across centuries; this book's own source library and Appendix E are a decade of it, pre-assembled. **One craft of the hands** — an instrument, a trade, a kitchen, a garden: something real that pushes back, because a man who works only in words and screens loses calibration with the physical world, and the physical world is where his body, his home, and half this manual live. **One language beyond your own** — for the travel of Book VI, yes, but more for what it does to the instrument itself: every language is a second pair of eyes. **The workings of money, of the body, and of power** — the three subjects on which ignorance is taxed most brutally and most invisibly, and which formal schooling somehow contrives to skip. **And the teaching of others** — the final stage of the triangle and its proof: what you can teach clearly, you know; what you cannot, you don't, and now you know *that*. The eternal student closes his own loop by becoming, wherever he stands, a quiet tutor — which is also, not incidentally, how lineages are founded. But that is Chapter 48's business.
 
 One hour a day. Guarded like an appointment with a king — because that is, in the most literal sense this book intends, exactly what it is.
 
@@ -709,9 +682,11 @@ Here at the close of Book I, look at what has been assembled: a law to live by, 
 
 *End of Book I — THE MIND.*
 *Next: Book II — THE WORD (Chapters 10–17).*
--e 
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK II — THE WORD
 ### Chapters 10–17
 
@@ -837,7 +812,7 @@ The clean no has three properties and needs no fourth: **brief, warm, firm.**
 
 *Firm:* a clean no does not reopen under pressure — because the moment your no is discovered to be negotiable-by-persistence, you have taught everyone the price, and the sieges will never end. If the answer might genuinely change with circumstances, say *that*, precisely ("Not this quarter — ask me again in June"). Otherwise the second ask receives the same sentence as the first, at the same temperature.
 
-Scripts for the common theaters — adapt the words, keep the architecture: the invitation ("Thank you for thinking of me — I can't make it, but have a wonderful night"); the favor beyond your line ("I'm not the right man for that one"); the drink (Chapter 31 will expand: "None for me tonight, thanks" — full stop, no medical file attached); the deal ("It's a genuinely good offer and it's not for me"); the persistent suitor of your time ("I've thought about it, and it's still a no — I didn't want to leave you waiting on a maybe"). Notice the last one: *the prompt no is a courtesy.* Slow maybes are how nice men steal months from people's lives.
+Scripts for the common theaters — adapt the words, keep the architecture: the invitation ("Thank you for thinking of me — I can't make it, but have a wonderful night"); the favor beyond your line ("I'm not the right man for that one"); the drink (Chapter 30 will expand: "None for me tonight, thanks" — full stop, no medical file attached); the deal ("It's a genuinely good offer and it's not for me"); the persistent suitor of your time ("I've thought about it, and it's still a no — I didn't want to leave you waiting on a maybe"). Notice the last one: *the prompt no is a courtesy.* Slow maybes are how nice men steal months from people's lives.
 
 ### III. The Full Yes
 
@@ -1117,9 +1092,11 @@ Two further forms, in brief. **The eulogy** is the toast's solemn elder — same
 
 *End of Book II — THE WORD.*
 *Next: Book III — THE BODY (Chapters 18–22).*
--e 
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK III — THE BODY
 ### Chapters 18–22
 
@@ -1349,12 +1326,14 @@ Two rules of navigation complete the map. Reading the occasion: the invitation f
 ---
 
 *End of Book III — THE BODY.*
-*Next: Book IV — THE COMPANY (Chapters 23–32).*
--e 
+*Next: Book IV — THE COMPANY (Chapters 23–30).*
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK IV — THE COMPANY
-### Chapters 23–32
+### Chapters 23–30
 
 ---
 ---
@@ -1590,13 +1569,13 @@ The gentleman's operational definition follows directly, and it is the sentence 
 
 ### II. The Home Bar and the Five
 
-Competence behind the bar is a hosting skill (Chapter 25's guest-with-empty-glass problem, solved at the source), and it requires far less than the marketing suggests. **The essential home bar [DIAGRAM 29-1: the home bar map]:** one honest bottle each of the workhorse spirits — a bourbon or rye, a gin, a tequila (blanco, 100% agave — next chapter explains the label), a rum or a scotch by taste, and vodka if your circle calls for it; the supporting cast — sweet and dry vermouth (refrigerated once opened; the forgotten rule that most improves home martinis and Manhattans), bitters (Angostura at minimum), and honest mixers bought fresh and small; the tools — a shaker, a strainer, a jigger (measuring is not fussiness; it is why the second drink tastes like the first), a bar spoon, a proper knife for citrus; and ice in abundance, which the amateurs undervalue and the professionals worship: big, fresh, and plentiful — dilution control is half of mixing. Buy mid-shelf and honest; the top shelf flatters the cabinet more than the glass, and the bottom shelf is the false economy Chapter 22 already priced.
+Competence behind the bar is a hosting skill (Chapter 25's guest-with-empty-glass problem, solved at the source), and it requires far less than the marketing suggests. **The essential home bar [DIAGRAM 29-1: the home bar map]:** one honest bottle each of the workhorse spirits — a bourbon or rye, a gin, a tequila (blanco, 100% agave — the only two words that matter on the label; the mixto blends cut with cheaper sugars are where most bad memories of the spirit were made), a rum or a scotch by taste, and vodka if your circle calls for it; the supporting cast — sweet and dry vermouth (refrigerated once opened; the forgotten rule that most improves home martinis and Manhattans), bitters (Angostura at minimum), and honest mixers bought fresh and small; the tools — a shaker, a strainer, a jigger (measuring is not fussiness; it is why the second drink tastes like the first), a bar spoon, a proper knife for citrus; and ice in abundance, which the amateurs undervalue and the professionals worship: big, fresh, and plentiful — dilution control is half of mixing. Buy mid-shelf and honest; the top shelf flatters the cabinet more than the glass, and the bottom shelf is the false economy Chapter 22 already priced.
 
-**The five cocktails** — master these and you can serve almost anyone almost anywhere, because among them they cover the whole flavor map: the **Old Fashioned** (whiskey, sugar, bitters, orange — the form's founding document: learn it and you understand what a cocktail *is*: spirit, opened); the **Martini** (gin, dry vermouth, stirred cold and served up — the drink where technique is most naked: ice-cold, properly diluted, and the vermouth actually used); the **Margarita** (held for next chapter, where it is done properly); the **Whiskey Sour** (the citrus-sour template — spirit, lemon, sweet — from which daiquiris, gimlets, and half the canon are one substitution away); and the **Highball** (spirit and sparkling mixer over good ice in a tall glass — the humblest form and the host's volume workhorse: a well-made gin and tonic with real lime, or whiskey and soda, built with care, outranks an ambitious cocktail built without). Wine and beer, meanwhile, need one paragraph, not a priesthood: learn what you actually like by attention rather than by score (the grape, the region, the style — vocabulary follows enjoyment, never the reverse), serve whites cold and reds *slightly* cool (room temperature was a cellar's room), fill wine glasses a third full (it is not stinginess; it is where the wine breathes and the glass swirls), and hold the whole subject with the lightness it deserves: snobbery about fermentation is the pretension this book has been dismantling since Chapter 4, wearing a cork.
+**The five cocktails** — master these and you can serve almost anyone almost anywhere, because among them they cover the whole flavor map: the **Old Fashioned** (whiskey, sugar, bitters, orange — the form's founding document: learn it and you understand what a cocktail *is*: spirit, opened); the **Martini** (gin, dry vermouth, stirred cold and served up — the drink where technique is most naked: ice-cold, properly diluted, and the vermouth actually used); the **Margarita** (the genuine article is a three-ingredient sour wearing agave: two parts blanco tequila, one part orange liqueur, one part *fresh* lime squeezed that hour — shaken hard with good ice, strained over fresh ice, salt on *half* the rim so the drinker chooses each sip's salinity; no blender, no mix, no fluorescent anything — made this way once, it permanently retires the version poured from a bottle); the **Whiskey Sour** (the citrus-sour template — spirit, lemon, sweet — from which daiquiris, gimlets, and half the canon are one substitution away); and the **Highball** (spirit and sparkling mixer over good ice in a tall glass — the humblest form and the host's volume workhorse: a well-made gin and tonic with real lime, or whiskey and soda, built with care, outranks an ambitious cocktail built without). Wine and beer, meanwhile, need one paragraph, not a priesthood: learn what you actually like by attention rather than by score (the grape, the region, the style — vocabulary follows enjoyment, never the reverse), serve whites cold and reds *slightly* cool (room temperature was a cellar's room), fill wine glasses a third full (it is not stinginess; it is where the wine breathes and the glass swirls), and hold the whole subject with the lightness it deserves: snobbery about fermentation is the pretension this book has been dismantling since Chapter 4, wearing a cork.
 
 ### III. The Company of Drink
 
-Last, the social law — because drink is taken in company, and the gentleman's duties extend past his own glass. He **never pressures a pour**: "you're not drinking?" is a question that should not exist at his table (Chapter 31 arms the other side, but the offense is prevented *here*, at the source — the host refills without inventory, offers the alternative with equal grace, and treats the guest's glass as the guest's business). He **handles the drunk with charity and logistics**: the friend past his line is protected, not punished — water deployed, keys separated from their owner early and cheerfully ("I've got them; fight me tomorrow"), the ride arranged, the exit dignified — and the hard conversation about the pattern, if there is a pattern, saved for daylight and Chapter 13's architecture, never conducted at the party (Gate Four). And he **watches his own pattern with Chapter 7's calibrated instrument**: the honest audit includes the drinking — frequency creeping, reasons shifting from celebration toward medication, the line crossed twice in a season — and the excellent man responds to his own data early, while the response is easy, because he knows the throne-application never withdraws itself. The next two chapters — the agave tradition and the sober art — are both, in their ways, this same sovereignty from other angles. Merry heart; steady hand; his story, never the drink's.
+Last, the social law — because drink is taken in company, and the gentleman's duties extend past his own glass. He **never pressures a pour**: "you're not drinking?" is a question that should not exist at his table (Chapter 30 arms the other side, but the offense is prevented *here*, at the source — the host refills without inventory, offers the alternative with equal grace, and treats the guest's glass as the guest's business). He **handles the drunk with charity and logistics**: the friend past his line is protected, not punished — water deployed, keys separated from their owner early and cheerfully ("I've got them; fight me tomorrow"), the ride arranged, the exit dignified — and the hard conversation about the pattern, if there is a pattern, saved for daylight and Chapter 13's architecture, never conducted at the party (Gate Four). And he **watches his own pattern with Chapter 7's calibrated instrument**: the honest audit includes the drinking — frequency creeping, reasons shifting from celebration toward medication, the line crossed twice in a season — and the excellent man responds to his own data early, while the response is easy, because he knows the throne-application never withdraws itself. The next chapter — the sober art — is, in its way, this same sovereignty from another angle. Merry heart; steady hand; his story, never the drink's.
 
 ### IV. The Practice
 
@@ -1609,46 +1588,7 @@ Last, the social law — because drink is taken in company, and the gentleman's 
 ---
 ---
 
-## Chapter 30 — Tequila & Agave Culture
-
-> *"Para todo mal, mezcal; para todo bien, también."*
-> (For everything bad, mezcal; for everything good, the same.)
-> — Mexican proverb
-
----
-
-### I. An Apology and a Restoration
-
-Somewhere in the last century, one of the world's great spirits was kidnapped by the party industry. Tequila — a drink with four hundred years of craft behind it, made by a method closer to winemaking than to industrial distilling, from a plant that takes *longer to mature than a scotch takes to age* — became, in the export imagination, a dare: the salt, the slam, the lime bitten like an antidote, the grimace as the whole point. This chapter is the restoration. Because the slam ritual, understand, was never how the spirit's own culture treats it — it is a foreign invention for masking bad tequila, and its every step (the salt to numb, the lime to erase) is an apology for what's in the glass. In Mexico, good tequila is *sipped* — neat, at room temperature, often from a tall narrow glass, in no hurry whatsoever — because it was made by people who intended it to be tasted. The excellent man drinks it their way, for the same reason he does everything in this book their-way-wherever-he-is (Book VI's whole law, previewed): respect for a craft is shown by receiving it as its makers intended.
-
-### II. Reading the Bottle
-
-The knowledge that changes everything fits on a label, and the first item is the only non-negotiable in the chapter: **the words "100% agave"** (or *100% de agave*). Tequila law permits a category — "mixto," never labeled as such — in which up to 49% of the fermentable sugar comes not from the agave plant but from anywhere cheaper, and virtually every bad tequila memory in the reader's possession was manufactured in that 49%. The 100% agave designation means the spirit is entirely the plant: the blue Weber agave, grown in the designated regions of Jalisco and its neighbors (tequila is a protected appellation, like Champagne — it can only come from where it comes from), matured in the field for *six to ten years* before harvest, its heart — the *piña*, often eighty pounds and more — roasted, crushed, fermented, and twice distilled. A plant decade in every bottle. Sip accordingly.
-
-**The three ages** are the label's second lesson, and they are styles, not ranks: **blanco** (unaged or rested under two months — the agave itself, naked: peppery, bright, vegetal; the purist's choice and the *correct* cocktail base, because its voice cuts through); **reposado** ("rested," two months to a year in oak — the agave rounded with vanilla and warmth; the great middle path and the finest first sip for a newcomer); and **añejo** ("aged," one to three years in barrel — deep, soft, sipping territory that converses with whiskey drinkers; beyond it, *extra añejo* for the special occasions). The trained buyer's whole protocol: *100% agave, always; the age for the purpose; and distrust the celebrity bottle in the jeweled decanter* — in tequila as everywhere in this book, the quiet label doing one thing well outranks the loud one doing marketing.
-
-**And mezcal, the elder cousin,** deserves its paragraph: tequila is technically one member of the broader mezcal family — spirits of *any* permitted agave, from many regions (Oaxaca above all), whose piñas are traditionally roasted in earthen pits over wood and charcoal, which is where the signature smoke enters. Where tequila is a single grape, mezcal is a whole wild vineyard: dozens of agave varieties, some wild-harvested after twenty and thirty years' growth, village-made in tiny *palenques*, each bottle a specific place. It is drunk even more ceremonially — neat, from small clay *copitas*, traditionally with orange slices and *sal de gusano*, and with the local counsel that is also the proverb's spirit: *no se toma, se besa* — you don't drink it, you kiss it. The excellent man's cabinet, in time, holds one of each.
-
-### III. The Two Cocktails, Done Properly
-
-When tequila does go to work in a glass, two forms cover the territory, and both are routinely ruined by the same crime: the pre-made mix, a bottled slurry of corn syrup and citric regret. The real things take ninety seconds:
-
-**The Margarita** — the genuine article is a three-ingredient sour (Chapter 29's template, wearing agave): two parts blanco, one part orange liqueur, one part *fresh* lime — squeezed that hour; this is the entire secret — shaken hard with good ice, strained over fresh ice, salt on *half* the rim (courtesy in crystal: the drinker chooses each sip's salinity) **[DIAGRAM 30-1: the true margarita — proportions and the half-rim]**. No blender, no mix, no fluorescent anything. Made this way once, it permanently retires its impostors.
-
-**The Paloma** — Mexico's actual favorite tequila drink, nearly unknown north of it and the easiest excellent cocktail in this book: blanco over ice in a tall glass, fresh lime squeezed in, topped with grapefruit soda (or, better, fresh grapefruit and sparkling water with a touch of agave syrup), pinch of salt. A highball (Chapter 29's humble workhorse) elevated by one country's better taste in citrus. It is what to make for a crowd, forever.
-
-### IV. The Practice
-
-**This week: taste the restoration.** Acquire one honest bottle — 100% agave, reposado if you are new to sipping, modest and quiet of label — and conduct the proper tasting once: a small pour, neat, unhurried; nose it gently (mouth slightly open, the taster's trick), sip small, and let it sit a moment before judging; no salt, no lime, no hurry — just the plant decade, received as intended. Make one true margarita and one paloma by the specifications, fresh citrus and all, and retire the mix bottle to the bin where it belongs. And if the cabinet ever grows a mezcal: kiss it, don't drink it. *Para todo bien.*
-
-### The Line
-
-*100% agave, sipped with respect — the craft deserves its four hundred years.*
-
----
----
-
-## Chapter 31 — The Sober Art
+## Chapter 30 — The Sober Art
 
 > *"Nothing is enough for the man to whom enough is too little."*
 > — Epicurus
@@ -1669,7 +1609,7 @@ And the man with history — for whom the decline is not preference but perimete
 
 ### III. Hosting Dry, Hosting All
 
-The other side of the table now, because Chapter 25's oath — answerable for every guest's happiness — has a sober clause the modern host can no longer skip: **the non-drinker at your table must never hold the evening's saddest glass.** The tap-water afterthought while the wine breathes decanted is a small message about who was anticipated, and the excellent host sends the opposite one: real alternatives, stocked with the same care as the bar — good sparkling water in quantity, honest non-alcoholic options (the zero-proof shelf has become genuinely excellent in recent years: proper NA beers, alcohol-free spirits and aperitifs worth the name — Chapter 29's mid-shelf-and-honest rule applies here identically), and best of all, **one considered zero-proof cocktail** offered by name with the same ceremony as the wine ("there's a paloma without the tequila that's honestly better than with" — Chapter 30's citrus does half the work). Serve everything in the *same glassware* — the adult glass, not the child's tumbler — pour without commentary, refill without inventory, and fold the toast in seamlessly: the toast (Chapter 17) is raised with whatever is in the hand — the glass's contents were never the point of the raising; the sentiment was, and every tradition on earth agrees.
+The other side of the table now, because Chapter 25's oath — answerable for every guest's happiness — has a sober clause the modern host can no longer skip: **the non-drinker at your table must never hold the evening's saddest glass.** The tap-water afterthought while the wine breathes decanted is a small message about who was anticipated, and the excellent host sends the opposite one: real alternatives, stocked with the same care as the bar — good sparkling water in quantity, honest non-alcoholic options (the zero-proof shelf has become genuinely excellent in recent years: proper NA beers, alcohol-free spirits and aperitifs worth the name — Chapter 29's mid-shelf-and-honest rule applies here identically), and best of all, **one considered zero-proof cocktail** offered by name with the same ceremony as the wine ("there's a grapefruit-and-soda number here that's honestly better without the alcohol" — fresh citrus does half the work in any highball, spirit or none). Serve everything in the *same glassware* — the adult glass, not the child's tumbler — pour without commentary, refill without inventory, and fold the toast in seamlessly: the toast (Chapter 17) is raised with whatever is in the hand — the glass's contents were never the point of the raising; the sentiment was, and every tradition on earth agrees.
 
 And the sober host himself — hosting dry while pouring wine for others — discovers the trade secret the great professional hosts have always known: he is *better at the job*. The evening's conductor benefits from being its clearest head — the introductions sharper, the radar (Chapter 25) unimpaired through hour four, the last guest walked out by a man as composed as the first was welcomed. Some of the finest tables in history were kept by hosts who never touched what they served, on exactly this logic: the host is on duty. Sobriety, it turns out, is not hosting's handicap. It is close to its professional standard.
 
@@ -1684,48 +1624,20 @@ And the sober host himself — hosting dry while pouring wine for others — dis
 ---
 ---
 
-## Chapter 32 — Tobacco: The Sacred and the Sprayed
-
-> *"Traditional tobacco is medicine. Commercial tobacco is not sacred."*
-> — National Native Network, Keep It Sacred
-
----
-
-### I. Two Things Wearing One Name
-
-This chapter asks the reader to hold an unusual thought: that "tobacco" names two almost unrelated things, and that telling them apart is both a matter of respect and a matter of life expectancy. The first tobacco is one of the oldest sacred plants in the human story. Across the indigenous nations of the Americas, tobacco — in its traditional varieties and preparations — has served for thousands of years as *medicine and messenger*: offered to the earth and water before harvests and journeys, burned or presented in prayer (the smoke understood in many traditions as carrying intention upward), given as the proper gift when approaching an elder with a request, sealing councils and treaties, marking the great transitions. In these uses tobacco is rarely inhaled recreationally and never used casually — its power is precisely *in* its being reserved: an economy of the sacred that this book, whose whole fourth chapter was about contained power, should have no trouble recognizing. The epigraph is not a slogan; it is the teaching of the traditions themselves, who have had to fight to keep the ceremonial plant distinct from what industry did to its name.
-
-Because the second tobacco is a twentieth-century industrial product that borrowed the plant and re-engineered it for a single purpose the sacred use never had: *maximum repeat consumption.* The documented record — dragged into daylight through decades of litigation and the industry's own internal papers, chronicled in works this book's library carries (Proctor's *Golden Holocaust*, Brandt's *The Cigarette Century*) — is unambiguous: the modern cigarette is among the most deliberately engineered products ever sold, its tobacco treated with hundreds of permitted additives — sugars and flavorants to smooth the harshness that would warn a body off, compounds that alter smoke chemistry and nicotine delivery, ammonia technology to speed the hit — the whole system tuned, in the industry's own private language, toward efficient addiction. The result is not a stronger version of the sacred plant; it is a different artifact wearing its name — one that, used exactly as designed, kills roughly half its long-term users and remains the largest preventable cause of death on earth. Between the prayer and the product stretches the whole distance this chapter exists to map.
-
-### II. The Honest Ledger
-
-The excellent man's relationship to any powerful substance runs through Chapter 7's calibrated instrument, so here is the ledger kept honestly, both columns. The *against* column, for the industrial cigarette, is not close and the manual will not pretend otherwise: engineered dependence (nicotine's capture is fast, deep, and — by design — hard to reverse; most smokers report wishing they could stop, which is the definition of a servant become king, Chapter 29's throne seized outright); the health arithmetic (the halving of odds mentioned above, the decade of median life traded, the quality of the remaining years taxed — lungs, heart, and the body Book III just spent three chapters building); the daily sovereignty cost, subtler and central to this book: the smoker's hours are punctuated by a chemical summons he did not schedule — appetite governing the man, the precise inversion of everything Book I trained; and the footprint on others, from the shared air to the modeling (Chapter 5: the amplifier applies — the respected man's cigarette licenses a dozen). A man currently in that capture should hear the manual say it without a milligram of contempt: the engineering was aimed at you on purpose, the difficulty of leaving is the product working as designed and no verdict on your will — and leaving is nonetheless among the highest-return acts of self-sovereignty available to a modern man, attempted on average several times before it holds, worth every attempt, and vastly aided by the help (medical, structural, human) that Chapter 8's eternal student will not be too proud to study and use. The never-twice rule (Chapter 9) was built for exactly this campaign.
-
-The *other* column the honest ledger keeps is smaller and real: there exists a use of tobacco — the occasional cigar or pipe, in the old style — that some men of judgment maintain as *ritual rather than habit*, and the manual addresses it as it addressed the sipped añejo: with respect and open eyes. The distinction is structural, not rhetorical. The cigar smoked a handful of times a year — at the wedding, the birth, the reunion, the deal sealed — unhurried, uninhaled, in chosen company, is closer in its *grammar* to the ceremonial economy than to the pack-a-day summons: it is reserved, occasioned, social, and slow (an hour, properly — which is the actual point: the cigar is one of the last remaining social technologies that *forces* two men to sit still together for sixty minutes, and many of the form's devotees will confess the conversation was always the substance and the smoke the excuse). The eyes stay open: no combustible tobacco is safe, occasional use is *lower* risk, not no risk, and the ritual's whole legitimacy rests on its staying ritual — the moment frequency creeps (Chapter 7's audit watches for exactly this), the grammar has changed and the throne is under application again. **And the etiquette is absolute wherever smoke exists:** outdoors or in designated space, never in a non-smoker's home or car or airspace without invitation, never near children or food or anyone's unconsulted lungs, with the ash and the ends leaving no trace (the flicked butt is littering *plus* fire risk, a two-crime act) — the smoker's courtesy being, in the end, just Chapter 23's directive with a lit end: your ritual must cost the commons nothing.
-
-### III. The Practice
-
-**This week: settle your account.** Whichever reader you are, put it in the audit in writing. The non-user: note what this chapter changed in how you'll regard both the ceremony (respect — including never treating sacred use as a costume or a curiosity) and the captured (compassion — the engineering was industrial, the exit is hard, and your table's courtesy extends to the friend stepping outside). The occasional ritualist: date your last three occasions honestly and check the grammar — reserved, occasioned, slow? — and recommit to the etiquette entire. And the man in the capture who wants out: this week, one concrete step — the honest count of the habit's daily summonses, the conversation with the doctor, the quit date set and told to one person who loves you (Chapter 12: the word as bond, deployed *for* yourself this time). The manual will be here on attempt two and five and seven. So will the man you're digging out.
-
-### The Line
-
-*Honor the sacred, see through the sprayed — ritual, never habit; sovereignty, always.*
-
----
----
-
 *End of Book IV — THE COMPANY.*
-*Next: Book V — THE COMPANION (Chapters 33–38).*
--e 
+*Next: Book V — THE COMPANION (Chapters 31–36).*
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK V — THE COMPANION
-### Chapters 33–38
+### Chapters 31–36
 
 ---
 ---
 
-## Chapter 33 — The Old Courtesies
+## Chapter 31 — The Old Courtesies
 
 > *"It is almost a definition of a gentleman to say he is one who never inflicts pain."*
 > — John Henry Newman, The Idea of a University (1852)
@@ -1765,7 +1677,7 @@ One more layer down, because this chapter is the foundation for five more. Why d
 ---
 ---
 
-## Chapter 34 — Courting
+## Chapter 32 — Courting
 
 > *"Love all, trust a few, do wrong to none."*
 > — Shakespeare, All's Well That Ends Well
@@ -1780,19 +1692,19 @@ The manual uses the old word deliberately. *Courting* — against "talking to," 
 
 **Know your own intention first** — the courtship version of Chapter 7's calibrated instrument. Before pursuing anyone, the honest man answers privately: what am I actually available for? Genuine partnership if it grows? Companionship for a season, honestly framed? A man who doesn't know is not villainous, but he is a hazard — he will let another person invest in a future he never intended to stock — and the audit question is owed *before* the first invitation, not after the sixth.
 
-**Then declare, plainly.** The founding act of courtship is the direct, warm, pressure-free expression of interest — and it is astonishing how rare it has become and therefore how powerfully it lands. The architecture: specific, honest, and *escapable.* "I've enjoyed every conversation we've had, and I'd like to take you to dinner — properly, as a date." Note each load-bearing word: *properly, as a date* — the sentence does not hide in ambiguity ("we should hang out sometime" is the fog, weaponized as deniability: if she declines, he was never asking; the excellent man does not purchase ego-insurance with someone else's clarity); and it is delivered with the exit fully lit — tone and framing that make "no" easy, safe, and costless, because (Chapter 33's whole grammar) *the choice is hers, and his part is readiness without presumption.* If the answer is no — in words, or in the soft no of hedged unavailability, which a man of Chapter 10's listening hears the first time — it is received *cleanly*: one gracious sentence, warmth intact, pursuit ended. Not negotiated, not sulked over, not converted into a campaign; the persistence mythology of a hundred films is, in life, the harassment chapter of somebody else's story. A clean-received no also leaves standing what pressure destroys: their actual friendship, her actual regard, and his actual dignity — all three of which routinely outlast the disappointment.
+**Then declare, plainly.** The founding act of courtship is the direct, warm, pressure-free expression of interest — and it is astonishing how rare it has become and therefore how powerfully it lands. The architecture: specific, honest, and *escapable.* "I've enjoyed every conversation we've had, and I'd like to take you to dinner — properly, as a date." Note each load-bearing word: *properly, as a date* — the sentence does not hide in ambiguity ("we should hang out sometime" is the fog, weaponized as deniability: if she declines, he was never asking; the excellent man does not purchase ego-insurance with someone else's clarity); and it is delivered with the exit fully lit — tone and framing that make "no" easy, safe, and costless, because (Chapter 31's whole grammar) *the choice is hers, and his part is readiness without presumption.* If the answer is no — in words, or in the soft no of hedged unavailability, which a man of Chapter 10's listening hears the first time — it is received *cleanly*: one gracious sentence, warmth intact, pursuit ended. Not negotiated, not sulked over, not converted into a campaign; the persistence mythology of a hundred films is, in life, the harassment chapter of somebody else's story. A clean-received no also leaves standing what pressure destroys: their actual friendship, her actual regard, and his actual dignity — all three of which routinely outlast the disappointment.
 
 **And one at a time, fully.** The chapter's countercultural core: once genuine courtship is underway — mutual, building, past the first exploratory dates — the excellent man courts *one woman*, with his whole attention. Not because variety is sinful, but because of what this book knows about attention (Chapter 10: it is the rarest gift) and about hedging (Chapter 12: the half-yes takes generosity's credit and delivers insult's experience). The roster-runner's diffuse attention is *felt* — women are not confused about why modern courtship feels like auditioning for a distracted panel — and the man courting singly, by contrast, is offering the one thing the landscape has made precious beyond price: undivided, legible, unhurried attention. Courting versus collecting: the collector optimizes options; the courtier explores one possibility honestly to its truth. The second man learns more, wastes less of everyone's life, and — the Law of Return being undefeated — is the one worth choosing, and known to be.
 
 ### III. The Craft of the Court
 
-**The date is hosting** — Chapter 25, scaled to two. He who invites, designs: a real plan (the "idk what do you want to do" opener delegates the hosting to the guest — an abdication before the door), built for *conversation* (the classic first-date failure is the spectacle date — the loud venue, the movie — which prevents the entire purpose; a walk, a market, a quiet table outperform every production), with logistics absorbed (the reservation made, the timing considered, the backup held for weather) and communicated (time, place, register of dress — Chapter 22's courtesy). He arrives groomed and punctual (Books III and IV report for duty), phone away for the duration without announcement, and runs the evening on Chapter 15's engine: *make her the interesting one* — threads pulled, second questions asked, her actual person attended to rather than her audition assessed. On the bill: the man who invited, pays — not as ideology but as hosting (the inviter of a guest does not split the hospitality); her offer to contribute is received as the courtesy it is and declined once, warmly, or accepted gracefully if she insists — this negotiation is thirty seconds and no hill worth anyone's evening. And afterward, the fog is refused one more time: if he wants to see her again, *he says so, that night or the next day, in words* — "I had a wonderful time; I want to do this again" — and if he doesn't, Chapter 36 will train the honest close. What he never does is the modern mean: the warm evening followed by strategic silence, the three-day-rule games, the interest metered out for leverage. Games are the fog with intent added. The excellent man's entire brand is the opposite weather.
+**The date is hosting** — Chapter 25, scaled to two. He who invites, designs: a real plan (the "idk what do you want to do" opener delegates the hosting to the guest — an abdication before the door), built for *conversation* (the classic first-date failure is the spectacle date — the loud venue, the movie — which prevents the entire purpose; a walk, a market, a quiet table outperform every production), with logistics absorbed (the reservation made, the timing considered, the backup held for weather) and communicated (time, place, register of dress — Chapter 22's courtesy). He arrives groomed and punctual (Books III and IV report for duty), phone away for the duration without announcement, and runs the evening on Chapter 15's engine: *make her the interesting one* — threads pulled, second questions asked, her actual person attended to rather than her audition assessed. On the bill: the man who invited, pays — not as ideology but as hosting (the inviter of a guest does not split the hospitality); her offer to contribute is received as the courtesy it is and declined once, warmly, or accepted gracefully if she insists — this negotiation is thirty seconds and no hill worth anyone's evening. And afterward, the fog is refused one more time: if he wants to see her again, *he says so, that night or the next day, in words* — "I had a wonderful time; I want to do this again" — and if he doesn't, Chapter 34 will train the honest close. What he never does is the modern mean: the warm evening followed by strategic silence, the three-day-rule games, the interest metered out for leverage. Games are the fog with intent added. The excellent man's entire brand is the opposite weather.
 
-**Patience is the pace of respect.** Courtship has a tempo, and the trained man lets it be set by *the slower party's genuine comfort* — in intimacy above all, where the standing law is Chapter 33's grammar at full stakes: everything invited, nothing presumed, enthusiasm the only yes that counts, and any hesitation read the first time as the answer it is. But patience governs the emotional pace too: the rush to define, to claim, to accelerate past what has actually grown is its own pressure, and the fruit ripened by force is the fruit that never sweetens. Enthusiasm without hurry; interest without grip. The paradox the anxious never learn: the secure pace *is* the attractive one — Chapter 4's unhurried man, courting.
+**Patience is the pace of respect.** Courtship has a tempo, and the trained man lets it be set by *the slower party's genuine comfort* — in intimacy above all, where the standing law is Chapter 31's grammar at full stakes: everything invited, nothing presumed, enthusiasm the only yes that counts, and any hesitation read the first time as the answer it is. But patience governs the emotional pace too: the rush to define, to claim, to accelerate past what has actually grown is its own pressure, and the fruit ripened by force is the fruit that never sweetens. Enthusiasm without hurry; interest without grip. The paradox the anxious never learn: the secure pace *is* the attractive one — Chapter 4's unhurried man, courting.
 
 ### IV. The Practice
 
-**This week: replace fog with legibility.** Wherever you currently stand — interested in someone, mid-courtship, or fully single — perform the standing audit: is there anyone to whom my intentions are currently *illegible*? The hedge maintained, the ambiguity cultivated, the interest unstated or overstated? This week, clear one instance: the direct warm invitation delivered with the exit lit, or the honest framing of what you're available for, or (Chapter 36 previewing) the kind close of something you've been keeping warm without intent. And if courtship is live: plan and host one date to full specification — designed for conversation, logistics absorbed, attention undivided, follow-up in words within a day. The fog is the competition. It is not strong.
+**This week: replace fog with legibility.** Wherever you currently stand — interested in someone, mid-courtship, or fully single — perform the standing audit: is there anyone to whom my intentions are currently *illegible*? The hedge maintained, the ambiguity cultivated, the interest unstated or overstated? This week, clear one instance: the direct warm invitation delivered with the exit lit, or the honest framing of what you're available for, or (Chapter 34 previewing) the kind close of something you've been keeping warm without intent. And if courtship is live: plan and host one date to full specification — designed for conversation, logistics absorbed, attention undivided, follow-up in words within a day. The fog is the competition. It is not strong.
 
 ### The Line
 
@@ -1801,7 +1713,7 @@ The manual uses the old word deliberately. *Courting* — against "talking to," 
 ---
 ---
 
-## Chapter 35 — Respecting Yourself and the Other
+## Chapter 33 — Respecting Yourself and the Other
 
 > *"This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man."*
 > — Shakespeare, Hamlet
@@ -1822,7 +1734,7 @@ And underneath the standard, the disposition that makes it livable rather than r
 
 ### III. And the Other Sovereign
 
-Now the mirror image, because the geometry breaks in both directions. Respecting *her* sovereignty means, first, the retirement of the appraisal stance — the evaluative squint that runs courtship as a scoring exercise, itemizing her against a checklist while performing warmth. People feel appraisal through any charm (it is the invoice again, Chapter 3, drawn on a different account), and its opposite is not standardlessness but *regard*: attending to the actual person — her aims, her tastes, her contradictions, her Tuesday — as a full subject in her own story rather than a candidate in yours. It means **honoring her requirements as you hold your own**: her deal-breakers received as information, not as negotiations to win; her pace as sovereign as your intent (Chapter 34's law, restated at the level of principle); her no — to anything, at any stage — as final on delivery, appeal denied, warmth retained. It means **never keeping score** — the ledger of who texted last, who conceded last, who is currently "winning," which is the buyer-seller geometry smuggled back in decimal form; between sovereigns there is no score, only the running question *are we both more alive in this?* And it means the quiet discipline the old books called *never speaking ill of the beloved* — to friends, to family, to the phone: the man narrating his courtship's private frictions to an audience has made her a character in his content, and sovereignty extends to her dignity in rooms she isn't in (Chapter 11's absent-person rule, at maximum stakes).
+Now the mirror image, because the geometry breaks in both directions. Respecting *her* sovereignty means, first, the retirement of the appraisal stance — the evaluative squint that runs courtship as a scoring exercise, itemizing her against a checklist while performing warmth. People feel appraisal through any charm (it is the invoice again, Chapter 3, drawn on a different account), and its opposite is not standardlessness but *regard*: attending to the actual person — her aims, her tastes, her contradictions, her Tuesday — as a full subject in her own story rather than a candidate in yours. It means **honoring her requirements as you hold your own**: her deal-breakers received as information, not as negotiations to win; her pace as sovereign as your intent (Chapter 32's law, restated at the level of principle); her no — to anything, at any stage — as final on delivery, appeal denied, warmth retained. It means **never keeping score** — the ledger of who texted last, who conceded last, who is currently "winning," which is the buyer-seller geometry smuggled back in decimal form; between sovereigns there is no score, only the running question *are we both more alive in this?* And it means the quiet discipline the old books called *never speaking ill of the beloved* — to friends, to family, to the phone: the man narrating his courtship's private frictions to an audience has made her a character in his content, and sovereignty extends to her dignity in rooms she isn't in (Chapter 11's absent-person rule, at maximum stakes).
 
 Held together — the standard *and* the regard, the requirements *and* the reverence — the two disciplines produce courtship's rarest and most attractive quality, for which the manual has been building vocabulary since Chapter 4: **secure warmth.** Open-handed and unhurried; fully interested and fully intact; capable of pursuing without chasing and of losing without collapsing — because the man's center was never placed in the outcome. That man can afford total honesty, first-date directness, gracious noes given and received, standards stated without armor — *all* the behaviors this Book prescribes — for the simple structural reason that nothing he cannot survive losing is on the table. Two sovereigns, or nothing, turns out to be not just the ethical geometry but the winning one. It always was.
 
@@ -1837,7 +1749,7 @@ Held together — the standard *and* the regard, the requirements *and* the reve
 ---
 ---
 
-## Chapter 36 — Red Flags & the Graceful Exit
+## Chapter 34 — Red Flags & the Graceful Exit
 
 > *"When someone shows you who they are, believe them the first time."*
 > — Maya Angelou
@@ -1856,7 +1768,7 @@ Courtship is, among everything else, an assessment under enchantment — you are
 
 Reading is half the chapter. The other half is the acting — because the modern courtship landscape's signature moral failure is not cruelty but *evaporation*: the ghost. Understand what ghosting actually is, so its wrongness is structural and not sentimental: it is the outsourcing of your discomfort to the other person's uncertainty — you purchase an awkwardness-free exit by billing them for days or weeks of confusion, self-audit, and un-closable hope. It fails the four gates (unkind, and its silence is dishonest by omission), it fails the Law of Return (what you make people feel in endings is sowing of the most direct kind), and it fails the sovereign geometry (their clarity was owed; you kept it). The excellent man's rule admits one exception only — safety: where conduct has been threatening or unhinged, disengagement without explanation is not ghosting but protection, and no further word is owed. Everywhere else: **doors are closed gently, but audibly.**
 
-The craft, by stage: **After a date or two,** the close is brief, warm, prompt, and unexplained — "I really enjoyed meeting you, and I don't feel the connection I'd need to keep taking your time. Wishing you the best out there." Note the architecture: it is Chapter 12's clean no wearing courtship clothes — kind, complete, *final*, and mercifully free of the feedback nobody asked for (the exit interview itemizing their flaws is not honesty; it is cruelty invoicing itself as candor). Prompt matters most: the fade — replies slowing, warmth dimming, hoping they'll conclude it themselves — is just ghosting on an installment plan, and the kind man pays in full, once, now. **After months,** the close is owed in person or by voice — never text (Chapter 16's channel ladder, at its top rung) — with the same architecture scaled: the true reason at whatever depth is kind and honest ("we want different futures" suffices; the ten-point diagnostic does not), full ownership of your side, zero relitigating, and the other person's response — hurt, anger, tears — *received* with Chapter 6's composure rather than managed, argued with, or fled. You cannot spare someone the pain of an ending; that was never on offer. You can spare them confusion, indignity, and an audience — which is the entire gift it is in your power to give, and it is not small. **And when the exit is yours to receive:** the same book applies in the mirror — the no believed the first time, taken with one gracious sentence, grieved in private with your own Chapter 9 architecture, and never converted into a siege (the post-breakup campaign — the essays, the orchestrated run-ins, the appeals through friends — is Chapter 34's persistence-mythology at its most corrosive, and the manual's position is absolute: *a stated ending is a boundary, and boundaries get one response from excellent men — honor*).
+The craft, by stage: **After a date or two,** the close is brief, warm, prompt, and unexplained — "I really enjoyed meeting you, and I don't feel the connection I'd need to keep taking your time. Wishing you the best out there." Note the architecture: it is Chapter 12's clean no wearing courtship clothes — kind, complete, *final*, and mercifully free of the feedback nobody asked for (the exit interview itemizing their flaws is not honesty; it is cruelty invoicing itself as candor). Prompt matters most: the fade — replies slowing, warmth dimming, hoping they'll conclude it themselves — is just ghosting on an installment plan, and the kind man pays in full, once, now. **After months,** the close is owed in person or by voice — never text (Chapter 16's channel ladder, at its top rung) — with the same architecture scaled: the true reason at whatever depth is kind and honest ("we want different futures" suffices; the ten-point diagnostic does not), full ownership of your side, zero relitigating, and the other person's response — hurt, anger, tears — *received* with Chapter 6's composure rather than managed, argued with, or fled. You cannot spare someone the pain of an ending; that was never on offer. You can spare them confusion, indignity, and an audience — which is the entire gift it is in your power to give, and it is not small. **And when the exit is yours to receive:** the same book applies in the mirror — the no believed the first time, taken with one gracious sentence, grieved in private with your own Chapter 9 architecture, and never converted into a siege (the post-breakup campaign — the essays, the orchestrated run-ins, the appeals through friends — is Chapter 32's persistence-mythology at its most corrosive, and the manual's position is absolute: *a stated ending is a boundary, and boundaries get one response from excellent men — honor*).
 
 One closing reframe, for the reader currently mid-enchantment and arguing with a flag: the graceful exit is not the failure of a courtship. It is one of its two successful outcomes. Courtship is a *discovery process* — its job is truth, not continuation — and a discovery of incompatibility, made early and closed kindly, is the process *working*: two sovereigns, four months, one honest answer, both dignities intact. The failure was never the ending. The failure is the decade spent appealing the evidence.
 
@@ -1871,7 +1783,7 @@ One closing reframe, for the reader currently mid-enchantment and arguing with a
 ---
 ---
 
-## Chapter 37 — Tantra & Becoming Love
+## Chapter 35 — Tantra & Becoming Love
 
 > *"Love suffereth long, and is kind... beareth all things, believeth all things, hopeth all things, endureth all things."*
 > — 1 Corinthians 13:4,7
@@ -1886,13 +1798,13 @@ Every Book of this manual has had a chapter where the practical opens into the p
 
 Consider what actually distinguishes the moments of deepest intimacy in any love — the ones both people remember years later. Almost never technique, spectacle, or circumstance. It is *presence*: the experience of being fully met — attended to completely, by someone actually *there*, nowhere else, wanting to be nowhere else. And consider what ordinarily prevents it: the mind's elsewhere-ness — the self-consciousness running its performance review, the fantasy comparing the moment to some other moment, the anxiety rehearsing the future, the phone's ambient summons. Intimacy's great enemy is not inadequacy. It is *absence* — two bodies present, two attentions elsewhere.
 
-Which means the entire training of this manual has been, secretly, a preparation for love. The meditation of Chapter 9 — attention returned, ten thousand times, to what is actually here — is the *exact* faculty intimacy runs on. The listening of Chapter 10, the outward-turned attention of Chapter 3, the composure that can stay in intensity without fleeing into performance (Chapter 6): these are not adjacent skills; they are the thing itself, and the tantric traditions knew it — their practices are, at core, *presence disciplines*: slowness against the hurry that skips over experience; breath as the anchor in intensity (the same breath, note, from Chapter 6 — the traditions even share the technology); eyes actually meeting, sustained past the flinch of self-consciousness into actual contact; reverence as the frame — the beloved approached not as terrain or audience but as *presence meeting presence.* The word the tradition would use is worship, and the modern man should not spook at it: it means only this — attention raised to its highest setting, offered as honor. Every particular beyond that belongs to the two sovereigns themselves, governed by the law that has run since Chapter 33 and admits no exceptions at any depth of intimacy: everything invited, enthusiasm the only yes, her comfort sovereign, always. Reverence without consent is not reverence; it is theater. With it, the plainest moment becomes the doorway the tradition promised.
+Which means the entire training of this manual has been, secretly, a preparation for love. The meditation of Chapter 9 — attention returned, ten thousand times, to what is actually here — is the *exact* faculty intimacy runs on. The listening of Chapter 10, the outward-turned attention of Chapter 3, the composure that can stay in intensity without fleeing into performance (Chapter 6): these are not adjacent skills; they are the thing itself, and the tantric traditions knew it — their practices are, at core, *presence disciplines*: slowness against the hurry that skips over experience; breath as the anchor in intensity (the same breath, note, from Chapter 6 — the traditions even share the technology); eyes actually meeting, sustained past the flinch of self-consciousness into actual contact; reverence as the frame — the beloved approached not as terrain or audience but as *presence meeting presence.* The word the tradition would use is worship, and the modern man should not spook at it: it means only this — attention raised to its highest setting, offered as honor. Every particular beyond that belongs to the two sovereigns themselves, governed by the law that has run since Chapter 31 and admits no exceptions at any depth of intimacy: everything invited, enthusiasm the only yes, her comfort sovereign, always. Reverence without consent is not reverence; it is theater. With it, the plainest moment becomes the doorway the tradition promised.
 
 ### III. Becoming Love
 
 And now the chapter's summit, where tantra, Paul's hymn, and this book's opening chapter turn out to be describing one thing. Erich Fromm's great correction — love is an *art*, a practiced capacity, not a weather event one falls into — points at it. The tantric reframe completes it: love is not finally something you *get* from the beloved, nor even something you *give* to them, but something you **become** — a state of being whose signature is exactly the outward-turned, invoice-free, presence-saturated attention this manual has been training since the monkey king made himself a bridge. Read Paul's hymn again with Book I's eyes: *suffereth long* — equanimity (Chapter 3's fourth room); *is kind* — mettā; *envieth not* — muditā; *seeketh not her own* — the invoice, burned; *is not easily provoked* — Chapter 6 entire. First Corinthians 13 is the four immeasurables in Greek. The traditions converge (Chapter 2's judge would rule the object real) on a single finding: the highest love and the highest character are not two curricula. They are one.
 
-Which yields the teaching that dissolves romantic love's oldest complaint. The untrained man loves *transactionally* even at his most sincere — his love a response to being loved, his giving calibrated to receiving, his happiness held hostage by the beloved's daily output — and so he rides the market: adored when adored, wounded when she's tired, keeping (however subtly) the score Chapter 35 outlawed. The man becoming love has moved his center of operations: he loves as *what he is*, not as what he trades — putting the other before himself not as sacrifice (sacrifice still keeps books) but as the natural motion of attention that has genuinely turned outward — and discovers the secret the bodhisattvas and the mystics and every great grandmother arrived at independently: **giving, from this ground, is the gift to yourself** — not as strategy (that's the invoice sneaking back) but as plain phenomenology: the state of loving is the reward of loving; the man pouring out from fullness is *in* the very experience the taking man is trying to extract. This is non-duality's preview (Chapter 52 will finish the sentence): the accounting between self and beloved thins, and what remains is what the traditions were pointing at all along — not two sovereigns transacting, finally, but love, occurring, with two names attached. A man need not live at that altitude daily to have his whole love changed by having *seen* it once. The practice below is how it gets seen.
+Which yields the teaching that dissolves romantic love's oldest complaint. The untrained man loves *transactionally* even at his most sincere — his love a response to being loved, his giving calibrated to receiving, his happiness held hostage by the beloved's daily output — and so he rides the market: adored when adored, wounded when she's tired, keeping (however subtly) the score Chapter 33 outlawed. The man becoming love has moved his center of operations: he loves as *what he is*, not as what he trades — putting the other before himself not as sacrifice (sacrifice still keeps books) but as the natural motion of attention that has genuinely turned outward — and discovers the secret the bodhisattvas and the mystics and every great grandmother arrived at independently: **giving, from this ground, is the gift to yourself** — not as strategy (that's the invoice sneaking back) but as plain phenomenology: the state of loving is the reward of loving; the man pouring out from fullness is *in* the very experience the taking man is trying to extract. This is non-duality's preview (Chapter 50 will finish the sentence): the accounting between self and beloved thins, and what remains is what the traditions were pointing at all along — not two sovereigns transacting, finally, but love, occurring, with two names attached. A man need not live at that altitude daily to have his whole love changed by having *seen* it once. The practice below is how it gets seen.
 
 ### IV. The Practice
 
@@ -1905,7 +1817,7 @@ Which yields the teaching that dissolves romantic love's oldest complaint. The u
 ---
 ---
 
-## Chapter 38 — Partnership
+## Chapter 36 — Partnership
 
 > *"Love does not consist in gazing at each other, but in looking outward together in the same direction."*
 > — Antoine de Saint-Exupéry, Wind, Sand and Stars
@@ -1922,15 +1834,15 @@ Begin with the reframe in the epigraph, which reorients everything. The gazing m
 
 The chapter's central discipline, and the one the fallen-into-love model actively obscures: **partnership is chosen daily, or it isn't.** The wedding chose once, in public, at high ceremony; the marriage is chosen every morning after, in private, in conduct — and the man who believes the choosing was completed at the altar has confused the signing of the lease with the keeping of the house. What the daily re-choosing looks like in practice is precisely the unglamorous canon this manual has assembled, now aimed at one person for life:
 
-**The courtesies, kept at year ten.** Here is the quiet tragedy of long partnership, observable at any restaurant: the couple extending to each other *less* courtesy than they'd show a stranger — the phone attended over the spouse, the tone deployed at home that would never survive the office, the please-and-thank-you retired as if intimacy had made respect redundant. The excellent man runs the opposite doctrine: intimacy raises the standard, because this is the person receiving the largest dose of his daily conduct (Chapter 5: proximity is wattage — no one lives closer to your amplifier). So the old forms *stay*: the rising greeting when she comes home (the grandmothers' counsel, validated by the researchers — the first minute of reunion sets the household's evening), the door, the coat, the standing at the table, the thanks said aloud for the ten-thousandth dinner as if it were the first, the appearance still kept (Book III did not retire at the wedding), the dates still hosted (Chapter 34's craft, now *harder* and more necessary — the calendar defended for the crew's own evenings, or the shared direction quietly eats the shared table).
+**The courtesies, kept at year ten.** Here is the quiet tragedy of long partnership, observable at any restaurant: the couple extending to each other *less* courtesy than they'd show a stranger — the phone attended over the spouse, the tone deployed at home that would never survive the office, the please-and-thank-you retired as if intimacy had made respect redundant. The excellent man runs the opposite doctrine: intimacy raises the standard, because this is the person receiving the largest dose of his daily conduct (Chapter 5: proximity is wattage — no one lives closer to your amplifier). So the old forms *stay*: the rising greeting when she comes home (the grandmothers' counsel, validated by the researchers — the first minute of reunion sets the household's evening), the door, the coat, the standing at the table, the thanks said aloud for the ten-thousandth dinner as if it were the first, the appearance still kept (Book III did not retire at the wedding), the dates still hosted (Chapter 32's craft, now *harder* and more necessary — the calendar defended for the crew's own evenings, or the shared direction quietly eats the shared table).
 
 **Gratitude, out loud, specifically.** The silent-appreciation defense — "she knows I'm grateful" — fails on Chapter 16's physics: unexpressed gratitude is inventory, not payment. The practice is Chapter 14's praise craft turned homeward: specific, prompt, regular — not "you're great" but "I watched you handle your mother's call today; I don't know anyone else who could have" — and the research on flourishing couples gives the working arithmetic: the good ones run heavily positive ledgers, many appreciations to each correction, not because they ignore problems but because the deposits (Chapter 14 again) are what make the corrections *receivable.*
 
 **Repair, fast and first.** Chapter 13's architecture is partnership's actual load-bearing wall, so its findings bear their final repetition here where the stakes are highest: the lasting couples are not the ones who don't rupture — everyone ruptures; they are the ones who repair *fast*, and in whom someone always moves *first* (be the one; the pound of pride buys the whole bridge, every time). And the one absolute: **contempt is the line.** Gottman's decades reduce to this — disagreement, anger, even shouting predict little; contempt — the eye-roll, the sneer, the mockery, the superiority — predicts the end with actuarial reliability. The excellent man treats contempt in his own conduct the way a captain treats fire on a ship: not as a mood but as an emergency, met immediately with the full apparatus — the audit, the apology entire (Chapter 14, all five parts), the upstream repair of whatever resentment was fueling it. Because contempt is never really the problem; it is the *smoke* of unspoken problems — the difficult conversations dodged (Chapter 13's compounding ledger) until they combusted. Keep current accounts, and the fire never starts.
 
-**Protecting the "us."** Two perimeter duties, both his. Outward: the partnership's interior is *sealed* — her vulnerabilities, their conflicts, the private weather, never exported for laughs or leverage (Chapter 35's dignity-rule, now covenant: the man doing bits about his wife to the golf group has breached a wall no apology fully rebuilds), and the united front kept before children, families, and the world — disagreements argued *inside* the walls, in private, with Chapter 13's full craft, and never adjudicated by audience. Inward: the "us" defended from its subtler enemy — *drift*: the parallel-lives slide where two competent adults administrate a household efficiently for a decade and look up to find they are excellent colleagues and strangers. The counter-discipline is Chapter 9's, jointly practiced: the rituals decided once — the weekly evening that is *theirs*, the daily point of real contact (fifteen undistracted minutes outranks three co-present hours), the annual pilgrimage — and then merely obeyed by all their lesser moods, forever.
+**Protecting the "us."** Two perimeter duties, both his. Outward: the partnership's interior is *sealed* — her vulnerabilities, their conflicts, the private weather, never exported for laughs or leverage (Chapter 33's dignity-rule, now covenant: the man doing bits about his wife to the golf group has breached a wall no apology fully rebuilds), and the united front kept before children, families, and the world — disagreements argued *inside* the walls, in private, with Chapter 13's full craft, and never adjudicated by audience. Inward: the "us" defended from its subtler enemy — *drift*: the parallel-lives slide where two competent adults administrate a household efficiently for a decade and look up to find they are excellent colleagues and strangers. The counter-discipline is Chapter 9's, jointly practiced: the rituals decided once — the weekly evening that is *theirs*, the daily point of real contact (fifteen undistracted minutes outranks three co-present hours), the annual pilgrimage — and then merely obeyed by all their lesser moods, forever.
 
-And beneath the whole chapter, the two sovereigns of Chapter 35 remain exactly that: partnership is the *weaving* of two whole lives, not their merger into one biomass — the friendships kept, the crafts kept, the selves kept (she chose a man, not a dependency), because the paradox of the strongest crews is that they are composed of the most complete individuals, looking outward, together, in the same direction — and finding, most mornings, that they would choose each other again. That finding is not luck. It is maintenance. This entire Book has been the manual for it.
+And beneath the whole chapter, the two sovereigns of Chapter 33 remain exactly that: partnership is the *weaving* of two whole lives, not their merger into one biomass — the friendships kept, the crafts kept, the selves kept (she chose a man, not a dependency), because the paradox of the strongest crews is that they are composed of the most complete individuals, looking outward, together, in the same direction — and finding, most mornings, that they would choose each other again. That finding is not luck. It is maintenance. This entire Book has been the manual for it.
 
 ### III. The Practice
 
@@ -1944,17 +1856,19 @@ And beneath the whole chapter, the two sovereigns of Chapter 35 remain exactly t
 ---
 
 *End of Book V — THE COMPANION.*
-*Next: Book VI — THE WORLD (Chapters 39–42).*
--e 
+*Next: Book VI — THE WORLD (Chapters 37–40).*
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK VI — THE WORLD
-### Chapters 39–42
+### Chapters 37–40
 
 ---
 ---
 
-## Chapter 39 — The Traveler
+## Chapter 37 — The Traveler
 
 > *"Travel is fatal to prejudice, bigotry, and narrow-mindedness."*
 > — Mark Twain, The Innocents Abroad (1869)
@@ -1988,7 +1902,7 @@ And the detail begins before departure, with the guest's basic diligence: **the 
 ---
 ---
 
-## Chapter 40 — Travel Craft
+## Chapter 38 — Travel Craft
 
 > *"He who would travel happily must travel light."*
 > — Antoine de Saint-Exupéry
@@ -2013,7 +1927,7 @@ The standard, achievable by any man with Chapter 22's capsule already built: **o
 
 **Jet lag, managed rather than endured.** The mechanism is simple — the body's clock resets by roughly an hour a day, steered chiefly by light — so the craft is: shift sleep an hour or two toward the destination in the days before; set the watch to destination time at *takeoff* and behave accordingly on the plane (sleep or wake by the new clock, not the movie menu); hydrate like it's a job and treat alcohol aloft honestly (it costs double at altitude and bills the arrival); and on landing, **obey local time immediately** — daylight sought in the destination's morning, the nap resisted or capped at twenty minutes, the first night pushed to a local bedtime. Two days of discipline beat a week of drift, every trip.
 
-**Situational awareness, without paranoia.** The excellent traveler's security is not fear; it is the same relaxed, wide-lens attention Chapter 20 trained — eyes up, posture told (the confident, unhurried, apparently-knows-where-he's-going walker is simply *deselected* by opportunists, who are professional readers of Chapter 20's broadcast), phone navigation checked in doorways rather than performed mid-sidewalk like a lighthouse of distraction. The practical canon: valuables split (the day's cash in the front pocket, the reserve elsewhere — never everything in one liftable place); the bag worn crossbody and kept in contact at cafés (looped on a knee, not draped on a chair back); the common theaters known in advance — distraction works in teams (the spill, the petition, the sudden commotion are often the overture, and the trained response to any street theater is a hand to your pocket and a step back); the ATM chosen inside a bank in daylight; the late night navigated by licensed cab or reputable app rather than bravado; and the neighborhoods and scams of the specific city read about for ten minutes before arrival — the same homework file as Chapter 39, security tab. Above all, the instrument this book has been calibrating since Chapter 7 gets trusted on the road: the vague unease about the situation, the street, the too-friendly stranger *is data* (Book VII will formalize this as the gift of fear) — and the traveler's craft is simply to have arranged his affairs so that acting on it costs nothing: he can always leave, because he travels light.
+**Situational awareness, without paranoia.** The excellent traveler's security is not fear; it is the same relaxed, wide-lens attention Chapter 20 trained — eyes up, posture told (the confident, unhurried, apparently-knows-where-he's-going walker is simply *deselected* by opportunists, who are professional readers of Chapter 20's broadcast), phone navigation checked in doorways rather than performed mid-sidewalk like a lighthouse of distraction. The practical canon: valuables split (the day's cash in the front pocket, the reserve elsewhere — never everything in one liftable place); the bag worn crossbody and kept in contact at cafés (looped on a knee, not draped on a chair back); the common theaters known in advance — distraction works in teams (the spill, the petition, the sudden commotion are often the overture, and the trained response to any street theater is a hand to your pocket and a step back); the ATM chosen inside a bank in daylight; the late night navigated by licensed cab or reputable app rather than bravado; and the neighborhoods and scams of the specific city read about for ten minutes before arrival — the same homework file as Chapter 37, security tab. Above all, the instrument this book has been calibrating since Chapter 7 gets trusted on the road: the vague unease about the situation, the street, the too-friendly stranger *is data* (Book VII will formalize this as the gift of fear) — and the traveler's craft is simply to have arranged his affairs so that acting on it costs nothing: he can always leave, because he travels light.
 
 ### IV. The Practice
 
@@ -2026,7 +1940,7 @@ The standard, achievable by any man with Chapter 22's capsule already built: **o
 ---
 ---
 
-## Chapter 41 — Work & Money
+## Chapter 39 — Work & Money
 
 > *"Seest thou a man diligent in his business? he shall stand before kings."*
 > — Proverbs 22:29
@@ -2047,9 +1961,9 @@ The manual has trained the dinner party and the foreign capital; now the arena w
 
 Money among friends and family is where more relationships quietly die than anywhere but contempt, and the excellent man's handling runs on one master principle: **clarity is generosity.** The ambiguity that feels polite in the moment — the vague "I'll get you back," the loan with no terms, the bill left to awkward arithmetic — is where resentment is manufactured; the man who is cheerfully *explicit* about money is not crass, he is kind, because he is the one sparing everyone the silent ledger.
 
-The canon: **The bill,** split by the standing rules — the inviter hosts (Chapter 34's law generalized: "come to dinner, my treat" means treat); among peers dining jointly, the default is the even split *cheerfully paid* (the man itemizing his salad against your steak has saved four dollars and spent the table's whole ease — if incomes or appetites genuinely diverge, the graceful instruments are taking turns, or the quiet early word to the server, never the calculator produced at dessert); and the reach for the check performed *honestly* — the theatrical slow-motion wallet is visible to everyone; either mean it or thank the man who did. **The loan,** governed by the oldest and least-followed rule in the ledger: *lend only what you can afford to convert to a gift* — because the moment money moves between intimates, the relationship is holding the note, and the excellent man decides at the outset which he values more. If he lends: terms stated plainly and in writing however friendly ("pay me back by summer" in a text is not distrust; it is the *removal* of the ambiguity that breeds it), repayment received without ceremony, and non-repayment — if he lent by the rule — absorbed once, quietly, as the price of the information. If he borrows: the terms honored to the day as a Chapter 12 bond, and the gratitude expressed at repayment, not amortized into silence. **Generosity without theater:** the picked-up check, the covered shortfall, the wedding gift scaled to real affection — done warmly and *then never mentioned again*, because generosity that invoices in remembrance ("who paid last time…") was never generosity (Chapter 3 audited this instrument already; here is its daily use). And **tipping at home**, completing Chapter 39: the standing philosophy is that the tip is part of the price of being served by humans — budgeted as such, delivered at the local standard or above, adjusted upward for the brutal shift and the season, and *never* used as a whip for minor imperfections the kitchen caused anyway. The man is most legible to the world in how he treats those serving him (Chapter 36 taught you to read it in others; be aware it is read in you).
+The canon: **The bill,** split by the standing rules — the inviter hosts (Chapter 32's law generalized: "come to dinner, my treat" means treat); among peers dining jointly, the default is the even split *cheerfully paid* (the man itemizing his salad against your steak has saved four dollars and spent the table's whole ease — if incomes or appetites genuinely diverge, the graceful instruments are taking turns, or the quiet early word to the server, never the calculator produced at dessert); and the reach for the check performed *honestly* — the theatrical slow-motion wallet is visible to everyone; either mean it or thank the man who did. **The loan,** governed by the oldest and least-followed rule in the ledger: *lend only what you can afford to convert to a gift* — because the moment money moves between intimates, the relationship is holding the note, and the excellent man decides at the outset which he values more. If he lends: terms stated plainly and in writing however friendly ("pay me back by summer" in a text is not distrust; it is the *removal* of the ambiguity that breeds it), repayment received without ceremony, and non-repayment — if he lent by the rule — absorbed once, quietly, as the price of the information. If he borrows: the terms honored to the day as a Chapter 12 bond, and the gratitude expressed at repayment, not amortized into silence. **Generosity without theater:** the picked-up check, the covered shortfall, the wedding gift scaled to real affection — done warmly and *then never mentioned again*, because generosity that invoices in remembrance ("who paid last time…") was never generosity (Chapter 3 audited this instrument already; here is its daily use). And **tipping at home**, completing Chapter 37: the standing philosophy is that the tip is part of the price of being served by humans — budgeted as such, delivered at the local standard or above, adjusted upward for the brutal shift and the season, and *never* used as a whip for minor imperfections the kitchen caused anyway. The man is most legible to the world in how he treats those serving him (Chapter 34 taught you to read it in others; be aware it is read in you).
 
-**Negotiation, as mutual dignity.** The chapter's capstone, because salary talks, big purchases, and deals are where money manners meet contained power. The excellent man's frame: negotiation is not combat but *joint problem-solving between parties who both need to be able to look each other in the eye afterward* — which cashes out as: preparation as the actual advantage (Chapter 51 will enthrone this; here it means knowing the market rate, the alternatives, and your own walk-away number *before* the room); the other side's interests genuinely mapped (the best deals trade what is cheap for you against what is dear to them — discoverable only by Chapter 10's listening); the first-person anchor stated calmly and *silence held after it* (the amateur negotiates against himself in the pause; the trained man lets the pause work); honesty absolute even where candor is optional (bluffs are loans against your name at ruinous interest); and the walk-away executed, when required, with warmth intact — "we couldn't make it work" is a complete sentence, and the man who leaves deals gracefully is the man invited back to better ones. The Law of Return keeps books in every currency. It has never once lost an account.
+**Negotiation, as mutual dignity.** The chapter's capstone, because salary talks, big purchases, and deals are where money manners meet contained power. The excellent man's frame: negotiation is not combat but *joint problem-solving between parties who both need to be able to look each other in the eye afterward* — which cashes out as: preparation as the actual advantage (Chapter 49 will enthrone this; here it means knowing the market rate, the alternatives, and your own walk-away number *before* the room); the other side's interests genuinely mapped (the best deals trade what is cheap for you against what is dear to them — discoverable only by Chapter 10's listening); the first-person anchor stated calmly and *silence held after it* (the amateur negotiates against himself in the pause; the trained man lets the pause work); honesty absolute even where candor is optional (bluffs are loans against your name at ruinous interest); and the walk-away executed, when required, with warmth intact — "we couldn't make it work" is a complete sentence, and the man who leaves deals gracefully is the man invited back to better ones. The Law of Return keeps books in every currency. It has never once lost an account.
 
 ### III. The Practice
 
@@ -2062,7 +1976,7 @@ The canon: **The bill,** split by the standing rules — the inviter hosts (Chap
 ---
 ---
 
-## Chapter 42 — The Digital Citizen
+## Chapter 40 — The Digital Citizen
 
 > *"All of humanity's problems stem from man's inability to sit quietly in a room alone."*
 > — Blaise Pascal, Pensées (1670)
@@ -2075,13 +1989,13 @@ Pascal wrote the epigraph three and a half centuries before the smartphone, whic
 
 ### II. The Disciplines of the Broadcast
 
-**Online conduct is conduct.** The foundational collapse of a foundational illusion: there is no "online self" whose behavior is quarantined from your character — the man courteous at dinner and vicious in comment sections is not two men; he is one man whose cruelty has found a venue with no waiters watching (Chapter 36's seam-reading applies to yourself: the internet is *your* waiter). So the standing tests travel intact: the four gates (Chapter 11) before every post, with "necessary" doing heavy work; the absent-person rule, which converts most of social media's core activity — the pile-on, the quote-dunk, the screenshot mockery of some stranger's worst moment — into what it is (gossip at industrial scale, conducted about people who are, never forget, *present*: they will read it); and the forwarding standard of Chapter 16 upgraded to its digital truth: everything you type may as well be published, because it can be, by anyone, forever. Write accordingly, everywhere, including the "private" channels — the group chat is a room, and rooms leak.
+**Online conduct is conduct.** The foundational collapse of a foundational illusion: there is no "online self" whose behavior is quarantined from your character — the man courteous at dinner and vicious in comment sections is not two men; he is one man whose cruelty has found a venue with no waiters watching (Chapter 34's seam-reading applies to yourself: the internet is *your* waiter). So the standing tests travel intact: the four gates (Chapter 11) before every post, with "necessary" doing heavy work; the absent-person rule, which converts most of social media's core activity — the pile-on, the quote-dunk, the screenshot mockery of some stranger's worst moment — into what it is (gossip at industrial scale, conducted about people who are, never forget, *present*: they will read it); and the forwarding standard of Chapter 16 upgraded to its digital truth: everything you type may as well be published, because it can be, by anyone, forever. Write accordingly, everywhere, including the "private" channels — the group chat is a room, and rooms leak.
 
 **Anger does not post.** The single highest-yield rule in the chapter. The apparatus is *engineered* for your worst moment — outrage is the highest-engagement emotion, so the feeds are tuned to produce it and the interfaces tuned to harvest it within seconds, before Chapter 6's chemistry can turn. The trained man's counter-architecture: the overnight rule (Chapter 6) applied to anything written in heat — drafted wherever it cannot send, sentenced to morning review, when its author is reliably a different man; the public argument entered only after the one question the medium is designed to prevent — *what could this exchange actually build?* — because the comment-thread debate persuades no one, performs for an audience of the already-decided, and bills you an evening of composure for a return of zero (the excellent man does not refuse all public disagreement — Chapter 13's craft can operate in writing — but he chooses it like a difficult conversation: rarely, deliberately, with a mission, and never with strangers whose entire aim is the provoking); and the correction of *himself* done gracefully when he errs in public — the plain "I got this wrong" post, undefended and un-deleted, which is Chapter 14's complete apology in miniature and roughly as rare online as it is commanding.
 
-**Privacy is a possession — yours and everyone's.** Two duties. Your own: the digital citizen curates what he publishes about his life not from paranoia but from Chapter 4 — the man who broadcasts everything has no interior left, and the interior is where the contained power lives; some victories go untold (Chapter 4's Monday drill was training for this), some of life stays *off the record on purpose*, and the record he does keep he audits occasionally with the recruiter's eye, because the world now reads a man's feed before it reads his face. Others': the photograph of a friend posted without asking, the children broadcast before they can consent to a childhood in public, the private message screenshotted outward, the location shared carelessly, the partner's interior exported for content (Chapter 38 made this covenant; here is its jurisdiction) — every one of these spends someone else's privacy as your currency, and the excellent man simply does not: *he asks before he posts people*, a courtesy so basic and so rare it functions as a signature.
+**Privacy is a possession — yours and everyone's.** Two duties. Your own: the digital citizen curates what he publishes about his life not from paranoia but from Chapter 4 — the man who broadcasts everything has no interior left, and the interior is where the contained power lives; some victories go untold (Chapter 4's Monday drill was training for this), some of life stays *off the record on purpose*, and the record he does keep he audits occasionally with the recruiter's eye, because the world now reads a man's feed before it reads his face. Others': the photograph of a friend posted without asking, the children broadcast before they can consent to a childhood in public, the private message screenshotted outward, the location shared carelessly, the partner's interior exported for content (Chapter 36 made this covenant; here is its jurisdiction) — every one of these spends someone else's privacy as your currency, and the excellent man simply does not: *he asks before he posts people*, a courtesy so basic and so rare it functions as a signature.
 
-**Presence over documentation.** And the deepest discipline, where Pascal's room returns. The device's most corrosive offer is not any single post but the standing invitation to convert *every lived moment into content about itself* — the dinner photographed before thanked, the concert watched through the recording of it, the sunset framed for strangers while the person beside you goes unseen. The excellent man's rule: **live first; document rarely; never let the record outrank the moment.** The phone stays away in company (Chapter 23 sentenced it; the sentence stands online), the experience gets his actual attention (Chapter 37 called this the whole art of love; it is the whole art of everything), and the feed's chief modern damage — the ambient comparison of your interior life against everyone else's exterior highlight reel, a rigged contest producing predictable misery — is met with the only winning move: playing less. Which returns us to the room. The man who can sit quietly in it — who trained on the cushion (Chapter 9), who can wait without reaching for the rectangle, who is not fleeing his own company at every red light — is not merely resisting an apparatus; he has repossessed the attention it was built to harvest, and everything in this book runs on exactly that reclaimed capital. Pascal, it turns out, was writing a systems manual.
+**Presence over documentation.** And the deepest discipline, where Pascal's room returns. The device's most corrosive offer is not any single post but the standing invitation to convert *every lived moment into content about itself* — the dinner photographed before thanked, the concert watched through the recording of it, the sunset framed for strangers while the person beside you goes unseen. The excellent man's rule: **live first; document rarely; never let the record outrank the moment.** The phone stays away in company (Chapter 23 sentenced it; the sentence stands online), the experience gets his actual attention (Chapter 35 called this the whole art of love; it is the whole art of everything), and the feed's chief modern damage — the ambient comparison of your interior life against everyone else's exterior highlight reel, a rigged contest producing predictable misery — is met with the only winning move: playing less. Which returns us to the room. The man who can sit quietly in it — who trained on the cushion (Chapter 9), who can wait without reaching for the rectangle, who is not fleeing his own company at every red light — is not merely resisting an apparatus; he has repossessed the attention it was built to harvest, and everything in this book runs on exactly that reclaimed capital. Pascal, it turns out, was writing a systems manual.
 
 ### III. The Practice
 
@@ -2095,17 +2009,19 @@ Pascal wrote the epigraph three and a half centuries before the smartphone, whic
 ---
 
 *End of Book VI — THE WORLD.*
-*Next: Book VII — THE GUARDIAN (Chapters 43–46).*
--e 
+*Next: Book VII — THE GUARDIAN (Chapters 41–44).*
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK VII — THE GUARDIAN
-### Chapters 43–46
+### Chapters 41–44
 
 ---
 ---
 
-## Chapter 43 — Avoiding the Fight
+## Chapter 41 — Avoiding the Fight
 
 > *"The supreme art of war is to subdue the enemy without fighting."*
 > — Sun Tzu, The Art of War
@@ -2153,7 +2069,7 @@ Honesty requires one more paragraph before the practice, because this manual doe
 ---
 ---
 
-## Chapter 44 — Foundations of Kung Fu
+## Chapter 42 — Foundations of Kung Fu
 
 > *"I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."*
 > — Bruce Lee
@@ -2180,7 +2096,7 @@ Bruce Lee's epigraph is quietly the whole of Chapter 9 wearing gloves: mastery i
 
 The tradition's deeper curriculum is character, and it is not incidental to the physical training — it *is* the physical training, viewed from a different angle. **Discipline**: the daily mat time kept whether or not motivation shows up, Chapter 9's never-twice rule, sweating. **Respect**: the bow to instructor and partner that begins and ends every session, a small ritual acknowledgment that this practice could hurt someone and is entered deliberately, with care, by two people who have agreed to trust each other with something dangerous. **And mastery of self before others**: the entire point of building the stick, per Chapter 4, is that it mostly never leaves the sheath. The practitioner who trains for years and grows calmer, more patient, slower to anger — this is the sign the art has taken. The one who grows more eager to test it in the world has missed the whole curriculum regardless of his belt color, and should not yet be trusted with what he has learned.
 
-A note on choosing a school, since the wrong one teaches the wrong lesson entirely: watch how the instructor speaks about using the art outside the school. A teacher who romanticizes street application, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 43's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the punches is teaching what this manual means by kung fu, whatever the style is actually called.
+A note on choosing a school, since the wrong one teaches the wrong lesson entirely: watch how the instructor speaks about using the art outside the school. A teacher who romanticizes street application, who cannot describe de-escalation as the actual first technique, is teaching a weapon divorced from Chapter 41's whole framework. A teacher who spends real class time on control, patience, and the philosophy underneath the punches is teaching what this manual means by kung fu, whatever the style is actually called.
 
 ### IV. The Practice
 
@@ -2193,7 +2109,7 @@ A note on choosing a school, since the wrong one teaches the wrong lesson entire
 ---
 ---
 
-## Chapter 45 — Foundations of Aikido
+## Chapter 43 — Foundations of Aikido
 
 > *"True victory is victory over oneself."*
 > (masakatsu agatsu)
@@ -2232,7 +2148,7 @@ The deepest teaching, and the one that closes this Book's circle back to its fir
 ---
 ---
 
-## Chapter 46 — The Protector
+## Chapter 44 — The Protector
 
 > *"Greater love hath no man than this, that a man lay down his life for his friends."*
 > — John 15:13
@@ -2251,11 +2167,11 @@ Recall the monkey king one final time before this Book closes. He did not train 
 
 **Emergency composure**, which is simply Chapter 6 under its highest possible load. The trained response to sudden crisis is not stillness of feeling — the surge will come regardless of training — but stillness of function: the breath found first, the assessment made honestly (is the scene itself safe, what is actually wrong, who else is present and useful), the loudest clearest instruction given to organize the bystanders who are frozen. Most people in an emergency are waiting for someone, anyone, to tell them what to do; be the one who does. And help summoned specifically rather than generally — "you, in the blue jacket, call emergency services and come back and tell me you did" outperforms a shouted "someone call for help" every time, because specificity converts a frightened crowd into a functioning team with assigned jobs.
 
-**Walking someone home,** the guardian's smallest and most frequently useful deployment: offered plainly, without making a production of anyone's vulnerability, and performed with the same relaxed vigilance trained in Chapter 43 — present, aware, unhurried, and entirely unremarkable, because the best protection is so calm it barely announces itself as protection at all. This is service, from Book VIII, wearing the Guardian's clothes: anticipating a need — safety — before it is voiced, and meeting it without ceremony.
+**Walking someone home,** the guardian's smallest and most frequently useful deployment: offered plainly, without making a production of anyone's vulnerability, and performed with the same relaxed vigilance trained in Chapter 41 — present, aware, unhurried, and entirely unremarkable, because the best protection is so calm it barely announces itself as protection at all. This is service, from Book VIII, wearing the Guardian's clothes: anticipating a need — safety — before it is voiced, and meeting it without ceremony.
 
 ### III. Trained for, Not Against
 
-One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapters 44 and 45, every reading skill in Chapter 43, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
+One closing correction, because it would be easy to mistake this entire Book's purpose without it stated directly: the guardian is not trained *against* people. He is trained *for* them — for the friend who needs a steady hand, the stranger who has fallen on the sidewalk, the room that has lost its composure and needs someone who hasn't. Every technique in Chapters 44 and 45, every reading skill in Chapter 41, exists so that when life asks the excellent man for calm competence under pressure, he has something real to offer instead of good intentions alone. That is the entire justification for building the stick in the first place — not to swing it, but to be the kind of man a frightened room is glad to discover is already standing in it.
 
 ### IV. The Practice
 
@@ -2269,17 +2185,19 @@ One closing correction, because it would be easy to mistake this entire Book's p
 ---
 
 *End of Book VII — THE GUARDIAN.*
-*Next: Book VIII — THE SERVICE (Chapters 47–48).*
--e 
+*Next: Book VIII — THE SERVICE (Chapters 45–46).*
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK VIII — THE SERVICE
-### Chapters 47–48
+### Chapters 45–46
 
 ---
 ---
 
-## Chapter 47 — The Butler's Discipline
+## Chapter 45 — The Butler's Discipline
 
 > *"I am among you as he that serveth."*
 > — Luke 22:27
@@ -2321,7 +2239,7 @@ The butler who is flustered, who name-drops his access to impress a stranger, wh
 ---
 ---
 
-## Chapter 48 — The Bond Standard
+## Chapter 46 — The Bond Standard
 
 > *"Never say 'no' to adventures. Always say 'yes' — otherwise you'll lead a very dull life."*
 > — Ian Fleming
@@ -2342,7 +2260,7 @@ This is the difference between the man who is charming at dinner parties and the
 
 ### III. Style as Armor, Manners as Weaponry
 
-The phrase is deliberately playful, and it makes a serious point: Book III's dress and Book II's speech are not decoration layered on top of competence — they are load-bearing components of it. A man who is impeccably put together and impeccably mannered enters every room with an advantage that has nothing to do with charm in the shallow sense and everything to do with visible preparation, which Chapter 51 will make explicit at the level of power itself. Style and manners are not the substitute for substance this book has warned against when they are hollow, performed by men with nothing underneath them. Married to real character — the character this manual's other eight Books have actually built — they become substance's delivery mechanism: the vehicle that lets competence arrive in a room already legible, already trusted, before a word of it has been demonstrated.
+The phrase is deliberately playful, and it makes a serious point: Book III's dress and Book II's speech are not decoration layered on top of competence — they are load-bearing components of it. A man who is impeccably put together and impeccably mannered enters every room with an advantage that has nothing to do with charm in the shallow sense and everything to do with visible preparation, which Chapter 49 will make explicit at the level of power itself. Style and manners are not the substitute for substance this book has warned against when they are hollow, performed by men with nothing underneath them. Married to real character — the character this manual's other eight Books have actually built — they become substance's delivery mechanism: the vehicle that lets competence arrive in a room already legible, already trusted, before a word of it has been demonstrated.
 
 ### IV. Restraint as the License
 
@@ -2360,18 +2278,20 @@ And the standard's final, essential correction, without which Bond becomes merel
 ---
 
 *End of Book VIII — THE SERVICE.*
-*Next: Book IX — THE CROWN (Chapters 49–52; Chapter 52, The Sleeper King, was written first and stands complete).*
--e 
+*Next: Book IX — THE CROWN (Chapters 47–50; Chapter 50, The Sleeper King, was written first and stands complete).*
 
+---
+---
 
+# THE EXCELLENT MAN
 # BOOK IX — THE CROWN
-### Chapters 49–51
-*(Chapter 52, The Sleeper King, was written first and closes the manual; it stands as its own file.)*
+### Chapters 47–49
+*(Chapter 50, The Sleeper King, was written first and closes the manual; it stands as its own file.)*
 
 ---
 ---
 
-## Chapter 49 — The Philosopher King
+## Chapter 47 — The Philosopher King
 
 > *"Until philosophers are kings... cities will never have rest from their evils."*
 > — Plato, The Republic, 473d
@@ -2388,7 +2308,7 @@ Plato states the corollary bluntly, in a line as relevant to a modern office or 
 
 Everyone remembers Plato's allegory of the cave: prisoners chained since birth, watching shadows flicker on a wall, mistaking the shadows for the whole of reality, until one is freed and dragged, protesting, into the blinding sun outside. Fewer remember what happens next, and it is the chapter's real teaching. The freed prisoner does not stay in the sunlight, however much he might prefer to. He goes back down — eyes now aching in the dark, movements clumsy among the chained who mock his stumbling, all his hard-won clarity temporarily useless in the gloom he has returned to. He goes anyway, because his qualification to lead the cave is exactly that he has seen something truer than its shadows and is willing to spend himself making it visible to those who haven't.
 
-This is Chapter 52's whole doctrine of descent, previewed here at its philosophical root, decades before this manual will complete the thought: the genuinely capable move down, not up, when leadership is required of them. The comfortable ascent — staying in the sunlight, keeping the clarity for oneself, retreating from those who don't yet see it — is the more natural motion and the lesser one. The discomfort of the return is the actual price of the fitness to rule at all, and a man who has never felt that particular discomfort has probably never yet led anyone anywhere that mattered.
+This is Chapter 50's whole doctrine of descent, previewed here at its philosophical root, decades before this manual will complete the thought: the genuinely capable move down, not up, when leadership is required of them. The comfortable ascent — staying in the sunlight, keeping the clarity for oneself, retreating from those who don't yet see it — is the more natural motion and the lesser one. The discomfort of the return is the actual price of the fitness to rule at all, and a man who has never felt that particular discomfort has probably never yet led anyone anywhere that mattered.
 
 ### III. The Notebook of a Working Philosopher King
 
@@ -2411,7 +2331,7 @@ The reader of this chapter very likely commands no armies and governs no city. T
 ---
 ---
 
-## Chapter 50 — Arthur & the Round Table
+## Chapter 48 — Arthur & the Round Table
 
 > *"Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England."*
 > — Sir Thomas Malory, Le Morte d'Arthur (1485)
@@ -2457,7 +2377,7 @@ What "royal lineage" actually transmits, once the crowns, blood claims, and cast
 ---
 ---
 
-## Chapter 51 — Power & Personal Politics
+## Chapter 49 — Power & Personal Politics
 
 > *"Knowledge is power."*
 > (Nam et ipsa scientia potestas est.)
@@ -2487,7 +2407,7 @@ The practical test the excellent man applies to his own conduct in any room with
 
 Every room with real power in it eventually grows flatterers, and the excellent man's composure from Chapter 6 is his primary defense against being quietly reshaped by them: he receives praise briefly, thanks the source genuinely, and returns his attention to the actual work at hand, exactly as Chapter 4 trained — because the flatterer's entire strategy depends on finding a leader who needs the flattery badly enough to start making decisions in order to keep receiving it. A man whose sense of his own worth was settled in Chapter 7's daily audit is simply a worse target for this particular manipulation than a man still searching for external confirmation of it.
 
-Rivals, meanwhile, are handled with the same clean respect trained throughout this manual — never with contempt, which Chapter 38 already identified as the single most corrosive force in any relationship, professional or otherwise — because the contained man wins the long game precisely by remaining someone everyone can eventually trust, including, and especially, the people who once stood opposed to him. Political victories purchased through humiliating a rival tend to convert that rival into a permanent adversary; political victories that leave a defeated rival's dignity intact quite often convert him, given enough time, into a future ally. The excellent man plays the longer game, because he has built, across fifty chapters, a character built to last long enough to see it through.
+Rivals, meanwhile, are handled with the same clean respect trained throughout this manual — never with contempt, which Chapter 36 already identified as the single most corrosive force in any relationship, professional or otherwise — because the contained man wins the long game precisely by remaining someone everyone can eventually trust, including, and especially, the people who once stood opposed to him. Political victories purchased through humiliating a rival tend to convert that rival into a permanent adversary; political victories that leave a defeated rival's dignity intact quite often convert him, given enough time, into a future ally. The excellent man plays the longer game, because he has built, across fifty chapters, a character built to last long enough to see it through.
 
 ### V. The Practice
 
@@ -2500,13 +2420,15 @@ Rivals, meanwhile, are handled with the same clean respect trained throughout th
 ---
 ---
 
-*End of Book IX's penultimate chapters. The manual now proceeds to its final chapter — Chapter 52, The Sleeper King — already written, which closes the book where it always intended to arrive.*
+*End of Book IX's penultimate chapters. The manual now proceeds to its final chapter — Chapter 50, The Sleeper King — already written, which closes the book where it always intended to arrive.*
 
 *THE MANUSCRIPT OF THE EXCELLENT MAN IS NOW COMPLETE: 52 chapters, nine Books, one arc — from the monkey king who serves and is struck, to the sleeper king who serves because he lacks nothing.*
--e 
 
+---
+---
 
-## Chapter 52 — The Sleeper King
+# THE EXCELLENT MAN
+## Chapter 50 — The Sleeper King
 
 > *"The kingdom of God cometh not with observation: neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."*
 > — Luke 17:20–21
@@ -2523,7 +2445,7 @@ The stories are not being coy. They are teaching the final lesson, the one this 
 
 **Sovereignty is a condition, not a position.**
 
-A position is granted by others and can be revoked by others. A condition is established within and can only be abandoned, never taken. Fifty-one chapters ago, a dying monkey said it to the man who had come to kill him: *it is not your rank that makes you king.* Everything between that page and this one — the composure, the speech, the bearing, the table, the courtship, the guarded strength — has been the slow construction of the condition. Now we can say plainly what it was all for.
+A position is granted by others and can be revoked by others. A condition is established within and can only be abandoned, never taken. Forty-nine chapters ago, a dying monkey said it to the man who had come to kill him: *it is not your rank that makes you king.* Everything between that page and this one — the composure, the speech, the bearing, the table, the courtship, the guarded strength — has been the slow construction of the condition. Now we can say plainly what it was all for.
 
 You were never training to be impressive. You were training to be *ready* — and then to walk among people as what the old tales would call a king in disguise, and what we will call the sleeper king: the one whose sovereignty is fully awake and completely unannounced.
 
@@ -2571,9 +2493,9 @@ Now go back to the beginning.
 
 A monkey stretches his body across a gap so his people can cross, and when the man he saved asks him why, he answers like a sovereign: *a king does not measure what his people cost him.* At the start of this book, that story was your instruction. Here at the end, it becomes your mirror — because you can finally see *why* the monkey king could do it.
 
-He was not being heroic. Heroism strains. He had simply stopped experiencing the eighty thousand as other than himself. The bridge was not a sacrifice; it was circulation — one part of a single body carrying another, the way your right hand bandages your left without drawing up a contract. The bodhisattva of Chapter 1 and the sleeper king of Chapter 52 are not two ideals. They are one being, described from outside and then from inside. From outside: a man of perfect conduct who serves without keeping score. From inside: no score *possible* — nothing on the other side of the ledger but his own face.
+He was not being heroic. Heroism strains. He had simply stopped experiencing the eighty thousand as other than himself. The bridge was not a sacrifice; it was circulation — one part of a single body carrying another, the way your right hand bandages your left without drawing up a contract. The bodhisattva of Chapter 1 and the sleeper king of Chapter 50 are not two ideals. They are one being, described from outside and then from inside. From outside: a man of perfect conduct who serves without keeping score. From inside: no score *possible* — nothing on the other side of the ledger but his own face.
 
-That is the whole manual. Fifty-two chapters ago you may have picked this book up wanting to be a gentleman — the suit, the composure, the handshake, the toast. Good. Keep all of it; excellence is not less practical for being holy. But know what you were actually assembling, blossom by plucked blossom: a vessel steady enough to hold the recognition, and a life shaped so that when the recognition comes, it has somewhere dignified to live.
+That is the whole manual. Fifty chapters ago you may have picked this book up wanting to be a gentleman — the suit, the composure, the handshake, the toast. Good. Keep all of it; excellence is not less practical for being holy. But know what you were actually assembling, blossom by plucked blossom: a vessel steady enough to hold the recognition, and a life shaped so that when the recognition comes, it has somewhere dignified to live.
 
 The world will not crown you. That is not an oversight. That is the design. The sword stays in the stone precisely so that pulling it proves nothing to anyone but you — and you are the only witness whose verdict was ever required.
 
@@ -2614,3 +2536,6 @@ Walk quietly. You know what you carry.
 
 *A king does not measure what his people cost him.*
 
+---
+
+*THE MANUSCRIPT OF THE EXCELLENT MAN IS NOW COMPLETE: 50 chapters, nine Books, one arc — from the monkey king who serves and is struck, to the sleeper king who serves because he lacks nothing.*

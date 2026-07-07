@@ -1,5 +1,5 @@
 # THE EXCELLENT MAN
-## Chapter 52 — The Sleeper King
+## Chapter 50 — The Sleeper King
 
 > *"The kingdom of God cometh not with observation: neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."*
 > — Luke 17:20–21
@@ -16,7 +16,7 @@ The stories are not being coy. They are teaching the final lesson, the one this 
 
 **Sovereignty is a condition, not a position.**
 
-A position is granted by others and can be revoked by others. A condition is established within and can only be abandoned, never taken. Fifty-one chapters ago, a dying monkey said it to the man who had come to kill him: *it is not your rank that makes you king.* Everything between that page and this one — the composure, the speech, the bearing, the table, the courtship, the guarded strength — has been the slow construction of the condition. Now we can say plainly what it was all for.
+A position is granted by others and can be revoked by others. A condition is established within and can only be abandoned, never taken. Forty-nine chapters ago, a dying monkey said it to the man who had come to kill him: *it is not your rank that makes you king.* Everything between that page and this one — the composure, the speech, the bearing, the table, the courtship, the guarded strength — has been the slow construction of the condition. Now we can say plainly what it was all for.
 
 You were never training to be impressive. You were training to be *ready* — and then to walk among people as what the old tales would call a king in disguise, and what we will call the sleeper king: the one whose sovereignty is fully awake and completely unannounced.
 
@@ -64,9 +64,9 @@ Now go back to the beginning.
 
 A monkey stretches his body across a gap so his people can cross, and when the man he saved asks him why, he answers like a sovereign: *a king does not measure what his people cost him.* At the start of this book, that story was your instruction. Here at the end, it becomes your mirror — because you can finally see *why* the monkey king could do it.
 
-He was not being heroic. Heroism strains. He had simply stopped experiencing the eighty thousand as other than himself. The bridge was not a sacrifice; it was circulation — one part of a single body carrying another, the way your right hand bandages your left without drawing up a contract. The bodhisattva of Chapter 1 and the sleeper king of Chapter 52 are not two ideals. They are one being, described from outside and then from inside. From outside: a man of perfect conduct who serves without keeping score. From inside: no score *possible* — nothing on the other side of the ledger but his own face.
+He was not being heroic. Heroism strains. He had simply stopped experiencing the eighty thousand as other than himself. The bridge was not a sacrifice; it was circulation — one part of a single body carrying another, the way your right hand bandages your left without drawing up a contract. The bodhisattva of Chapter 1 and the sleeper king of Chapter 50 are not two ideals. They are one being, described from outside and then from inside. From outside: a man of perfect conduct who serves without keeping score. From inside: no score *possible* — nothing on the other side of the ledger but his own face.
 
-That is the whole manual. Fifty-two chapters ago you may have picked this book up wanting to be a gentleman — the suit, the composure, the handshake, the toast. Good. Keep all of it; excellence is not less practical for being holy. But know what you were actually assembling, blossom by plucked blossom: a vessel steady enough to hold the recognition, and a life shaped so that when the recognition comes, it has somewhere dignified to live.
+That is the whole manual. Fifty chapters ago you may have picked this book up wanting to be a gentleman — the suit, the composure, the handshake, the toast. Good. Keep all of it; excellence is not less practical for being holy. But know what you were actually assembling, blossom by plucked blossom: a vessel steady enough to hold the recognition, and a life shaped so that when the recognition comes, it has somewhere dignified to live.
 
 The world will not crown you. That is not an oversight. That is the design. The sword stays in the stone precisely so that pulling it proves nothing to anyone but you — and you are the only witness whose verdict was ever required.
 
@@ -83,27 +83,4 @@ Walk quietly. You know what you carry.
 ### The Line
 
 *Sovereignty is a condition, not a position — and the kingdom is already within you.*
-
----
----
-
-## APPENDIX A — THE ONE-PAGE CODE
-### The Whole Manual on a Single Sheet
-
-**MIND** — My conduct is set by who I am, not by what they did. I hold the bridge.
-**POWER** — I speak softly and keep the stick sheathed. My strength is measured by what it never has to do.
-**AMPLIFIER** — The stronger I become, the more constructive I must become.
-**WORD** — Before I speak: is it true, is it kind, is it necessary, is it now? My yes is whole. My no is clean. My word is bond.
-**BODY** — Clean, strong, upright, unhurried. The vehicle honors the driver.
-**DRESS** — I dress for respect of the occasion, not display of the self.
-**COMPANY** — My first job in every room: make others comfortable. I arrive on time, I connect people, I am never the story.
-**TABLE** — I host so that everyone else has the night. Light low, music right, glasses full enough.
-**COMPANION** — Two sovereigns, or nothing. I court in daylight, exit with grace, and put the beloved before myself — and lose nothing by it.
-**WORLD** — Everywhere I go, I am the guest. I learn ten words, follow the local lead, and leave it better.
-**GUARDIAN** — I train so the fight never happens. The best victory is the exit. I protect; I do not punish.
-**SERVICE** — I anticipate. I keep small things perfectly. Serving is the strongest position in the house.
-**STUDENT** — One hour, every day, forever. The appetite for learning is the one hunger I feed without limit.
-**CROWN** — I descend on purpose. I need nothing from the room. The kingdom is within me — not earned, not chosen: recognized.
-
-*A king does not measure what his people cost him.*
 

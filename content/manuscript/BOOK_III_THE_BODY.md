@@ -228,4 +228,4 @@ Two rules of navigation complete the map. Reading the occasion: the invitation f
 ---
 
 *End of Book III — THE BODY.*
-*Next: Book IV — THE COMPANY (Chapters 23–32).*
+*Next: Book IV — THE COMPANY (Chapters 23–30).*

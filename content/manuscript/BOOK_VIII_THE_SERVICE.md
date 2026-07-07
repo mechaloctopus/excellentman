@@ -1,11 +1,11 @@
 # THE EXCELLENT MAN
 # BOOK VIII — THE SERVICE
-### Chapters 47–48
+### Chapters 45–46
 
 ---
 ---
 
-## Chapter 47 — The Butler's Discipline
+## Chapter 45 — The Butler's Discipline
 
 > *"I am among you as he that serveth."*
 > — Luke 22:27
@@ -47,7 +47,7 @@ The butler who is flustered, who name-drops his access to impress a stranger, wh
 ---
 ---
 
-## Chapter 48 — The Bond Standard
+## Chapter 46 — The Bond Standard
 
 > *"Never say 'no' to adventures. Always say 'yes' — otherwise you'll lead a very dull life."*
 > — Ian Fleming
@@ -68,7 +68,7 @@ This is the difference between the man who is charming at dinner parties and the
 
 ### III. Style as Armor, Manners as Weaponry
 
-The phrase is deliberately playful, and it makes a serious point: Book III's dress and Book II's speech are not decoration layered on top of competence — they are load-bearing components of it. A man who is impeccably put together and impeccably mannered enters every room with an advantage that has nothing to do with charm in the shallow sense and everything to do with visible preparation, which Chapter 51 will make explicit at the level of power itself. Style and manners are not the substitute for substance this book has warned against when they are hollow, performed by men with nothing underneath them. Married to real character — the character this manual's other eight Books have actually built — they become substance's delivery mechanism: the vehicle that lets competence arrive in a room already legible, already trusted, before a word of it has been demonstrated.
+The phrase is deliberately playful, and it makes a serious point: Book III's dress and Book II's speech are not decoration layered on top of competence — they are load-bearing components of it. A man who is impeccably put together and impeccably mannered enters every room with an advantage that has nothing to do with charm in the shallow sense and everything to do with visible preparation, which Chapter 49 will make explicit at the level of power itself. Style and manners are not the substitute for substance this book has warned against when they are hollow, performed by men with nothing underneath them. Married to real character — the character this manual's other eight Books have actually built — they become substance's delivery mechanism: the vehicle that lets competence arrive in a room already legible, already trusted, before a word of it has been demonstrated.
 
 ### IV. Restraint as the License
 
@@ -86,4 +86,4 @@ And the standard's final, essential correction, without which Bond becomes merel
 ---
 
 *End of Book VIII — THE SERVICE.*
-*Next: Book IX — THE CROWN (Chapters 49–52; Chapter 52, The Sleeper King, was written first and stands complete).*
+*Next: Book IX — THE CROWN (Chapters 47–50; Chapter 50, The Sleeper King, was written first and stands complete).*
