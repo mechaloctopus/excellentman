@@ -55,7 +55,7 @@ Most human misery is a lawsuit filed against this law.
 
 *I gave and gave and got nothing back.* Check the currency — you may have been repaid in kind and been watching for coin. Or check the sowing — resentful giving is resentment sown, and resentment is what it returns. *He wronged me and prospered.* Give it time and widen the lens; you are reading one page of a ledger that runs for volumes, and you cannot see his interior balance from where you sit — the account where his prosperity is being spent on becoming him. *Life isn't fair.* At the level of any single afternoon, correct. At the level of a whole life sown and reaped, the law is disturbingly fair, which is precisely why it frightens people into denying it.
 
-The excellent man ends the lawsuit. This is what "harmony" means in this book — not passivity, not pretending to like everything, but the deep exhale of a man who has stopped demanding that the exchange be other than perfectly equal. Once you accept the equality, your entire strategy simplifies into a single move, executable in every situation you will ever be in:
+End the lawsuit. This is what "harmony" means in this book — not passivity, not pretending to like everything, but the deep exhale of a man who has stopped demanding that the exchange be other than perfectly equal. Once you accept the equality, your entire strategy simplifies into a single move, executable in every situation you will ever be in:
 
 **Mind what you put out. That is the whole game. The return handles itself.**
 
@@ -103,7 +103,7 @@ The tradition did not leave the ideal as poetry; it engineered a training method
 
 **Compassion (karuṇā)** is loving-kindness meeting pain: *may your suffering ease* — backed, where possible, by your hands. The counterfeit is pity, which looks down; compassion stands level. The bodhisattva's move is always level or below: he descends to where the suffering is (remember the direction of true sovereignty).
 
-**Sympathetic joy (muditā)** is the rarest room, and the one that most sharply separates the excellent man from the crowd: *gladness at another's good fortune.* Envy is so common we assume it is natural law — someone rises and something in us tightens. Muditā is the trained reversal: someone rises and you *genuinely* rise with them. Master this one room and you acquire a superpower with a very practical face: every success in your vicinity becomes your nourishment instead of your poison. The envious man is starving in a banquet hall. The man of muditā cannot walk down the street without being fed.
+**Sympathetic joy (muditā)** is the rarest room, and the one that most sharply separates the trained heart from the crowd: *gladness at another's good fortune.* Envy is so common we assume it is natural law — someone rises and something in us tightens. Muditā is the trained reversal: someone rises and you *genuinely* rise with them. Master this one room and you acquire a superpower with a very practical face: every success in your vicinity becomes your nourishment instead of your poison. The envious man is starving in a banquet hall. The man of muditā cannot walk down the street without being fed.
 
 **Equanimity (upekkhā)** is the floor the other three rooms stand on: steadiness whether the giving is received, refused, or repaid with a rock. It is what let the monkey king guide his attacker out of the forest. Without equanimity, generosity burns out the first time it is betrayed. With it, generosity becomes weatherproof.
 
@@ -227,7 +227,7 @@ Then you gain a little standing, and the physics quietly change. Now your critic
 
 Climb further — leadership, parenthood, wealth, reputation, or (the modern amplifier handed out free at the door) an audience online — and the requirement goes vertical. A parent's careless verdict on a child — *you're the lazy one* — installs itself as the child's inner narrator for thirty years. A leader's contempt for a subordinate licenses a whole floor to practice contempt; cruelty is the most contagious management style ever devised. A famous man's casual sneer reaches a million strangers, among them some thousands having the worst day of their lives. At this altitude, there is no such thing as a throwaway remark. The amplifier does not honor your intentions; it honors only the signal.
 
-The excellent man accepts this sliding scale *in advance* — that is the move. He does not wait to be humbled by a disaster of his own wattage. He audits himself the way a growing broadcaster audits content: what was fine on a small station is reviewed again at every increase in reach. The question he installs permanently is: *at my current power, what does this word, this mood, this joke actually do downstream?*
+Accept this sliding scale *in advance* — that is the move. He does not wait to be humbled by a disaster of his own wattage. He audits himself the way a growing broadcaster audits content: what was fine on a small station is reviewed again at every increase in reach. The question he installs permanently is: *at my current power, what does this word, this mood, this joke actually do downstream?*
 
 ### III. Constructive Is Not Soft
 
@@ -241,7 +241,7 @@ The disciplines of constructive power, briefly — Book II will train each in fu
 
 **Own your weather.** The powerful man's moods are infrastructure; other people live inside them. He does not get to "just be in a mood" at the office or the dinner table any more than a bridge gets to just feel like wobbling today. This does not mean suppressing emotion — it means processing it *upstream*, in the practices of Chapter 9, so that what reaches others is signal he has chosen. Anger acknowledged and aimed — "I'm frustrated, here's specifically why, here's what needs to change" — builds. Anger leaked — sighs, slammed drawers, sarcasm, the cold front — only teaches everyone to fear your weather and hide their problems from you, which is how powerful men end up the last to know everything.
 
-**Spend your wattage deliberately.** Finally, the positive corollary, which is where this principle turns from burden into privilege: the amplifier multiplies the *good* signal too. The same standing that makes your contempt devastating makes your encouragement life-altering. A respected man's two sentences of specific, earned praise — *I watched how you handled that; that was excellent work* — can fund a young person's confidence for a decade. It costs the powerful man thirty seconds. There is no better return available anywhere, at any exchange, in any market. The excellent man, knowing his wattage, goes around deliberately *spending* it this way — a philanthropist of the amplified word.
+**Spend your wattage deliberately.** Finally, the positive corollary, which is where this principle turns from burden into privilege: the amplifier multiplies the *good* signal too. The same standing that makes your contempt devastating makes your encouragement life-altering. A respected man's two sentences of specific, earned praise — *I watched how you handled that; that was excellent work* — can fund a young person's confidence for a decade. It costs the powerful man thirty seconds. There is no better return available anywhere, at any exchange, in any market. The man who knows his wattage goes around deliberately *spending* it this way — a philanthropist of the amplified word.
 
 ### IV. The Practice
 
@@ -267,7 +267,7 @@ Before you have said a word, every room you enter has already taken your measure
 
 Composure is the quality that decides the verdict, and this chapter treats it as what it actually is: not a temperament some men are born with, but a *skill* — trainable, physical, and precise. James Bond at the baccarat table, having just lost everything, ordering another drink with a steady hand; the butler announcing calmly that dinner will be delayed twenty minutes while behind him the kitchen is on fire; the surgeon's flat voice as the monitors start screaming — these are not personalities. They are the visible surface of a trained nervous system. And the training is available to you.
 
-Why does it matter so much? Because composure is the *load-bearing wall* of everything else in this manual. Your right speech (Chapter 11) collapses the moment panic writes your sentences. Your contained power (Chapter 4) collapses the moment a provocation finds your button. Your hosting, your courtship, your de-escalation, your leadership — every one of them is only as good as it remains under pressure, and pressure is guaranteed. An excellent man who loses himself when it counts is a fair-weather instrument. Nobody builds on fair-weather instruments.
+Why does it matter so much? Because composure is the *load-bearing wall* of everything else in this manual. Your right speech (Chapter 11) collapses the moment panic writes your sentences. Your contained power (Chapter 4) collapses the moment a provocation finds your button. Your hosting, your courtship, your de-escalation, your leadership — every one of them is only as good as it remains under pressure, and pressure is guaranteed. A man who loses himself when it counts is a fair-weather instrument. Nobody builds on fair-weather instruments.
 
 ### II. The Machinery of Calm
 
@@ -327,7 +327,7 @@ Every chapter of this manual depends on one instrument: your own judgment. You w
 
 This is not a personal defect; it is standard human equipment. The mind is a superb lawyer and a terrible judge — it does not weigh the evidence about you; it *represents* you. Given a failure, it drafts the exculpating narrative before you have finished flinching: the timing was bad, the other party was worse, you meant well. Given a success, it quietly reassigns the luck to skill. Given a criticism, it audits the critic's tone, motives, and haircut before considering the content. Every man is the hero of his own account, and the account is being written by his own press office.
 
-The excellent man does not pretend to be free of this — pretending would be the machinery working perfectly. Instead he does what every serious profession does with a biased instrument: he *calibrates* it, deliberately, against external references, on a schedule. That calibration has two names. Turned inward, it is self-honesty. Worn outward, it is humility. They are the same discipline seen from two sides, and this chapter installs both.
+He does not pretend to be free of this — pretending would be the machinery working perfectly. Instead he does what every serious profession does with a biased instrument: he *calibrates* it, deliberately, against external references, on a schedule. That calibration has two names. Turned inward, it is self-honesty. Worn outward, it is humility. They are the same discipline seen from two sides, and this chapter installs both.
 
 ### II. The Daily Audit
 
@@ -383,7 +383,7 @@ And hold the paradox the masters all report: the calibrated instrument reads *hi
 
 Every appetite in this book gets governed — food, drink, anger, applause, desire. Every one is trained toward restraint, proportion, contained power.
 
-Except one. This chapter exists to name the single appetite the excellent man feeds without limit, deliberately inflames, and carries to his grave still hungry: **the appetite to learn.**
+Except one. This chapter exists to name the single appetite a man should feed without limit, deliberately inflame, and carry to his grave still hungry: **the appetite to learn.**
 
 It has always been the royal appetite — literally. Strip away the pageantry from the education of princes across every civilization and you find the same conviction underneath: the one who would lead must be *built*, deliberately, through years of curated instruction. Alexander got Aristotle himself. Cyrus's education was so famous that Xenophon's account of it became the leadership manual of the ancient world, studied by everyone from Roman generals to the American founders. Arthur — in the legend this book will visit at its summit — got Merlyn, who taught him by turning him into hawks and ants and badgers, because the education of a king is the education of *perspective*. The Renaissance prince got the trivium — grammar, logic, rhetoric: how language works, how thought works, how persuasion works — the three tools with which every other subject is opened. The young aristocrat got the Grand Tour: a year or two of travel through the great cities, because some things can only be learned by standing in front of them.
 

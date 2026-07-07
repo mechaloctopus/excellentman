@@ -24,6 +24,7 @@ const order = [
   'BOOK_IX_THE_CROWN_49-51.md',
   'CH52_The_Sleeper_King.md',
   'APPENDIX_A.md',
+  'APPENDIX_B.md',
 ];
 
 const sections = order.map(read);
