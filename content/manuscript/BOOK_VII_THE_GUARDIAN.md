@@ -140,4 +140,4 @@ One closing correction, because it would be easy to mistake this entire Book's p
 ---
 
 *End of Book VII — THE GUARDIAN.*
-*Next: Book VIII — THE SERVICE (Chapters 45–46).*
+*Next: Book VIII — THE SERVICE (Chapters 44–46).*

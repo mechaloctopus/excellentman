@@ -1201,9 +1201,13 @@ And now the half of the physical standard that the ambitious reliably get exactl
 
 So the standard treats sleep as the keystone Chapter 9 named it: a *defended appointment* of seven to nine hours — with a fixed wake time as the anchor (the body sets its clocks by the morning), a retreat that begins before the bed (screens dimmed and distanced in the final hour, the bedroom cool, dark, and reserved for its two proper uses), caffeine given a curfew in the early afternoon, and alcohol understood truthfully (Chapter 28 will elaborate: it sedates, which is not sleep, and the trade is visible in the morning's quality). Recovery beyond sleep follows the same logic in smaller coin: the rest day honored as training (it is — the building day), the walk and the stretch on the sore morning, the periodic week taken deliberately easier. None of this is softness. It is *maintenance of the instrument* — and a man who would never redline an engine he respected should extend his own machinery the same professional courtesy.
 
-### V. The Practice
+### V. The Checkup He Keeps Avoiding
 
-**This week: establish the floor.** Test yourself honestly against the capability standard, and write the findings in the audit: the stairs at speed, the thirty-minute brisk walk, the floor gotten down to and up from without hands, the heaviest thing in your home carried across it. No shame in any result — Chapter 7 built you an instrument that can record without flinching — but no fog either: a baseline, dated. Then install the minimum dose on the calendar by the Rule: strength twice, endurance base daily, the ten mobility minutes chained to something immovable. And defend the keystone for seven consecutive nights: fixed wake time, screens exiled for the final hour, the full allotment attempted. One week proves nothing except the only thing that matters: what the floor *feels* like. After that, you will know when you are below it.
+One more discipline belongs on this floor, precisely because it is the one the otherwise-disciplined man skips: the doctor, seen on a schedule, before anything hurts. The pattern is common enough to have a shape: a man will track his lifts to the pound and still not know his own blood pressure, will optimize his sleep and skip the dentist two years running, will treat a persistent symptom as an inconvenience to be willed away rather than data to be checked — the eternal student of Chapter 8, who studies everything, quietly exempting his own body from the curriculum out of a mix of busyness and a faint, unexamined fear of what the numbers might say. This is Chapter 7's instrument problem again, wearing a paper gown: the annual physical, the dental cleaning, the dermatologist's look at a changing mole, the blood panel that catches the treatable problem a decade before it becomes the untreatable one — none of it optional, all of it routinely deferred by men who would never let a car go that long unserviced. Book it the way Chapter 9 books anything that matters: on the calendar, on a schedule, decided once, defended against the mood that would rather not know.
+
+### VI. The Practice
+
+**This week: establish the floor.** Test yourself honestly against the capability standard, and write the findings in the audit: the stairs at speed, the thirty-minute brisk walk, the floor gotten down to and up from without hands, the heaviest thing in your home carried across it. No shame in any result — Chapter 7 built you an instrument that can record without flinching — but no fog either: a baseline, dated. Then install the minimum dose on the calendar by the Rule: strength twice, endurance base daily, the ten mobility minutes chained to something immovable. And defend the keystone for seven consecutive nights: fixed wake time, screens exiled for the final hour, the full allotment attempted. Book the checkup you've been deferring — today, even just the call to schedule it. One week proves nothing except the only thing that matters: what the floor *feels* like. After that, you will know when you are below it.
 
 ### The Line
 
@@ -1436,6 +1440,8 @@ Brillat-Savarin — the witty French judge whose meditations on the table remain
 
 And name the payoff honestly, because it explains why a good host hosts *regularly* rather than annually: the host is the one who creates the commons. Friendships in adult life die principally of logistics — everyone willing, no one convening. The man with a table and the habit of filling it becomes, quietly, the keystone of his whole circle's social architecture: the one at whose house the friendships actually happen, the one who introduced everyone who now knows each other. Priya Parker's modern rule names the spirit: gather *on purpose* — an evening has a reason, even a small one, and the host who knows his reason makes a hundred small decisions correctly by it.
 
+But convening is only half of it, and the other half needs saying plainly, because it is where men specifically tend to fail: adult male friendship, left unattended, thins to nothing by fifty, and the culture's statistics on midlife male loneliness are not an abstraction — they are the compounded interest of a thousand un-returned calls. Hosting solves the group; it does not solve the friend who has quietly gone a year without hearing from anyone who once called him close. That requires the smaller, less glamorous discipline of reaching out with no occasion attached: the call rather than the text (Chapter 16's channel ladder applies to friendship as much as to conflict — a voice costs more and means more), placed for no reason except that the thought occurred, on a rhythm he decides and defends rather than waits for the other man to set. Chapter 9's architecture again: a standing dinner with the same three friends, monthly, decided once; the birthday remembered without a calendar app's prompt; the "thinking of you" sent before the crisis, not only after it. A man does not have to wait to be the one hosting to be the one who reaches out first.
+
 ### II. The Production
 
 **The design.** The guest list is the menu that matters most: mix familiars with one or two new threads (all-strangers is work; all-old-friends is pleasant but closed), balance the talkers and the listeners, and invite *at* people's intersections — "you two both..." is the evening's seed stock. Size to your rooms and your reason: six to eight is the dinner conversation's sweet spot (one conversation, whole table); beyond ten the party physics change and the host's job becomes circulation, not conversation. Invite with the courtesies you would want: real notice (a week minimum for dinner), the particulars stated plainly — time, dress register if it needs saying, "dinner" versus "drinks" (the guest fed at home by ambiguity forgives slowly) — and the allergy question *asked*, which is the modern host's mark of professionalism.
@@ -1450,7 +1456,7 @@ And name the payoff honestly, because it explains why a good host hosts *regular
 
 ### III. The Practice
 
-**This month: convene.** Host one dinner, six to eight souls, designed to this chapter: a reason, a hooked guest list with one new thread, invitations with full particulars and the allergy question, a rehearsed menu mostly done before the knock, placed seating, the first-twenty-minutes protocol run in full, and the door-walked farewells. Take the note afterward. Then — the real assignment — put the *next* one on the calendar before the month ends, because the practice is the recurrence: one table, kept warm, is a lifetime social architecture. Someone in your circle has to be the convener. This book has been building him.
+**This month: convene.** Host one dinner, six to eight souls, designed to this chapter: a reason, a hooked guest list with one new thread, invitations with full particulars and the allergy question, a rehearsed menu mostly done before the knock, placed seating, the first-twenty-minutes protocol run in full, and the door-walked farewells. Take the note afterward. Then — the real assignment — put the *next* one on the calendar before the month ends, because the practice is the recurrence: one table, kept warm, is a lifetime social architecture. Someone in your circle has to be the convener. This book has been building him. And separately, this week: call — not text — one friend you have let drift, for no reason but the thought of him. No occasion required. That is the other half of this chapter, and it costs ten minutes.
 
 ### The Line
 
@@ -1720,6 +1726,8 @@ The manual uses the old word deliberately. *Courting* — against "talking to," 
 ### III. The Craft of the Court
 
 **The date is hosting** — Chapter 25, scaled to two. He who invites, designs: a real plan (the "idk what do you want to do" opener delegates the hosting to the guest — an abdication before the door), built for *conversation* (the classic first-date failure is the spectacle date — the loud venue, the movie — which prevents the entire purpose; a walk, a market, a quiet table outperform every production), with logistics absorbed (the reservation made, the timing considered, the backup held for weather) and communicated (time, place, register of dress — Chapter 22's courtesy). He arrives groomed and punctual (Books III and IV report for duty), phone away for the duration without announcement, and runs the evening on Chapter 15's engine: *make her the interesting one* — threads pulled, second questions asked, her actual person attended to rather than her audition assessed. On the bill: the man who invited, pays — not as ideology but as hosting (the inviter of a guest does not split the hospitality); her offer to contribute is received as the courtesy it is and declined once, warmly, or accepted gracefully if she insists — this negotiation is thirty seconds and no hill worth anyone's evening. And afterward, the fog is refused one more time: if he wants to see her again, *he says so, that night or the next day, in words* — "I had a wonderful time; I want to do this again" — and if he doesn't, Chapter 34 will train the honest close. What he never does is the modern mean: the warm evening followed by strategic silence, the three-day-rule games, the interest metered out for leverage. Games are the fog with intent added. His entire brand is the opposite weather.
+
+**The app is an introduction, not a courtship.** Most modern courtship now begins on a screen, and the chapter's whole doctrine applies there with zero exceptions, though the terrain rewards saying so directly. The profile is written honestly rather than aspirationally — recent photographs, a real accounting of what he's actually available for (Section II's audit, made public in miniature) — because a profile that markets a man his date has not yet met is a fraud discovered within the hour and remembered past the hour. The messaging itself is kept short and aimed entirely at one outcome: a real date, proposed specifically, within the first handful of exchanges — because the fog has found its ideal habitat in the endless text thread that never quite becomes a plan, the "hey" that goes nowhere for a week, the parallel conversations run with six people at once in place of one conversation run with someone. A man legible on an app closes it quickly, on purpose: he is there to meet someone, not to conduct correspondence, and he says so with his actions, not merely his words.
 
 **Patience is the pace of respect.** Courtship has a tempo, and the trained man lets it be set by *the slower party's genuine comfort* — in intimacy above all, where the standing law is Chapter 31's grammar at full stakes: everything invited, nothing presumed, enthusiasm the only yes that counts, and any hesitation read the first time as the answer it is. But patience governs the emotional pace too: the rush to define, to claim, to accelerate past what has actually grown is its own pressure, and the fruit ripened by force is the fruit that never sweetens. Enthusiasm without hurry; interest without grip. The paradox the anxious never learn: the secure pace *is* the attractive one — Chapter 4's unhurried man, courting.
 
@@ -2040,7 +2048,7 @@ Pascal wrote the epigraph three and a half centuries before the smartphone, whic
 ---
 
 *End of Book VI — THE WORLD.*
-*Next: Book VII — THE GUARDIAN (Chapters 41–44).*
+*Next: Book VII — THE GUARDIAN (Chapters 41–43).*
 
 ---
 ---
@@ -2187,7 +2195,7 @@ One closing correction, because it would be easy to mistake this entire Book's p
 ---
 
 *End of Book VII — THE GUARDIAN.*
-*Next: Book VIII — THE SERVICE (Chapters 45–46).*
+*Next: Book VIII — THE SERVICE (Chapters 44–46).*
 
 ---
 ---
@@ -2464,8 +2472,6 @@ Rivals, meanwhile, are handled with the same clean respect trained throughout th
 
 *End of Book IX's penultimate chapters. The manual now proceeds to its final chapter — Chapter 50, The Sleeper King — already written, which closes the book where it always intended to arrive.*
 
-*THE MANUSCRIPT OF THE EXCELLENT MAN IS NOW COMPLETE: 52 chapters, nine Books, one arc — from the monkey king who serves and is struck, to the sleeper king who serves because he lacks nothing.*
-
 ---
 ---
 
@@ -2619,7 +2625,7 @@ This is not a complete bibliography of everything this manual draws on — a ful
 - Sun Tzu, *The Art of War* — read for the parts about winning without fighting, which are most of it and the least quoted part of it.
 
 **Book VIII — The Service**
-- Charles MacPherson, *The Butler's Guide* — a contemporary professional's account of the household discipline behind Chapter 45.
+- Charles MacPherson, *The Butler's Guide* — a contemporary professional's account of the household discipline behind Chapter 44.
 - Ian Fleming, the Bond novels themselves, not only the films — colder, sparer, and closer to Chapter 46's actual argument than their adaptations.
 
 **Book IX — The Crown**

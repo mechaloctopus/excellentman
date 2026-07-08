@@ -140,5 +140,3 @@ Rivals, meanwhile, are handled with the same clean respect trained throughout th
 ---
 
 *End of Book IX's penultimate chapters. The manual now proceeds to its final chapter — Chapter 50, The Sleeper King — already written, which closes the book where it always intended to arrive.*
-
-*THE MANUSCRIPT OF THE EXCELLENT MAN IS NOW COMPLETE: 52 chapters, nine Books, one arc — from the monkey king who serves and is struck, to the sleeper king who serves because he lacks nothing.*

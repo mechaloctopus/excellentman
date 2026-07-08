@@ -36,7 +36,7 @@ This is not a complete bibliography of everything this manual draws on — a ful
 - Sun Tzu, *The Art of War* — read for the parts about winning without fighting, which are most of it and the least quoted part of it.
 
 **Book VIII — The Service**
-- Charles MacPherson, *The Butler's Guide* — a contemporary professional's account of the household discipline behind Chapter 45.
+- Charles MacPherson, *The Butler's Guide* — a contemporary professional's account of the household discipline behind Chapter 44.
 - Ian Fleming, the Bond novels themselves, not only the films — colder, sparer, and closer to Chapter 46's actual argument than their adaptations.
 
 **Book IX — The Crown**

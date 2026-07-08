@@ -154,4 +154,4 @@ Pascal wrote the epigraph three and a half centuries before the smartphone, whic
 ---
 
 *End of Book VI — THE WORLD.*
-*Next: Book VII — THE GUARDIAN (Chapters 41–44).*
+*Next: Book VII — THE GUARDIAN (Chapters 41–43).*
