@@ -222,6 +222,7 @@ function layout({ title, description, bodyClass, content, isRead }) {
 <div class="progress-bar" id="progressBar"></div>
 ${content}
 <script src="${assetPrefix}assets/app.js"></script>
+<script src="https://mechaloctopus.github.io/Precision/assets/badge.js" data-work="excellentman" data-theme="light" data-position="right" defer></script>
 </body>
 </html>`;
 }
